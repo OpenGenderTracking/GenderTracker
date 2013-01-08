@@ -1,0 +1,7 @@
+articles:
+  path: data/articles
+
+collections:
+  globalvoices: 
+    path: data/globalvoices
+    filename: globalvoicesonline.wordpress.2011-jan-feb.xml
