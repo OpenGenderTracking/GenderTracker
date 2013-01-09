@@ -5,5 +5,50 @@
   "original_body": "<a href=\"http://africanlens.com/\">African Lens </a>is a project that seeks to tell the story of Africa through visual elements which captures the essence of everyday lives: \"Content is contributed by you and photojournalists who travel across the continent.\"",
   "title": "Africa: Visual Representation of Africa",
   "byline": "ndesanjo macha",
-  "pub_date": "2011-01-12T13:59:35Z"
+  "pub_date": "2011-01-12T13:59:35Z",
+  "decompositions": {
+    "sentence": [
+      "African Lens is a project that seeks to tell the story of Africa through visual elements which captures the essence of everyday lives: \"Content is contributed by you and photojournalists who travel across the continent.\""
+    ],
+    "tokens": [
+      "African",
+      "Lens",
+      "is",
+      "a",
+      "project",
+      "that",
+      "seeks",
+      "to",
+      "tell",
+      "the",
+      "story",
+      "of",
+      "Africa",
+      "through",
+      "visual",
+      "elements",
+      "which",
+      "captures",
+      "the",
+      "essence",
+      "of",
+      "everyday",
+      "lives",
+      ":",
+      "\"",
+      "Content",
+      "is",
+      "contributed",
+      "by",
+      "you",
+      "and",
+      "photojournalists",
+      "who",
+      "travel",
+      "across",
+      "the",
+      "continent",
+      "."
+    ]
+  }
 }

@@ -5,5 +5,43 @@
   "original_body": "Launched last month, <a href=\"http://www.agromart.com.vn/\">Agromart</a> is Vietnam's first e-market featuring the country's agricultural, forestry and aquatic products. More than 400 products are already listed on the website. \n\n",
   "title": "Vietnam's first e-market",
   "byline": "mong",
-  "pub_date": "2011-01-04T08:10:55Z"
+  "pub_date": "2011-01-04T08:10:55Z",
+  "decompositions": {
+    "sentence": [
+      "Launched last month, Agromart is Vietnam's first e-market featuring the country's agricultural, forestry and aquatic products.",
+      "More than 400 products are already listed on the website."
+    ],
+    "tokens": [
+      "Launched",
+      "last",
+      "month",
+      ",",
+      "Agromart",
+      "is",
+      "Vietnam",
+      "'s",
+      "first",
+      "e-market",
+      "featuring",
+      "the",
+      "country",
+      "'s",
+      "agricultural",
+      ",",
+      "forestry",
+      "and",
+      "aquatic",
+      "products",
+      "More",
+      "than",
+      "400",
+      "products",
+      "are",
+      "already",
+      "listed",
+      "on",
+      "the",
+      "website"
+    ]
+  }
 }

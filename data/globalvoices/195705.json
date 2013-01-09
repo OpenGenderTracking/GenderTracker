@@ -5,5 +5,31 @@
   "original_body": "Greg Lopez, writing for the <em>New Mandala</em>, tackles the issue of <a href=\"http://asiapacific.anu.edu.au/newmandala/2011/02/06/bumiputera-graduate-unemployment-and-malaysias-world-class-education/\">unemployment</a> among college graduates in Malaysia. \n\n",
   "title": "Malaysia: Unemployed college graduates",
   "byline": "mong",
-  "pub_date": "2011-02-13T04:37:41Z"
+  "pub_date": "2011-02-13T04:37:41Z",
+  "decompositions": {
+    "sentence": [
+      "Greg Lopez, writing for the New Mandala, tackles the issue of unemployment among college graduates in Malaysia."
+    ],
+    "tokens": [
+      "Greg",
+      "Lopez",
+      ",",
+      "writing",
+      "for",
+      "the",
+      "New",
+      "Mandala",
+      ",",
+      "tackles",
+      "the",
+      "issue",
+      "of",
+      "unemployment",
+      "among",
+      "college",
+      "graduates",
+      "in",
+      "Malaysia"
+    ]
+  }
 }

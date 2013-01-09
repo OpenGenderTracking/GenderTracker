@@ -5,5 +5,47 @@
   "original_body": "<em><a href=\"http://www.kiskeacity.com/2011/02/tweets-of-day-2111.html\">Kiskeacity</a></em> reports that Twitter has been \"abuzz with speculations about what will happen tomorrow when the CEP (Electoral Council) announces which of the three main candidates moves on to the second round.\" \n\n",
   "title": "Haiti: Elections' Second Round ",
   "byline": "Janine Mendes-Franco",
-  "pub_date": "2011-02-02T17:46:51Z"
+  "pub_date": "2011-02-02T17:46:51Z",
+  "decompositions": {
+    "sentence": [
+      "Kiskeacity reports that Twitter has been \"abuzz with speculations about what will happen tomorrow when the CEP (Electoral Council) announces which of the three main candidates moves on to the second round.\""
+    ],
+    "tokens": [
+      "Kiskeacity",
+      "reports",
+      "that",
+      "Twitter",
+      "has",
+      "been",
+      "\"abuzz",
+      "with",
+      "speculations",
+      "about",
+      "what",
+      "will",
+      "happen",
+      "tomorrow",
+      "when",
+      "the",
+      "CEP",
+      "(",
+      "Electoral",
+      "Council",
+      ")",
+      "announces",
+      "which",
+      "of",
+      "the",
+      "three",
+      "main",
+      "candidates",
+      "moves",
+      "on",
+      "to",
+      "the",
+      "second",
+      "round",
+      "."
+    ]
+  }
 }

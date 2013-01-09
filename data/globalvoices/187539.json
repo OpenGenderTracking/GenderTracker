@@ -5,5 +5,36 @@
   "original_body": "Erwin from Indonesia identifies the <a href=\"http://imo.thejakartapost.com/blog/2011/01/05/good-post-lesson-learned-from-aff-suzuki-cup-2010/\">lessons</a> learned in the  ASEAN Federation Football Suzuki Cup 2010. Indonesia lost to Malaysia in the championship game. \n\n",
   "title": "Indonesia: Lessons from the football AFF Suzuki Cup 2010",
   "byline": "mong",
-  "pub_date": "2011-01-17T23:01:12Z"
+  "pub_date": "2011-01-17T23:01:12Z",
+  "decompositions": {
+    "sentence": [
+      "Erwin from Indonesia identifies the lessons learned in the  ASEAN Federation Football Suzuki Cup 2010.",
+      "Indonesia lost to Malaysia in the championship game."
+    ],
+    "tokens": [
+      "Erwin",
+      "from",
+      "Indonesia",
+      "identifies",
+      "the",
+      "lessons",
+      "learned",
+      "in",
+      "the",
+      "ASEAN",
+      "Federation",
+      "Football",
+      "Suzuki",
+      "Cup",
+      "2010",
+      "Indonesia",
+      "lost",
+      "to",
+      "Malaysia",
+      "in",
+      "the",
+      "championship",
+      "game"
+    ]
+  }
 }

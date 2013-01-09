@@ -5,5 +5,36 @@
   "original_body": "<em>Groundviews</em> <a href=\"http://groundviews.org/2011/01/17/archive-of-lessons-learnt-and-reconciliation-commission-llrc-submissions-and-media-reports/\">has launched</a> two <a href=\"http://groundviews.org/llrc-media-coverage-and-submissions/\">archives</a> covering media reports on and submissions to the Lessons Learnt and Reconciliation Commission (LLRC) of Sri Lanka. ",
   "title": "Sri Lanka: Archive of Lessons Learnt and Reconciliation Commission (LLRC) submissions and media reports",
   "byline": "rezwan",
-  "pub_date": "2011-01-17T19:13:44Z"
+  "pub_date": "2011-01-17T19:13:44Z",
+  "decompositions": {
+    "sentence": [
+      "Groundviews has launched two archives covering media reports on and submissions to the Lessons Learnt and Reconciliation Commission (LLRC) of Sri Lanka."
+    ],
+    "tokens": [
+      "Groundviews",
+      "has",
+      "launched",
+      "two",
+      "archives",
+      "covering",
+      "media",
+      "reports",
+      "on",
+      "and",
+      "submissions",
+      "to",
+      "the",
+      "Lessons",
+      "Learnt",
+      "and",
+      "Reconciliation",
+      "Commission",
+      "(",
+      "LLRC",
+      ")",
+      "of",
+      "Sri",
+      "Lanka"
+    ]
+  }
 }

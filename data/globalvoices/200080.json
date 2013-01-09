@@ -5,5 +5,41 @@
   "original_body": "China Hush translated a news story about <a href=http://www.chinahush.com/2011/02/22/chinas-last-hooliganism-convict-should-convict-continue-serving-his-sentence-for-a-repealed-law>China's last Hooliganism convict</a>. The controversy is on whether the convict should continue serving his sentence for a repealed law.",
   "title": "China: Hooliganism",
   "byline": "Oiwan",
-  "pub_date": "2011-02-24T03:55:50Z"
+  "pub_date": "2011-02-24T03:55:50Z",
+  "decompositions": {
+    "sentence": [
+      "China Hush translated a news story about China's last Hooliganism convict.",
+      "The controversy is on whether the convict should continue serving his sentence for a repealed law."
+    ],
+    "tokens": [
+      "China",
+      "Hush",
+      "translated",
+      "a",
+      "news",
+      "story",
+      "about",
+      "China",
+      "'s",
+      "last",
+      "Hooliganism",
+      "convict",
+      "The",
+      "controversy",
+      "is",
+      "on",
+      "whether",
+      "the",
+      "convict",
+      "should",
+      "continue",
+      "serving",
+      "his",
+      "sentence",
+      "for",
+      "a",
+      "repealed",
+      "law"
+    ]
+  }
 }

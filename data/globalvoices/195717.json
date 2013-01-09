@@ -5,5 +5,33 @@
   "original_body": "7iber.com <a href=\"http://www.7iber.com/2011/02/letter-to-the-king/\">asks Jordanian readers</a> what they would write in a statement to the king, with dozens of responses so far.",
   "title": "Jordan: What Would You Write to the King?",
   "byline": "Betsy Fisher",
-  "pub_date": "2011-02-13T13:16:08Z"
+  "pub_date": "2011-02-13T13:16:08Z",
+  "decompositions": {
+    "sentence": [
+      "7iber.com asks Jordanian readers what they would write in a statement to the king, with dozens of responses so far."
+    ],
+    "tokens": [
+      "7iber.com",
+      "asks",
+      "Jordanian",
+      "readers",
+      "what",
+      "they",
+      "would",
+      "write",
+      "in",
+      "a",
+      "statement",
+      "to",
+      "the",
+      "king",
+      ",",
+      "with",
+      "dozens",
+      "of",
+      "responses",
+      "so",
+      "far"
+    ]
+  }
 }

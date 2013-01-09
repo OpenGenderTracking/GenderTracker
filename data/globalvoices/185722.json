@@ -5,5 +5,28 @@
   "original_body": "<em>Hamid Abbasi</em> at <em>Chowrangi</em> <a href=\"http://www.chowrangi.com/energy-crisis-in-pakistan-and-its-fall-out.html\">writes about</a> the ongoing energy crisis in Pakistan and its fall out.",
   "title": "Energy Crisis In Pakistan",
   "byline": "rezwan",
-  "pub_date": "2011-01-10T18:41:56Z"
+  "pub_date": "2011-01-10T18:41:56Z",
+  "decompositions": {
+    "sentence": [
+      "Hamid Abbasi at Chowrangi writes about the ongoing energy crisis in Pakistan and its fall out."
+    ],
+    "tokens": [
+      "Hamid",
+      "Abbasi",
+      "at",
+      "Chowrangi",
+      "writes",
+      "about",
+      "the",
+      "ongoing",
+      "energy",
+      "crisis",
+      "in",
+      "Pakistan",
+      "and",
+      "its",
+      "fall",
+      "out"
+    ]
+  }
 }

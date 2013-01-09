@@ -7,6 +7,12 @@
 
 ## Changelog
 
+### 2013/01/09
+
+* Parallelized article decomposition.
+* Refactored Articles as standalone elements
+* Did some performance experiments with EventMachine and decomposing the 1834 articles. We're looking at about 2m8s for tokens & sentences. It's not great but doable for now. 
+
 ### 2013/01/08
 
 * basic decomposition using opennlp (sentences, tokens)

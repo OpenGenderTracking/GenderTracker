@@ -5,5 +5,31 @@
   "original_body": "\"Trinidad is head and a lot of people are dead because of it\": <a href=\"http://www.bcraw.com/index.php?option=com_myblog&show=death-by-dangerous-driving.html&Itemid=13\">B.C. Pires</a> explains.  ",
   "title": "Trinidad & Tobago: Road Deaths ",
   "byline": "Janine Mendes-Franco",
-  "pub_date": "2011-02-15T18:00:52Z"
+  "pub_date": "2011-02-15T18:00:52Z",
+  "decompositions": {
+    "sentence": [
+      "\"Trinidad is head and a lot of people are dead because of it\": B.C. Pires explains."
+    ],
+    "tokens": [
+      "\"",
+      "Trinidad",
+      "is",
+      "head",
+      "and",
+      "a",
+      "lot",
+      "of",
+      "people",
+      "are",
+      "dead",
+      "because",
+      "of",
+      "it",
+      "\"",
+      ":",
+      "B.C.",
+      "Pires",
+      "explains"
+    ]
+  }
 }

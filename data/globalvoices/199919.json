@@ -5,5 +5,31 @@
   "original_body": "<em>Dorji Wangchuk</em> <a href=\"http://dorjiwangchuk.blogspot.com/2011/02/in-his-majestys-service.html\">describes</a> what is it like to be in the service of His Majesty the King of Bhutan. ",
   "title": "Bhutan: In His Majesty's Service",
   "byline": "rezwan",
-  "pub_date": "2011-02-23T21:23:41Z"
+  "pub_date": "2011-02-23T21:23:41Z",
+  "decompositions": {
+    "sentence": [
+      "Dorji Wangchuk describes what is it like to be in the service of His Majesty the King of Bhutan."
+    ],
+    "tokens": [
+      "Dorji",
+      "Wangchuk",
+      "describes",
+      "what",
+      "is",
+      "it",
+      "like",
+      "to",
+      "be",
+      "in",
+      "the",
+      "service",
+      "of",
+      "His",
+      "Majesty",
+      "the",
+      "King",
+      "of",
+      "Bhutan"
+    ]
+  }
 }

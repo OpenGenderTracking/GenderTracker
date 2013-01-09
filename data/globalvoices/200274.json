@@ -5,5 +5,52 @@
   "original_body": "Globewriter comments on the shocked <a href=\"http://globalvoicesonline.org/2011/02/23/jamaica-bloggers-react-to-banton-verdict/\">reactions to the Banton verdict</a>: \"The fact is there is video of  Buju Banton chatting with federal agents and tasting the cocaine...and he is now convicted.  What is the problem?\"  ",
   "title": "Trinidad & Tobago, Jamaica: The Facts About Banton ",
   "byline": "Janine Mendes-Franco",
-  "pub_date": "2011-02-24T22:40:20Z"
+  "pub_date": "2011-02-24T22:40:20Z",
+  "decompositions": {
+    "sentence": [
+      "Globewriter comments on the shocked reactions to the Banton verdict: \"The fact is there is video of  Buju Banton chatting with federal agents and tasting the cocaine...and he is now convicted.",
+      "What is the problem?\""
+    ],
+    "tokens": [
+      "Globewriter",
+      "comments",
+      "on",
+      "the",
+      "shocked",
+      "reactions",
+      "to",
+      "the",
+      "Banton",
+      "verdict",
+      ":",
+      "\"",
+      "The",
+      "fact",
+      "is",
+      "there",
+      "is",
+      "video",
+      "of",
+      "Buju",
+      "Banton",
+      "chatting",
+      "with",
+      "federal",
+      "agents",
+      "and",
+      "tasting",
+      "the",
+      "cocaine",
+      "...and",
+      "he",
+      "is",
+      "now",
+      "convicted",
+      "What",
+      "is",
+      "the",
+      "problem",
+      "?"
+    ]
+  }
 }

@@ -5,5 +5,24 @@
   "original_body": "Rob Baiton blogs about the alarming rise in <a href=\"http://therabexperience.blogspot.com/2011/01/suicide-in-indonesia.html\">suicide rates</a> in Indonesia. \n\n",
   "title": "Indonesia: Addressing the suicide problem",
   "byline": "mong",
-  "pub_date": "2011-01-17T23:06:46Z"
+  "pub_date": "2011-01-17T23:06:46Z",
+  "decompositions": {
+    "sentence": [
+      "Rob Baiton blogs about the alarming rise in suicide rates in Indonesia."
+    ],
+    "tokens": [
+      "Rob",
+      "Baiton",
+      "blogs",
+      "about",
+      "the",
+      "alarming",
+      "rise",
+      "in",
+      "suicide",
+      "rates",
+      "in",
+      "Indonesia"
+    ]
+  }
 }

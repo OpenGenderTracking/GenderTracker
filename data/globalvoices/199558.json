@@ -5,5 +5,42 @@
   "original_body": "<em>Good Girl Gone Ukrainian</em> <a href=\"http://goodgirlgoneukrainian.blogspot.com/2011/02/undressing-with-excuse.html\">explains</a> her disappointment with what FEMEN, a Ukrainian \"female protest group known for its provocative bare-breasted acts,\" has evolved into over the years.",
   "title": "Ukraine: \"Undressing… With an Excuse\"",
   "byline": "Veronica Khokhlova",
-  "pub_date": "2011-02-23T02:40:07Z"
+  "pub_date": "2011-02-23T02:40:07Z",
+  "decompositions": {
+    "sentence": [
+      "Good Girl Gone Ukrainian explains her disappointment with what FEMEN, a Ukrainian \"female protest group known for its provocative bare-breasted acts,\" has evolved into over the years."
+    ],
+    "tokens": [
+      "Good",
+      "Girl",
+      "Gone",
+      "Ukrainian",
+      "explains",
+      "her",
+      "disappointment",
+      "with",
+      "what",
+      "FEMEN",
+      ",",
+      "a",
+      "Ukrainian",
+      "\"female",
+      "protest",
+      "group",
+      "known",
+      "for",
+      "its",
+      "provocative",
+      "bare-breasted",
+      "acts",
+      ",",
+      "\"",
+      "has",
+      "evolved",
+      "into",
+      "over",
+      "the",
+      "years"
+    ]
+  }
 }

@@ -5,5 +5,46 @@
   "original_body": "\"The Haitians are clearly hurt and humiliated\" over the treatment of its youth football team, writes <em><a href=\"http://anniepaulose.wordpress.com/2011/02/21/did-haiti-need-this-blow-jamaica/\">Active Voice</a></em>, some of members of which were found to be suffering from malaria.  ",
   "title": "Jamaica, Haiti: Insensitive Treatment? ",
   "byline": "Janine Mendes-Franco",
-  "pub_date": "2011-02-22T16:27:18Z"
+  "pub_date": "2011-02-22T16:27:18Z",
+  "decompositions": {
+    "sentence": [
+      "\"The Haitians are clearly hurt and humiliated\" over the treatment of its youth football team, writes Active Voice, some of members of which were found to be suffering from malaria."
+    ],
+    "tokens": [
+      "\"",
+      "The",
+      "Haitians",
+      "are",
+      "clearly",
+      "hurt",
+      "and",
+      "humiliated",
+      "\"",
+      "over",
+      "the",
+      "treatment",
+      "of",
+      "its",
+      "youth",
+      "football",
+      "team",
+      ",",
+      "writes",
+      "Active",
+      "Voice",
+      ",",
+      "some",
+      "of",
+      "members",
+      "of",
+      "which",
+      "were",
+      "found",
+      "to",
+      "be",
+      "suffering",
+      "from",
+      "malaria"
+    ]
+  }
 }

@@ -5,5 +5,27 @@
   "original_body": "<em>Ashwin</em> <a href=\"http://www.kenneyjacob.com/2010/11/03/differences-between-an-indian-mba-and-a-foreign-mba-education/\">looks at the main differences</a> between an Indian MBA and a Foreign MBA education.",
   "title": "India: Differences Between An Indian MBA And A Foreign MBA Education",
   "byline": "rezwan",
-  "pub_date": "2011-01-03T17:31:15Z"
+  "pub_date": "2011-01-03T17:31:15Z",
+  "decompositions": {
+    "sentence": [
+      "Ashwin looks at the main differences between an Indian MBA and a Foreign MBA education."
+    ],
+    "tokens": [
+      "Ashwin",
+      "looks",
+      "at",
+      "the",
+      "main",
+      "differences",
+      "between",
+      "an",
+      "Indian",
+      "MBA",
+      "and",
+      "a",
+      "Foreign",
+      "MBA",
+      "education"
+    ]
+  }
 }

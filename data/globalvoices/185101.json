@@ -5,5 +5,47 @@
   "original_body": "\"Her seventeen year professional life has been spent working for the government boss who, today, threw her out in the street\": <em><a href=\"http://www.desdecuba.com/generationy/?p=2246\">Generation Y</a></em> says that the government layoffs have begun. ",
   "title": "Cuba: Layoffs Begin ",
   "byline": "Janine Mendes-Franco",
-  "pub_date": "2011-01-08T00:38:57Z"
+  "pub_date": "2011-01-08T00:38:57Z",
+  "decompositions": {
+    "sentence": [
+      "\"Her seventeen year professional life has been spent working for the government boss who, today, threw her out in the street\": Generation Y says that the government layoffs have begun."
+    ],
+    "tokens": [
+      "\"",
+      "Her",
+      "seventeen",
+      "year",
+      "professional",
+      "life",
+      "has",
+      "been",
+      "spent",
+      "working",
+      "for",
+      "the",
+      "government",
+      "boss",
+      "who",
+      ",",
+      "today",
+      ",",
+      "threw",
+      "her",
+      "out",
+      "in",
+      "the",
+      "street",
+      "\"",
+      ":",
+      "Generation",
+      "Y",
+      "says",
+      "that",
+      "the",
+      "government",
+      "layoffs",
+      "have",
+      "begun"
+    ]
+  }
 }

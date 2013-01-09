@@ -5,5 +5,44 @@
   "original_body": "<em><a href=\"http://marcmasferrer.typepad.com/uncommon_sense/2011/01/guillermo-fari%C3%B1as-arrested-at-protest-cuba.html\">Uncommon Sense</a></em> <a href=\"http://marcmasferrer.typepad.com/uncommon_sense/2011/01/once-again-fari%C3%B1as-proves-himself-an-example-for-all-cubans-cuba.html\">has been following</a> the recent arrest of Cuban independent journalist Guillermo Fariñas and calls his detainment a <a href=\"http://marcmasferrer.typepad.com/uncommon_sense/2011/01/fari%C3%B1as-arrest-gives-us-a-chance-to-say-we-told-you-so-cuba.html\">\"We told you so\" moment</a>. <a href=\"http://marcmasferrer.typepad.com/uncommon_sense/2011/01/guillermo-fari%C3%B1as-released-from-jail-cuba-gy.html\">He has subsequently been released.</a> ",
   "title": "Cuba: Fariñas Arrested & Released ",
   "byline": "Janine Mendes-Franco",
-  "pub_date": "2011-01-27T17:32:05Z"
+  "pub_date": "2011-01-27T17:32:05Z",
+  "decompositions": {
+    "sentence": [
+      "Uncommon Sense has been following the recent arrest of Cuban independent journalist Guillermo Fariñas and calls his detainment a \"We told you so\" moment.",
+      "He has subsequently been released."
+    ],
+    "tokens": [
+      "Uncommon",
+      "Sense",
+      "has",
+      "been",
+      "following",
+      "the",
+      "recent",
+      "arrest",
+      "of",
+      "Cuban",
+      "independent",
+      "journalist",
+      "Guillermo",
+      "Fariñas",
+      "and",
+      "calls",
+      "his",
+      "detainment",
+      "a",
+      "\"",
+      "We",
+      "told",
+      "you",
+      "so",
+      "\"",
+      "moment",
+      "He",
+      "has",
+      "subsequently",
+      "been",
+      "released"
+    ]
+  }
 }

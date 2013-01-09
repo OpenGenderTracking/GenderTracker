@@ -5,5 +5,48 @@
   "original_body": "A video burning Kim Jung-il and his mother's portrait got leaked from North Korea, <a href=\"http://www.dailynk.com/english/read.php?cataId=nk03100&amp;num=7325\"><em>Daily NK </em>reported[en].</a> The report analyzed the act may have been carried out by a North Korean high-ranking official.",
   "title": "North Korea: Another Sign of Small Revolt? Burning Picture of Kim Family",
   "byline": "yooeun",
-  "pub_date": "2011-02-07T08:26:19Z"
+  "pub_date": "2011-02-07T08:26:19Z",
+  "decompositions": {
+    "sentence": [
+      "A video burning Kim Jung-il and his mother's portrait got leaked from North Korea, Daily NK reported[en].",
+      "The report analyzed the act may have been carried out by a North Korean high-ranking official."
+    ],
+    "tokens": [
+      "A",
+      "video",
+      "burning",
+      "Kim",
+      "Jung-il",
+      "and",
+      "his",
+      "mother",
+      "'s",
+      "portrait",
+      "got",
+      "leaked",
+      "from",
+      "North",
+      "Korea",
+      ",",
+      "Daily",
+      "NK",
+      "reported[en]",
+      "The",
+      "report",
+      "analyzed",
+      "the",
+      "act",
+      "may",
+      "have",
+      "been",
+      "carried",
+      "out",
+      "by",
+      "a",
+      "North",
+      "Korean",
+      "high-ranking",
+      "official"
+    ]
+  }
 }

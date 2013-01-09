@@ -5,5 +5,35 @@
   "original_body": "\"Are we really prepared or are we sitting ducks waiting for the worst?\": <a href=\"http://hairoun.blogspot.com/2011/01/dropcoverhold.html\">Abeni</a> finds herself thinking about earthquakes.",
   "title": "St. Vincent & the Grenadines: The \"What Ifs\" of Earthquakes ",
   "byline": "Janine Mendes-Franco",
-  "pub_date": "2011-01-05T15:42:50Z"
+  "pub_date": "2011-01-05T15:42:50Z",
+  "decompositions": {
+    "sentence": [
+      "\"Are we really prepared or are we sitting ducks waiting for the worst?\":",
+      "Abeni finds herself thinking about earthquakes."
+    ],
+    "tokens": [
+      "\"",
+      "Are",
+      "we",
+      "really",
+      "prepared",
+      "or",
+      "are",
+      "we",
+      "sitting",
+      "ducks",
+      "waiting",
+      "for",
+      "the",
+      "worst",
+      "?",
+      "\"",
+      "Abeni",
+      "finds",
+      "herself",
+      "thinking",
+      "about",
+      "earthquakes"
+    ]
+  }
 }

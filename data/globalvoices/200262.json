@@ -5,5 +5,23 @@
   "original_body": "Check out photos of this year's Mashramani celebrations, <a href=\"http://liveinguyana.blogspot.com/2011/02/mashramani-2011-cacophony-of.html\">here</a>. ",
   "title": "Guyana: Mashramani \"Huge Success\" ",
   "byline": "Janine Mendes-Franco",
-  "pub_date": "2011-02-24T22:19:00Z"
+  "pub_date": "2011-02-24T22:19:00Z",
+  "decompositions": {
+    "sentence": [
+      "Check out photos of this year's Mashramani celebrations, here."
+    ],
+    "tokens": [
+      "Check",
+      "out",
+      "photos",
+      "of",
+      "this",
+      "year",
+      "'s",
+      "Mashramani",
+      "celebrations",
+      ",",
+      "here"
+    ]
+  }
 }

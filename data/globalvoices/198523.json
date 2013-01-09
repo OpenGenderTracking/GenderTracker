@@ -5,5 +5,27 @@
   "original_body": "Blogger <em>Unspun</em> blames the lack of accountability for the rise of <a href=\"http://theunspunblog.com/2011/02/11/the-real-reason-why-banten-and-temenggung-occur-again-and-agaib/\">religious violence</a> in Indonesia. \n\n",
   "title": "Indonesia: Accountability and religious violence",
   "byline": "mong",
-  "pub_date": "2011-02-21T05:09:45Z"
+  "pub_date": "2011-02-21T05:09:45Z",
+  "decompositions": {
+    "sentence": [
+      "Blogger Unspun blames the lack of accountability for the rise of religious violence in Indonesia."
+    ],
+    "tokens": [
+      "Blogger",
+      "Unspun",
+      "blames",
+      "the",
+      "lack",
+      "of",
+      "accountability",
+      "for",
+      "the",
+      "rise",
+      "of",
+      "religious",
+      "violence",
+      "in",
+      "Indonesia"
+    ]
+  }
 }

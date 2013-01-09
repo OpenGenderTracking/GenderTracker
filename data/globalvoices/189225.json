@@ -5,5 +5,50 @@
   "original_body": "<a href=\"http://www.camboguide.com/country-profile/latest-news/8061-blogspot-still-blocked-by-at-least-one-isp?utm_source=feedburner&utm_medium=twitter&utm_campaign=Feed:+camboguide/CrRX+(All+Content)\">Blogspot</a> is still being blocked by one ISP even if it has been \"unblocked\" by other networks in Cambodia. The government was accused of ordering the networks to block Blogspot to shut down an anti-government blog.\n\n",
   "title": "Cambodia: Blogspot still blocked by one ISP",
   "byline": "mong",
-  "pub_date": "2011-01-25T12:54:05Z"
+  "pub_date": "2011-01-25T12:54:05Z",
+  "decompositions": {
+    "sentence": [
+      "Blogspot is still being blocked by one ISP even if it has been \"unblocked\" by other networks in Cambodia.",
+      "The government was accused of ordering the networks to block Blogspot to shut down an anti-government blog."
+    ],
+    "tokens": [
+      "Blogspot",
+      "is",
+      "still",
+      "being",
+      "blocked",
+      "by",
+      "one",
+      "ISP",
+      "even",
+      "if",
+      "it",
+      "has",
+      "been",
+      "\"unblocked",
+      "\"",
+      "by",
+      "other",
+      "networks",
+      "in",
+      "Cambodia",
+      "The",
+      "government",
+      "was",
+      "accused",
+      "of",
+      "ordering",
+      "the",
+      "networks",
+      "to",
+      "block",
+      "Blogspot",
+      "to",
+      "shut",
+      "down",
+      "an",
+      "anti-government",
+      "blog"
+    ]
+  }
 }

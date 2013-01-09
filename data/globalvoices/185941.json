@@ -5,5 +5,38 @@
   "original_body": "<em><a href=\"http://leyesdelaritzaen.wordpress.com/2011/01/10/looking-for-the-guilty/\">Laritza's Laws</a></em> blogs about the fallout from Decree 217/97, \"a rule that turns a Cuban into an illegal in his own country.\"",
   "title": "Cuba: Decree 217/97",
   "byline": "Janine Mendes-Franco",
-  "pub_date": "2011-01-11T14:56:22Z"
+  "pub_date": "2011-01-11T14:56:22Z",
+  "decompositions": {
+    "sentence": [
+      "Laritza's Laws blogs about the fallout from Decree 217/97, \"a rule that turns a Cuban into an illegal in his own country.\""
+    ],
+    "tokens": [
+      "Laritza",
+      "'s",
+      "Laws",
+      "blogs",
+      "about",
+      "the",
+      "fallout",
+      "from",
+      "Decree",
+      "217/97",
+      ",",
+      "\"",
+      "a",
+      "rule",
+      "that",
+      "turns",
+      "a",
+      "Cuban",
+      "into",
+      "an",
+      "illegal",
+      "in",
+      "his",
+      "own",
+      "country",
+      "."
+    ]
+  }
 }

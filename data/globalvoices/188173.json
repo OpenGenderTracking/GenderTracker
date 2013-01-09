@@ -5,5 +5,26 @@
   "original_body": "Jamiacan diaspora litblogger <a href=\"http://geoffreyphilp.blogspot.com/2011/01/pity-homesick-dictator-who-gets-blues.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+blogspot%2FEVfd+%28Geoffrey+Philp%27s+Blog+Spot%29\">Geoffrey Philp</a> pens a poem for Haiti's reportedly \"homesick dictator\".  ",
   "title": "Jamaica, Haiti: The \"Baby Doc\" Blues ",
   "byline": "Janine Mendes-Franco",
-  "pub_date": "2011-01-20T17:39:08Z"
+  "pub_date": "2011-01-20T17:39:08Z",
+  "decompositions": {
+    "sentence": [
+      "Jamiacan diaspora litblogger Geoffrey Philp pens a poem for Haiti's reportedly \"homesick dictator\"."
+    ],
+    "tokens": [
+      "Jamiacan",
+      "diaspora",
+      "litblogger",
+      "Geoffrey",
+      "Philp",
+      "pens",
+      "a",
+      "poem",
+      "for",
+      "Haiti",
+      "'s",
+      "reportedly",
+      "\"homesick",
+      "dictator\""
+    ]
+  }
 }

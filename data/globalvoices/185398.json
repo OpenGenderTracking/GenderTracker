@@ -5,5 +5,44 @@
   "original_body": "Alun MacDonald <a href=\"http://twitter.com/#!/alunmcdonald/status/23428508340461568\">tweeting from Southern Sudan</a>: \"In North Sudan seems the big issue is Recession not Referendum. Irate emails from friends about the new austerity cuts & price rises\"",
   "title": "Sudan: Recession big issue in North Sudan than referendum",
   "byline": "ndesanjo macha",
-  "pub_date": "2011-01-09T13:42:44Z"
+  "pub_date": "2011-01-09T13:42:44Z",
+  "decompositions": {
+    "sentence": [
+      "Alun MacDonald tweeting from Southern Sudan: \"In North Sudan seems the big issue is Recession not Referendum.",
+      "Irate emails from friends about the new austerity cuts &amp; price rises\""
+    ],
+    "tokens": [
+      "Alun",
+      "MacDonald",
+      "tweeting",
+      "from",
+      "Southern",
+      "Sudan",
+      ":",
+      "\"",
+      "In",
+      "North",
+      "Sudan",
+      "seems",
+      "the",
+      "big",
+      "issue",
+      "is",
+      "Recession",
+      "not",
+      "Referendum",
+      "Irate",
+      "emails",
+      "from",
+      "friends",
+      "about",
+      "the",
+      "new",
+      "austerity",
+      "cuts",
+      "&amp;",
+      "price",
+      "rises"
+    ]
+  }
 }

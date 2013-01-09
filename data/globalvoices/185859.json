@@ -5,5 +5,28 @@
   "original_body": "Evelyn Wong, writing for the <em>New Mandala</em>, studies the <a href=\"http://asiapacific.anu.edu.au/newmandala/2010/12/20/why-is-malaysia-experiencing-a-brain-drain/\">brain drain</a> problem in Malaysia.\n\n",
   "title": "Brain drain in Malaysia",
   "byline": "mong",
-  "pub_date": "2011-01-11T03:23:51Z"
+  "pub_date": "2011-01-11T03:23:51Z",
+  "decompositions": {
+    "sentence": [
+      "Evelyn Wong, writing for the New Mandala, studies the brain drain problem in Malaysia."
+    ],
+    "tokens": [
+      "Evelyn",
+      "Wong",
+      ",",
+      "writing",
+      "for",
+      "the",
+      "New",
+      "Mandala",
+      ",",
+      "studies",
+      "the",
+      "brain",
+      "drain",
+      "problem",
+      "in",
+      "Malaysia"
+    ]
+  }
 }

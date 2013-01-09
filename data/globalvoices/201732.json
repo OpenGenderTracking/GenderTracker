@@ -5,5 +5,48 @@
   "original_body": "<a href=\"http://www.neweurasia.net/politics-and-society/egyptian-growling-in-tajikistan/\">Alpharabius reports</a> on the plethora of new laws curtailing Islamic religious practice and the slew of house demolitions that all seem to point toward a government that’s simultaneously nervous and ambitious amidst rumored constitutional reform.",
   "title": "Tajikistan: Egyptian echo makes the government mull constitutional reform",
   "byline": "Adam Kesher",
-  "pub_date": "2011-02-28T11:21:01Z"
+  "pub_date": "2011-02-28T11:21:01Z",
+  "decompositions": {
+    "sentence": [
+      "Alpharabius reports on the plethora of new laws curtailing Islamic religious practice and the slew of house demolitions that all seem to point toward a government that’s simultaneously nervous and ambitious amidst rumored constitutional reform."
+    ],
+    "tokens": [
+      "Alpharabius",
+      "reports",
+      "on",
+      "the",
+      "plethora",
+      "of",
+      "new",
+      "laws",
+      "curtailing",
+      "Islamic",
+      "religious",
+      "practice",
+      "and",
+      "the",
+      "slew",
+      "of",
+      "house",
+      "demolitions",
+      "that",
+      "all",
+      "seem",
+      "to",
+      "point",
+      "toward",
+      "a",
+      "government",
+      "that",
+      "’s",
+      "simultaneously",
+      "nervous",
+      "and",
+      "ambitious",
+      "amidst",
+      "rumored",
+      "constitutional",
+      "reform"
+    ]
+  }
 }

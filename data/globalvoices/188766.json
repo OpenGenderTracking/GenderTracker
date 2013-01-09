@@ -5,5 +5,28 @@
   "original_body": "\n\nAlgerian-American blogger Kal, from<i> The Moor Next Door</i>, <a href=\"http://themoornextdoor.wordpress.com/2011/01/18/self-immolation-in-mauritania/\">comments</a> on a self-immolation in Mauritania. ",
   "title": "Algeria: On the Mauritanian Self-Immolation",
   "byline": "Amira Al Hussaini",
-  "pub_date": "2011-01-23T22:03:42Z"
+  "pub_date": "2011-01-23T22:03:42Z",
+  "decompositions": {
+    "sentence": [
+      "Algerian-American blogger Kal, from The Moor Next Door, comments on a self-immolation in Mauritania."
+    ],
+    "tokens": [
+      "Algerian-American",
+      "blogger",
+      "Kal",
+      ",",
+      "from",
+      "The",
+      "Moor",
+      "Next",
+      "Door",
+      ",",
+      "comments",
+      "on",
+      "a",
+      "self-immolation",
+      "in",
+      "Mauritania"
+    ]
+  }
 }

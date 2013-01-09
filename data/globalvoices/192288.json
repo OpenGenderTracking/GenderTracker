@@ -5,5 +5,41 @@
   "original_body": "Ricardo Kotscho <a href=\"http://colunistas.ig.com.br/ricardokotscho/2011/02/02/por-que-gordo-nao-pode-dar-aulas/\">asks himself</a> [pt] \"why fat  people cannot teach\", after five teachers were  rejected on medical examination to teach in  Brazilian state  schools because of their obesity.",
   "title": "Brazil: \"Fat\" teachers rejected from schools",
   "byline": "Tsavkko",
-  "pub_date": "2011-02-03T05:44:15Z"
+  "pub_date": "2011-02-03T05:44:15Z",
+  "decompositions": {
+    "sentence": [
+      "Ricardo Kotscho asks himself [pt] \"why fat  people cannot teach\", after five teachers were  rejected on medical examination to teach in  Brazilian state  schools because of their obesity."
+    ],
+    "tokens": [
+      "Ricardo",
+      "Kotscho",
+      "asks",
+      "himself",
+      "[pt]",
+      "\"why",
+      "fat",
+      "people",
+      "cannot",
+      "teach\"",
+      ",",
+      "after",
+      "five",
+      "teachers",
+      "were",
+      "rejected",
+      "on",
+      "medical",
+      "examination",
+      "to",
+      "teach",
+      "in",
+      "Brazilian",
+      "state",
+      "schools",
+      "because",
+      "of",
+      "their",
+      "obesity"
+    ]
+  }
 }

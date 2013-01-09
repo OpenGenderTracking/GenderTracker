@@ -5,5 +5,46 @@
   "original_body": "With Spring Festival just around the corner, Tsinghua University economics professor Andrew Sheng proposes a more enhanced approach to measuring quality of life: <a href=\"http://rightways.wordpress.com/2011/01/22/the-happiness-index/\">We need Stiglitz Report 2.0, with more Asian input</a>.",
   "title": "China: Better metrics for measuring Asian happiness",
   "byline": "Feng37",
-  "pub_date": "2011-01-22T05:56:28Z"
+  "pub_date": "2011-01-22T05:56:28Z",
+  "decompositions": {
+    "sentence": [
+      "With Spring Festival just around the corner, Tsinghua University economics professor Andrew Sheng proposes a more enhanced approach to measuring quality of life: We need Stiglitz Report 2.0, with more Asian input."
+    ],
+    "tokens": [
+      "With",
+      "Spring",
+      "Festival",
+      "just",
+      "around",
+      "the",
+      "corner",
+      ",",
+      "Tsinghua",
+      "University",
+      "economics",
+      "professor",
+      "Andrew",
+      "Sheng",
+      "proposes",
+      "a",
+      "more",
+      "enhanced",
+      "approach",
+      "to",
+      "measuring",
+      "quality",
+      "of",
+      "life",
+      ":",
+      "We",
+      "need",
+      "Stiglitz",
+      "Report",
+      "2.0,",
+      "with",
+      "more",
+      "Asian",
+      "input"
+    ]
+  }
 }

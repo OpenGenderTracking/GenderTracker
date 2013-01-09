@@ -5,5 +5,32 @@
   "original_body": "<em>Shakir Lakhani</em> <a href=\"http://www.chowrangi.com/prize-bonds-mega-scam.html\">writes</a> about a prize bond draw manipulation in Pakistan where three consecutive numbers won the first three prizes.",
   "title": "Pakistan: Prize Bonds Mega Scam",
   "byline": "rezwan",
-  "pub_date": "2011-01-17T18:59:00Z"
+  "pub_date": "2011-01-17T18:59:00Z",
+  "decompositions": {
+    "sentence": [
+      "Shakir Lakhani writes about a prize bond draw manipulation in Pakistan where three consecutive numbers won the first three prizes."
+    ],
+    "tokens": [
+      "Shakir",
+      "Lakhani",
+      "writes",
+      "about",
+      "a",
+      "prize",
+      "bond",
+      "draw",
+      "manipulation",
+      "in",
+      "Pakistan",
+      "where",
+      "three",
+      "consecutive",
+      "numbers",
+      "won",
+      "the",
+      "first",
+      "three",
+      "prizes"
+    ]
+  }
 }

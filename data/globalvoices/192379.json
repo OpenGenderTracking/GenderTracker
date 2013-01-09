@@ -5,5 +5,38 @@
   "original_body": "Anneryan looks at how <a href=\"http://www.mobileactive.org/reports-sudan-how-sudan-radio-service-uses-mobile-technology\">Sudan Radio Service uses mobile technology </a>into its work to both monitor the reach of its broadcasts and to solicit reader feedback. ",
   "title": "Sudan: Sudan Radio Service's use of mobile phones",
   "byline": "ndesanjo macha",
-  "pub_date": "2011-02-03T11:35:35Z"
+  "pub_date": "2011-02-03T11:35:35Z",
+  "decompositions": {
+    "sentence": [
+      "Anneryan looks at how Sudan Radio Service uses mobile technology into its work to both monitor the reach of its broadcasts and to solicit reader feedback."
+    ],
+    "tokens": [
+      "Anneryan",
+      "looks",
+      "at",
+      "how",
+      "Sudan",
+      "Radio",
+      "Service",
+      "uses",
+      "mobile",
+      "technology",
+      "into",
+      "its",
+      "work",
+      "to",
+      "both",
+      "monitor",
+      "the",
+      "reach",
+      "of",
+      "its",
+      "broadcasts",
+      "and",
+      "to",
+      "solicit",
+      "reader",
+      "feedback"
+    ]
+  }
 }

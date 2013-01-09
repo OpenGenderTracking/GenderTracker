@@ -5,5 +5,43 @@
   "original_body": "<a href=\"http://bombasticelements.blogspot.com/2011/01/nigeria-nnedi-okorafor-on-nnedi.html\">Bunmi posts a link to a video </a>of an hour long discussion with Nigerian fantasy-sci-fi writer Nnedi Okorafor: \"Here she touches on race, paralysis and plant worlds.\"",
   "title": "Nigeria: Discussion with Nigerian fantasy-sci-fi writer",
   "byline": "ndesanjo macha",
-  "pub_date": "2011-01-19T17:31:21Z"
+  "pub_date": "2011-01-19T17:31:21Z",
+  "decompositions": {
+    "sentence": [
+      "Bunmi posts a link to a video of an hour long discussion with Nigerian fantasy-sci-fi writer Nnedi Okorafor: \"Here she touches on race, paralysis and plant worlds.\""
+    ],
+    "tokens": [
+      "Bunmi",
+      "posts",
+      "a",
+      "link",
+      "to",
+      "a",
+      "video",
+      "of",
+      "an",
+      "hour",
+      "long",
+      "discussion",
+      "with",
+      "Nigerian",
+      "fantasy-sci-fi",
+      "writer",
+      "Nnedi",
+      "Okorafor",
+      ":",
+      "\"",
+      "Here",
+      "she",
+      "touches",
+      "on",
+      "race",
+      ",",
+      "paralysis",
+      "and",
+      "plant",
+      "worlds",
+      "."
+    ]
+  }
 }

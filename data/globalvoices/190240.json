@@ -5,5 +5,38 @@
   "original_body": "<a href=\"http://www.pabloarivero.com/2011/01/coca-que-protesta-coca-politica.html\">Pablo Andrés Rivero</a> [es] and <a href=\"http://www.joshuafrens-string.com/2011/01/cocaleros-in-resistance-chew-ins-in.html\">J.F. String<em></em></a> blog about recent demonstrations held in several cities in Bolivia to overturn a <a href=\"http://globalvoicesonline.org/2011/01/20/showdown-between-us-and-bolivia-over-un-coca-ban/\">UN ban</a> on coca-leaf chewing.",
   "title": "Bolivia: Coca-Chewing Protests Held Around the Country",
   "byline": "Silvia Vinas",
-  "pub_date": "2011-01-28T00:29:39Z"
+  "pub_date": "2011-01-28T00:29:39Z",
+  "decompositions": {
+    "sentence": [
+      "Pablo Andrés Rivero [es] and J.F. String blog about recent demonstrations held in several cities in Bolivia to overturn a UN ban on coca-leaf chewing."
+    ],
+    "tokens": [
+      "Pablo",
+      "Andrés",
+      "Rivero",
+      "[es",
+      "]",
+      "and",
+      "J.F.",
+      "String",
+      "blog",
+      "about",
+      "recent",
+      "demonstrations",
+      "held",
+      "in",
+      "several",
+      "cities",
+      "in",
+      "Bolivia",
+      "to",
+      "overturn",
+      "a",
+      "UN",
+      "ban",
+      "on",
+      "coca-leaf",
+      "chewing"
+    ]
+  }
 }

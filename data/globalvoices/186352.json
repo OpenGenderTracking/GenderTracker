@@ -5,5 +5,41 @@
   "original_body": "Brazilian author Paulo Coelho <a href=\"http://www.newsday.com/news/author-coelho-says-books-banned-in-iran-1.2601979\">says </a>his books were banned in Iran. The writer made all his books in Persian availabe on <a href=\"http://paulocoelhoblog.com/2011/01/09/books-banned-in-iran/\">his blog</a>, free for all fans.\n",
   "title": "Iran: Coelho's books banned",
   "byline": "Hamid Tehrani",
-  "pub_date": "2011-01-13T16:51:17Z"
+  "pub_date": "2011-01-13T16:51:17Z",
+  "decompositions": {
+    "sentence": [
+      "Brazilian author Paulo Coelho says his books were banned in Iran.",
+      "The writer made all his books in Persian availabe on his blog, free for all fans."
+    ],
+    "tokens": [
+      "Brazilian",
+      "author",
+      "Paulo",
+      "Coelho",
+      "says",
+      "his",
+      "books",
+      "were",
+      "banned",
+      "in",
+      "Iran",
+      "The",
+      "writer",
+      "made",
+      "all",
+      "his",
+      "books",
+      "in",
+      "Persian",
+      "availabe",
+      "on",
+      "his",
+      "blog",
+      ",",
+      "free",
+      "for",
+      "all",
+      "fans"
+    ]
+  }
 }

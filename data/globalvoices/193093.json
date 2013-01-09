@@ -5,5 +5,41 @@
   "original_body": "<em>ChinaHush</em> has <a href=http://www.chinahush.com/2011/02/01/afraid-to-go-home-for-the-new-year>translated the lyrics of a popular Internet song</a>, <em>Afraid to go home for the New Year</em>, written by He Puxian a drifter singer from Hubei.",
   "title": "China: Afraid to go home for the New Year",
   "byline": "Oiwan",
-  "pub_date": "2011-02-05T06:30:50Z"
+  "pub_date": "2011-02-05T06:30:50Z",
+  "decompositions": {
+    "sentence": [
+      "ChinaHush has translated the lyrics of a popular Internet song, Afraid to go home for the New Year, written by He Puxian a drifter singer from Hubei."
+    ],
+    "tokens": [
+      "ChinaHush",
+      "has",
+      "translated",
+      "the",
+      "lyrics",
+      "of",
+      "a",
+      "popular",
+      "Internet",
+      "song",
+      ",",
+      "Afraid",
+      "to",
+      "go",
+      "home",
+      "for",
+      "the",
+      "New",
+      "Year",
+      ",",
+      "written",
+      "by",
+      "He",
+      "Puxian",
+      "a",
+      "drifter",
+      "singer",
+      "from",
+      "Hubei"
+    ]
+  }
 }

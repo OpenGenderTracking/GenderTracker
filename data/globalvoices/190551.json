@@ -5,5 +5,41 @@
   "original_body": "Maldivian blogger <em>Hassan Ziyau</em> recently visited Srinagar, the capital of Indian controlled Kashmir and <a href=\"http://www.hassanziyau.com/2011/01/kashmir-beyond-troubled-state.html\">blogged about</a> the other side of Kashmir which often fails to capture the limelight.",
   "title": "India: Kashmir – Beyond the Troubled State",
   "byline": "rezwan",
-  "pub_date": "2011-01-28T21:30:57Z"
+  "pub_date": "2011-01-28T21:30:57Z",
+  "decompositions": {
+    "sentence": [
+      "Maldivian blogger Hassan Ziyau recently visited Srinagar, the capital of Indian controlled Kashmir and blogged about the other side of Kashmir which often fails to capture the limelight."
+    ],
+    "tokens": [
+      "Maldivian",
+      "blogger",
+      "Hassan",
+      "Ziyau",
+      "recently",
+      "visited",
+      "Srinagar",
+      ",",
+      "the",
+      "capital",
+      "of",
+      "Indian",
+      "controlled",
+      "Kashmir",
+      "and",
+      "blogged",
+      "about",
+      "the",
+      "other",
+      "side",
+      "of",
+      "Kashmir",
+      "which",
+      "often",
+      "fails",
+      "to",
+      "capture",
+      "the",
+      "limelight"
+    ]
+  }
 }

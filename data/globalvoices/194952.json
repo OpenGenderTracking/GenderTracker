@@ -5,5 +5,30 @@
   "original_body": "<em><a href=\"http://repeatingislands.com/2011/02/09/students-attacked-on-upr-campus-in-violent-incident-today/\">Repeating Islands</a></em> reports on the violent clashes between student protesters and police at the University of Puerto Rico. ",
   "title": "Puerto Rico: UPR Protests Continue ",
   "byline": "Janine Mendes-Franco",
-  "pub_date": "2011-02-10T17:46:51Z"
+  "pub_date": "2011-02-10T17:46:51Z",
+  "decompositions": {
+    "sentence": [
+      "Repeating Islands reports on the violent clashes between student protesters and police at the University of Puerto Rico."
+    ],
+    "tokens": [
+      "Repeating",
+      "Islands",
+      "reports",
+      "on",
+      "the",
+      "violent",
+      "clashes",
+      "between",
+      "student",
+      "protesters",
+      "and",
+      "police",
+      "at",
+      "the",
+      "University",
+      "of",
+      "Puerto",
+      "Rico"
+    ]
+  }
 }

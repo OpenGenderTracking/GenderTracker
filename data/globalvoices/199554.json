@@ -5,5 +5,29 @@
   "original_body": "<em>The Kalpak</em> <a href=\"http://www.thekalpak.net/2011/02/someplace-between-hope-and-despair.html\">writes</a> about his trip to Bakhchisaray - \"the hub of Crimean Tatar culture.\"",
   "title": "Ukraine: Trip to Bakhchisaray, Crimea",
   "byline": "Veronica Khokhlova",
-  "pub_date": "2011-02-23T02:22:07Z"
+  "pub_date": "2011-02-23T02:22:07Z",
+  "decompositions": {
+    "sentence": [
+      "The Kalpak writes about his trip to Bakhchisaray - \"the hub of Crimean Tatar culture.\""
+    ],
+    "tokens": [
+      "The",
+      "Kalpak",
+      "writes",
+      "about",
+      "his",
+      "trip",
+      "to",
+      "Bakhchisaray",
+      "-",
+      "\"",
+      "the",
+      "hub",
+      "of",
+      "Crimean",
+      "Tatar",
+      "culture",
+      "."
+    ]
+  }
 }

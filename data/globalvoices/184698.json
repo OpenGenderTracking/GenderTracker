@@ -5,5 +5,51 @@
   "original_body": "<a href=\"http://ea.com.py/gobierno-promulga-la-ley-de-lenguas/\"><em>E'a</em></a> [es] reports that the Paraguayan government has enacted a Law on Languages. <a href=\"http://indigenouspeoplesissues.com/index.php?option=com_content&amp;view=article&amp;id=8182:paraguay-congress-approves-law-on-languages-in-paraguay&amp;catid=53:south-america-indigenous-peoples&amp;Itemid=75\"><em>Indigenous Peoples Issues and Resources</em></a> explains that,\"The law requires public institutions to use the Guarani language as determined by the Constitution.\"",
   "title": "Paraguay: Government Enacts Law on Languages",
   "byline": "Silvia Vinas",
-  "pub_date": "2011-01-05T20:59:12Z"
+  "pub_date": "2011-01-05T20:59:12Z",
+  "decompositions": {
+    "sentence": [
+      "E'a [es] reports that the Paraguayan government has enacted a Law on Languages.",
+      "Indigenous Peoples Issues and Resources explains that,\"The law requires public institutions to use the Guarani language as determined by the Constitution.\""
+    ],
+    "tokens": [
+      "E'a",
+      "[es",
+      "]",
+      "reports",
+      "that",
+      "the",
+      "Paraguayan",
+      "government",
+      "has",
+      "enacted",
+      "a",
+      "Law",
+      "on",
+      "Languages",
+      "Indigenous",
+      "Peoples",
+      "Issues",
+      "and",
+      "Resources",
+      "explains",
+      "that",
+      ",\"",
+      "The",
+      "law",
+      "requires",
+      "public",
+      "institutions",
+      "to",
+      "use",
+      "the",
+      "Guarani",
+      "language",
+      "as",
+      "determined",
+      "by",
+      "the",
+      "Constitution",
+      "."
+    ]
+  }
 }

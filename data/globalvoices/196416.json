@@ -5,5 +5,25 @@
   "original_body": "<a href=\"http://www.investineritrea.com/\">Invest in Eritrea</a> is a blog about business and investment activities in Eritrea.\n",
   "title": "Eritrea: Invest in Eritrea blog",
   "byline": "ndesanjo macha",
-  "pub_date": "2011-02-15T14:44:45Z"
+  "pub_date": "2011-02-15T14:44:45Z",
+  "decompositions": {
+    "sentence": [
+      "Invest in Eritrea is a blog about business and investment activities in Eritrea."
+    ],
+    "tokens": [
+      "Invest",
+      "in",
+      "Eritrea",
+      "is",
+      "a",
+      "blog",
+      "about",
+      "business",
+      "and",
+      "investment",
+      "activities",
+      "in",
+      "Eritrea"
+    ]
+  }
 }

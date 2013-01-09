@@ -5,5 +5,33 @@
   "original_body": "<em>Reading Cafe</em> <a href=\"http://www.priyakanwar.com/2010/12/government-monitoring-of-email.html\">reacts on the</a> news that the Indian government is seriously considering asking Google to help it in monitoring emails.",
   "title": "India: Government Monitoring of Email",
   "byline": "rezwan",
-  "pub_date": "2011-01-12T20:06:27Z"
+  "pub_date": "2011-01-12T20:06:27Z",
+  "decompositions": {
+    "sentence": [
+      "Reading Cafe reacts on the news that the Indian government is seriously considering asking Google to help it in monitoring emails."
+    ],
+    "tokens": [
+      "Reading",
+      "Cafe",
+      "reacts",
+      "on",
+      "the",
+      "news",
+      "that",
+      "the",
+      "Indian",
+      "government",
+      "is",
+      "seriously",
+      "considering",
+      "asking",
+      "Google",
+      "to",
+      "help",
+      "it",
+      "in",
+      "monitoring",
+      "emails"
+    ]
+  }
 }

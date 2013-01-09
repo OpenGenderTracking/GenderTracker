@@ -5,5 +5,42 @@
   "original_body": "Jing Gao from <em>Ministry of Tofu</em> <a href=http://blog.minitofu.com/2011/01/music-video-application-to-join-the-chinese-communist-party-netizens-comments>translates</a> the lyrics of a music video on application to join the Chinese Communist Party as well as some netizens comment on the video.",
   "title": "China: Application to join the CCP",
   "byline": "Oiwan",
-  "pub_date": "2011-01-04T02:29:40Z"
+  "pub_date": "2011-01-04T02:29:40Z",
+  "decompositions": {
+    "sentence": [
+      "Jing Gao from Ministry of Tofu translates the lyrics of a music video on application to join the Chinese Communist Party as well as some netizens comment on the video."
+    ],
+    "tokens": [
+      "Jing",
+      "Gao",
+      "from",
+      "Ministry",
+      "of",
+      "Tofu",
+      "translates",
+      "the",
+      "lyrics",
+      "of",
+      "a",
+      "music",
+      "video",
+      "on",
+      "application",
+      "to",
+      "join",
+      "the",
+      "Chinese",
+      "Communist",
+      "Party",
+      "as",
+      "well",
+      "as",
+      "some",
+      "netizens",
+      "comment",
+      "on",
+      "the",
+      "video"
+    ]
+  }
 }

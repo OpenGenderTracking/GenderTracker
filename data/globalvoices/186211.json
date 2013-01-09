@@ -5,5 +5,34 @@
   "original_body": "<em>Sana Saleem</em> <a href=\"http://sanasaleem.com/2011/01/12/will-the-moderates-please-stand-up/\">proposes</a> a public discourse between the activists and clerics to resolve the current crisis in Pakistan with a mutual consensus. ",
   "title": "Pakistan: A Public Discourse Is Required",
   "byline": "rezwan",
-  "pub_date": "2011-01-12T20:00:14Z"
+  "pub_date": "2011-01-12T20:00:14Z",
+  "decompositions": {
+    "sentence": [
+      "Sana Saleem proposes a public discourse between the activists and clerics to resolve the current crisis in Pakistan with a mutual consensus."
+    ],
+    "tokens": [
+      "Sana",
+      "Saleem",
+      "proposes",
+      "a",
+      "public",
+      "discourse",
+      "between",
+      "the",
+      "activists",
+      "and",
+      "clerics",
+      "to",
+      "resolve",
+      "the",
+      "current",
+      "crisis",
+      "in",
+      "Pakistan",
+      "with",
+      "a",
+      "mutual",
+      "consensus"
+    ]
+  }
 }

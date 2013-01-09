@@ -5,5 +5,44 @@
   "original_body": "<em>Multibrand</em> from Indonesia reports that government ministers attending the meeting of the Association of South East Asian Nations (ASEAN) have agreed to establish and expand the <a href=\"http://networkedblogs.com/d746J\">ASEAN Community</a> in 2015. \n\n",
   "title": "Indonesia: The coming ASEAN community",
   "byline": "mong",
-  "pub_date": "2011-01-17T22:41:33Z"
+  "pub_date": "2011-01-17T22:41:33Z",
+  "decompositions": {
+    "sentence": [
+      "Multibrand from Indonesia reports that government ministers attending the meeting of the Association of South East Asian Nations (ASEAN) have agreed to establish and expand the ASEAN Community in 2015."
+    ],
+    "tokens": [
+      "Multibrand",
+      "from",
+      "Indonesia",
+      "reports",
+      "that",
+      "government",
+      "ministers",
+      "attending",
+      "the",
+      "meeting",
+      "of",
+      "the",
+      "Association",
+      "of",
+      "South",
+      "East",
+      "Asian",
+      "Nations",
+      "(",
+      "ASEAN",
+      ")",
+      "have",
+      "agreed",
+      "to",
+      "establish",
+      "and",
+      "expand",
+      "the",
+      "ASEAN",
+      "Community",
+      "in",
+      "2015"
+    ]
+  }
 }

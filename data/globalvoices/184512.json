@@ -5,5 +5,45 @@
   "original_body": "eLearning Africa <a href=\"http://www.kabissa.org/blog/elearning-africa-launches-scholarship-trust\">has launched the Scholarship Trust EAST</a>, a not for profit organisation designed to enhance knowledge sharing and to promote awareness of the benefits of technology-assisted learning and training across Africa.",
   "title": "Africa: eLearning Africa Launches Scholarship Trust",
   "byline": "ndesanjo macha",
-  "pub_date": "2011-01-04T15:46:30Z"
+  "pub_date": "2011-01-04T15:46:30Z",
+  "decompositions": {
+    "sentence": [
+      "eLearning Africa has launched the Scholarship Trust EAST, a not for profit organisation designed to enhance knowledge sharing and to promote awareness of the benefits of technology-assisted learning and training across Africa."
+    ],
+    "tokens": [
+      "eLearning",
+      "Africa",
+      "has",
+      "launched",
+      "the",
+      "Scholarship",
+      "Trust",
+      "EAST",
+      ",",
+      "a",
+      "not",
+      "for",
+      "profit",
+      "organisation",
+      "designed",
+      "to",
+      "enhance",
+      "knowledge",
+      "sharing",
+      "and",
+      "to",
+      "promote",
+      "awareness",
+      "of",
+      "the",
+      "benefits",
+      "of",
+      "technology-assisted",
+      "learning",
+      "and",
+      "training",
+      "across",
+      "Africa"
+    ]
+  }
 }

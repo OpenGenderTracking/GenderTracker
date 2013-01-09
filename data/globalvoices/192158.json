@@ -5,5 +5,26 @@
   "original_body": "<em><a href=\"http://www.weblogbahamas.com/blog_bahamas/2011/02/the-tragic-loss-of-a-great-bahamian.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Weblogbahamascom+%28WeblogBahamas.com%29\">Weblog Bahamas</a></em>' Jerome Pinder mourns the loss of \"a great Bahamian.\"",
   "title": "Bahamas: RIP Marcquel Bethel",
   "byline": "Janine Mendes-Franco",
-  "pub_date": "2011-02-02T17:44:06Z"
+  "pub_date": "2011-02-02T17:44:06Z",
+  "decompositions": {
+    "sentence": [
+      "Weblog Bahamas' Jerome Pinder mourns the loss of \"a great Bahamian.\""
+    ],
+    "tokens": [
+      "Weblog",
+      "Bahamas",
+      "'",
+      "Jerome",
+      "Pinder",
+      "mourns",
+      "the",
+      "loss",
+      "of",
+      "\"",
+      "a",
+      "great",
+      "Bahamian",
+      "."
+    ]
+  }
 }

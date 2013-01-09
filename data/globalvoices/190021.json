@@ -5,5 +5,51 @@
   "original_body": "\"The cliche that truth is stranger than fiction is true\": <em><a href=\"http://anniepaulose.wordpress.com/2011/01/26/dog-pawdog-heart/\">Active Voice</a></em> interviews the author of <em>Dog-Heart</em> about parallels with the story of Christopher ‘Dog Paw’ Linton, who was recently arrested by Jamaican police.  ",
   "title": "Jamaica: \"Dog-Paw\" ",
   "byline": "Janine Mendes-Franco",
-  "pub_date": "2011-01-27T17:25:39Z"
+  "pub_date": "2011-01-27T17:25:39Z",
+  "decompositions": {
+    "sentence": [
+      "\"The cliche that truth is stranger than fiction is true\": Active Voice interviews the author of Dog-Heart about parallels with the story of Christopher ‘Dog Paw’ Linton, who was recently arrested by Jamaican police."
+    ],
+    "tokens": [
+      "\"",
+      "The",
+      "cliche",
+      "that",
+      "truth",
+      "is",
+      "stranger",
+      "than",
+      "fiction",
+      "is",
+      "true",
+      "\"",
+      ":",
+      "Active",
+      "Voice",
+      "interviews",
+      "the",
+      "author",
+      "of",
+      "Dog-Heart",
+      "about",
+      "parallels",
+      "with",
+      "the",
+      "story",
+      "of",
+      "Christopher",
+      "‘Dog",
+      "Paw",
+      "’",
+      "Linton",
+      ",",
+      "who",
+      "was",
+      "recently",
+      "arrested",
+      "by",
+      "Jamaican",
+      "police"
+    ]
+  }
 }

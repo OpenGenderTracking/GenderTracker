@@ -5,5 +5,34 @@
   "original_body": "<a href=\"http://blog.worldvision.org.uk/\">Sara Lukey-Smith blogs </a>about life on the ground in Juba, Southern Sudan as voting as voting in the independence referendum continues. ",
   "title": "Sudan: Documenting life in Juba",
   "byline": "ndesanjo macha",
-  "pub_date": "2011-01-13T15:51:59Z"
+  "pub_date": "2011-01-13T15:51:59Z",
+  "decompositions": {
+    "sentence": [
+      "Sara Lukey-Smith blogs about life on the ground in Juba, Southern Sudan as voting as voting in the independence referendum continues."
+    ],
+    "tokens": [
+      "Sara",
+      "Lukey-Smith",
+      "blogs",
+      "about",
+      "life",
+      "on",
+      "the",
+      "ground",
+      "in",
+      "Juba",
+      ",",
+      "Southern",
+      "Sudan",
+      "as",
+      "voting",
+      "as",
+      "voting",
+      "in",
+      "the",
+      "independence",
+      "referendum",
+      "continues"
+    ]
+  }
 }

@@ -5,5 +5,44 @@
   "original_body": "Peking University's Portal Website calls for <a href=http://english.pku.edu.cn/News_Events/News/Campus/7726.htm>urgent attention on the recent introduction of censorship mechanism among the campus printing shops</a>: no political sensitive materials can be photocopied inside the campus. ",
   "title": "China: Censorship Virus Breaks into PKU Printers",
   "byline": "Oiwan",
-  "pub_date": "2011-01-30T04:54:08Z"
+  "pub_date": "2011-01-30T04:54:08Z",
+  "decompositions": {
+    "sentence": [
+      "Peking University's Portal Website calls for urgent attention on the recent introduction of censorship mechanism among the campus printing shops: no political sensitive materials can be photocopied inside the campus."
+    ],
+    "tokens": [
+      "Peking",
+      "University",
+      "'s",
+      "Portal",
+      "Website",
+      "calls",
+      "for",
+      "urgent",
+      "attention",
+      "on",
+      "the",
+      "recent",
+      "introduction",
+      "of",
+      "censorship",
+      "mechanism",
+      "among",
+      "the",
+      "campus",
+      "printing",
+      "shops",
+      ":",
+      "no",
+      "political",
+      "sensitive",
+      "materials",
+      "can",
+      "be",
+      "photocopied",
+      "inside",
+      "the",
+      "campus"
+    ]
+  }
 }

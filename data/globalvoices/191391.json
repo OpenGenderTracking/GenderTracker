@@ -5,5 +5,47 @@
   "original_body": "<em>Adil Najam</em> <a href=\"http://pakistaniat.com/2011/01/30/raymond-davis/\">writes about</a> the very strange case of Raymond Davis, a said staff member of the US Consulate in Lahore, who shot two Pakistani men dead in a crowded part of Lahore.",
   "title": "Pakistan: Blackwater Again?",
   "byline": "rezwan",
-  "pub_date": "2011-01-31T20:55:33Z"
+  "pub_date": "2011-01-31T20:55:33Z",
+  "decompositions": {
+    "sentence": [
+      "Adil Najam writes about the very strange case of Raymond Davis, a said staff member of the US Consulate in Lahore, who shot two Pakistani men dead in a crowded part of Lahore."
+    ],
+    "tokens": [
+      "Adil",
+      "Najam",
+      "writes",
+      "about",
+      "the",
+      "very",
+      "strange",
+      "case",
+      "of",
+      "Raymond",
+      "Davis",
+      ",",
+      "a",
+      "said",
+      "staff",
+      "member",
+      "of",
+      "the",
+      "US",
+      "Consulate",
+      "in",
+      "Lahore",
+      ",",
+      "who",
+      "shot",
+      "two",
+      "Pakistani",
+      "men",
+      "dead",
+      "in",
+      "a",
+      "crowded",
+      "part",
+      "of",
+      "Lahore"
+    ]
+  }
 }

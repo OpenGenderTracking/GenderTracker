@@ -5,5 +5,24 @@
   "original_body": "<a href=\"http://twitter.com/#!/BotswanaTourism/status/24556781468393472\">Vote </a>in Best Botswana Photo of 2010 Contest organised by Botswana Tourism. ",
   "title": "Botswana: Best Botswana Photo of 2010 Contest",
   "byline": "ndesanjo macha",
-  "pub_date": "2011-01-11T13:05:49Z"
+  "pub_date": "2011-01-11T13:05:49Z",
+  "decompositions": {
+    "sentence": [
+      "Vote in Best Botswana Photo of 2010 Contest organised by Botswana Tourism."
+    ],
+    "tokens": [
+      "Vote",
+      "in",
+      "Best",
+      "Botswana",
+      "Photo",
+      "of",
+      "2010",
+      "Contest",
+      "organised",
+      "by",
+      "Botswana",
+      "Tourism"
+    ]
+  }
 }

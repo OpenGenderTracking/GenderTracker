@@ -5,5 +5,44 @@
   "original_body": "<em>Ujjwal Acharya</em> <a href=\"http://www.nepalivoices.com/nepal-blog/2011/01/12/questioning-kantipur%E2%80%99s-sms-feedback-approach/\">questions</a> the newly introduced practice of two dailies of Nepal - Kantipur and The Kathmandu Post - where readers can send their feedback on opinion pieces and editorial via SMS.",
   "title": "Nepal: Feedback On Newspaper Articles Via SMS",
   "byline": "rezwan",
-  "pub_date": "2011-01-12T19:44:19Z"
+  "pub_date": "2011-01-12T19:44:19Z",
+  "decompositions": {
+    "sentence": [
+      "Ujjwal Acharya questions the newly introduced practice of two dailies of Nepal - Kantipur and The Kathmandu Post - where readers can send their feedback on opinion pieces and editorial via SMS."
+    ],
+    "tokens": [
+      "Ujjwal",
+      "Acharya",
+      "questions",
+      "the",
+      "newly",
+      "introduced",
+      "practice",
+      "of",
+      "two",
+      "dailies",
+      "of",
+      "Nepal",
+      "-",
+      "Kantipur",
+      "and",
+      "The",
+      "Kathmandu",
+      "Post",
+      "-",
+      "where",
+      "readers",
+      "can",
+      "send",
+      "their",
+      "feedback",
+      "on",
+      "opinion",
+      "pieces",
+      "and",
+      "editorial",
+      "via",
+      "SMS."
+    ]
+  }
 }

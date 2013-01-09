@@ -5,5 +5,26 @@
   "original_body": "<em>Bill's Blog</em> <a href=\"http://billkralovec.com/2011/02/03/remembering-the-holocaust-in-belgrade/\">writes</a> about Semlin Judenlager, a Nazi concentration camp in Belgrade.",
   "title": "Serbia: The Semlin Nazi Concentration Camp",
   "byline": "Veronica Khokhlova",
-  "pub_date": "2011-02-17T00:31:03Z"
+  "pub_date": "2011-02-17T00:31:03Z",
+  "decompositions": {
+    "sentence": [
+      "Bill's Blog writes about Semlin Judenlager, a Nazi concentration camp in Belgrade."
+    ],
+    "tokens": [
+      "Bill",
+      "'s",
+      "Blog",
+      "writes",
+      "about",
+      "Semlin",
+      "Judenlager",
+      ",",
+      "a",
+      "Nazi",
+      "concentration",
+      "camp",
+      "in",
+      "Belgrade"
+    ]
+  }
 }

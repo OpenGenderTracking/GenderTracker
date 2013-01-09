@@ -5,5 +5,49 @@
   "original_body": "Conservation blogger Samuel Maina <a href=\"http://baraza.wildlifedirect.org/2011/01/08/uk-listed-companies-want-to-drill-oil-in-virunga/\">is shocked to learn that two companies listed </a>in the London Stock Exchange, SOCO and Dominion, plan to drill for oil in Africa’s oldest park, the Virunga National Park.",
   "title": "D.R. of Congo: UK listed companies want to drill oil in Virunga!",
   "byline": "ndesanjo macha",
-  "pub_date": "2011-01-21T15:47:14Z"
+  "pub_date": "2011-01-21T15:47:14Z",
+  "decompositions": {
+    "sentence": [
+      "Conservation blogger Samuel Maina is shocked to learn that two companies listed in the London Stock Exchange, SOCO and Dominion, plan to drill for oil in Africa’s oldest park, the Virunga National Park."
+    ],
+    "tokens": [
+      "Conservation",
+      "blogger",
+      "Samuel",
+      "Maina",
+      "is",
+      "shocked",
+      "to",
+      "learn",
+      "that",
+      "two",
+      "companies",
+      "listed",
+      "in",
+      "the",
+      "London",
+      "Stock",
+      "Exchange",
+      ",",
+      "SOCO",
+      "and",
+      "Dominion",
+      ",",
+      "plan",
+      "to",
+      "drill",
+      "for",
+      "oil",
+      "in",
+      "Africa",
+      "’s",
+      "oldest",
+      "park",
+      ",",
+      "the",
+      "Virunga",
+      "National",
+      "Park"
+    ]
+  }
 }

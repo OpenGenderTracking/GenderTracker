@@ -5,5 +5,43 @@
   "original_body": "<a href=\"http://www.ugandawatch2011.org/\">Uganda Watch 2011 </a>is a website created to provide Ugandans with a way to share their observations about elections. Citizens can SMS 6090 to report election abuses or ask questions.",
   "title": "Uganda: Uganda Watch 2011",
   "byline": "ndesanjo macha",
-  "pub_date": "2011-01-11T12:41:24Z"
+  "pub_date": "2011-01-11T12:41:24Z",
+  "decompositions": {
+    "sentence": [
+      "Uganda Watch 2011 is a website created to provide Ugandans with a way to share their observations about elections.",
+      "Citizens can SMS 6090 to report election abuses or ask questions."
+    ],
+    "tokens": [
+      "Uganda",
+      "Watch",
+      "2011",
+      "is",
+      "a",
+      "website",
+      "created",
+      "to",
+      "provide",
+      "Ugandans",
+      "with",
+      "a",
+      "way",
+      "to",
+      "share",
+      "their",
+      "observations",
+      "about",
+      "elections",
+      "Citizens",
+      "can",
+      "SMS",
+      "6090",
+      "to",
+      "report",
+      "election",
+      "abuses",
+      "or",
+      "ask",
+      "questions"
+    ]
+  }
 }

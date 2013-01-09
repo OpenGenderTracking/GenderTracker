@@ -5,5 +5,29 @@
   "original_body": "<a href=\"http://www.saigonnezumi.com/2011/01/27/vietnam-to-expel-undocumented-foreign-workers/\">saigonnezumi</a> discusses the social and economic impact if Vietnam decides to expel about 30,000 undocumented foreign workers.\n\n",
   "title": "Vietnam to expel undocumented foreign workers",
   "byline": "mong",
-  "pub_date": "2011-01-28T03:21:48Z"
+  "pub_date": "2011-01-28T03:21:48Z",
+  "decompositions": {
+    "sentence": [
+      "saigonnezumi discusses the social and economic impact if Vietnam decides to expel about 30,000 undocumented foreign workers."
+    ],
+    "tokens": [
+      "saigonnezumi",
+      "discusses",
+      "the",
+      "social",
+      "and",
+      "economic",
+      "impact",
+      "if",
+      "Vietnam",
+      "decides",
+      "to",
+      "expel",
+      "about",
+      "30,000",
+      "undocumented",
+      "foreign",
+      "workers"
+    ]
+  }
 }

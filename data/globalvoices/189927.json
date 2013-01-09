@@ -5,5 +5,40 @@
   "original_body": "Here is a <a href=\"http://www.youtube.com/watch?v=grDHExQgk8Y&feature=fvw\">video film </a>about a celebration in a high school in Iran before the revolution. You can see girls without veil with their male classmates.",
   "title": "Iran:High school celebration before the Islamic Revolution",
   "byline": "Hamid Tehrani",
-  "pub_date": "2011-01-27T10:45:00Z"
+  "pub_date": "2011-01-27T10:45:00Z",
+  "decompositions": {
+    "sentence": [
+      "Here is a video film about a celebration in a high school in Iran before the revolution.",
+      "You can see girls without veil with their male classmates."
+    ],
+    "tokens": [
+      "Here",
+      "is",
+      "a",
+      "video",
+      "film",
+      "about",
+      "a",
+      "celebration",
+      "in",
+      "a",
+      "high",
+      "school",
+      "in",
+      "Iran",
+      "before",
+      "the",
+      "revolution",
+      "You",
+      "can",
+      "see",
+      "girls",
+      "without",
+      "veil",
+      "with",
+      "their",
+      "male",
+      "classmates"
+    ]
+  }
 }

@@ -5,5 +5,49 @@
   "original_body": "Samuel Wade from <em>China Digital Times</em> brings the readers' attention to Apple company's <a href=http://chinadigitaltimes.net/2011/02/apple-releases-new-supplier-responsibility-report>new supplier responsibility report</a>. The company pledges greater cooperation with Chinese NGOs in the future in the monitoring of labour condition. ",
   "title": "China: Apple's new supplier responsibility report",
   "byline": "Oiwan",
-  "pub_date": "2011-02-15T06:29:45Z"
+  "pub_date": "2011-02-15T06:29:45Z",
+  "decompositions": {
+    "sentence": [
+      "Samuel Wade from China Digital Times brings the readers' attention to Apple company's new supplier responsibility report.",
+      "The company pledges greater cooperation with Chinese NGOs in the future in the monitoring of labour condition."
+    ],
+    "tokens": [
+      "Samuel",
+      "Wade",
+      "from",
+      "China",
+      "Digital",
+      "Times",
+      "brings",
+      "the",
+      "readers",
+      "'",
+      "attention",
+      "to",
+      "Apple",
+      "company",
+      "'s",
+      "new",
+      "supplier",
+      "responsibility",
+      "report",
+      "The",
+      "company",
+      "pledges",
+      "greater",
+      "cooperation",
+      "with",
+      "Chinese",
+      "NGOs",
+      "in",
+      "the",
+      "future",
+      "in",
+      "the",
+      "monitoring",
+      "of",
+      "labour",
+      "condition"
+    ]
+  }
 }

@@ -5,5 +5,44 @@
   "original_body": "<em><a href=\"http://salman-andary.blogspot.com/2011/01/blog-post_06.html\">Salmanonline</a></em> posts an article (Ar) about drugs addiction among the Lebanese youth. He discusses the role played by some political parties and other specialized organizations to combat its widespread.",
   "title": "Lebanon: Fighting Drugs",
   "byline": "Moussa Bachir",
-  "pub_date": "2011-01-09T09:02:31Z"
+  "pub_date": "2011-01-09T09:02:31Z",
+  "decompositions": {
+    "sentence": [
+      "Salmanonline posts an article (Ar) about drugs addiction among the Lebanese youth.",
+      "He discusses the role played by some political parties and other specialized organizations to combat its widespread."
+    ],
+    "tokens": [
+      "Salmanonline",
+      "posts",
+      "an",
+      "article",
+      "(",
+      "Ar",
+      ")",
+      "about",
+      "drugs",
+      "addiction",
+      "among",
+      "the",
+      "Lebanese",
+      "youth",
+      "He",
+      "discusses",
+      "the",
+      "role",
+      "played",
+      "by",
+      "some",
+      "political",
+      "parties",
+      "and",
+      "other",
+      "specialized",
+      "organizations",
+      "to",
+      "combat",
+      "its",
+      "widespread"
+    ]
+  }
 }

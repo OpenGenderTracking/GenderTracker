@@ -5,5 +5,26 @@
   "original_body": "<em>Tibetan Plateau blog</em> <a href=http://tibetanplateau.blogspot.com/2011/01/using-google-earth-to-monitor-mining-in.html>uses Google Earth to monitor mining activities</a> in Gyama, Tibet.",
   "title": "China: Mining in Tibet",
   "byline": "Oiwan",
-  "pub_date": "2011-01-11T04:31:42Z"
+  "pub_date": "2011-01-11T04:31:42Z",
+  "decompositions": {
+    "sentence": [
+      "Tibetan Plateau blog uses Google Earth to monitor mining activities in Gyama, Tibet."
+    ],
+    "tokens": [
+      "Tibetan",
+      "Plateau",
+      "blog",
+      "uses",
+      "Google",
+      "Earth",
+      "to",
+      "monitor",
+      "mining",
+      "activities",
+      "in",
+      "Gyama",
+      ",",
+      "Tibet"
+    ]
+  }
 }

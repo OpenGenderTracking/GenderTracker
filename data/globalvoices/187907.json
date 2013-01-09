@@ -5,5 +5,44 @@
   "original_body": "Jota Cê Carranca calls all netcitizens to help him reach the number 500 in a list of <a href=\"http://blogsquefalamdeangola.blogspot.com/\">\"Blogs that Talk about Angola</a>\" [pt]. Until today he has gathered 443.",
   "title": "Angola: Listing blogs that talk about the country",
   "byline": "Sara Moreira",
-  "pub_date": "2011-01-19T14:36:02Z"
+  "pub_date": "2011-01-19T14:36:02Z",
+  "decompositions": {
+    "sentence": [
+      "Jota Cê Carranca calls all netcitizens to help him reach the number 500 in a list of \"Blogs that Talk about Angola\" [pt].",
+      "Until today he has gathered 443."
+    ],
+    "tokens": [
+      "Jota",
+      "Cê",
+      "Carranca",
+      "calls",
+      "all",
+      "netcitizens",
+      "to",
+      "help",
+      "him",
+      "reach",
+      "the",
+      "number",
+      "500",
+      "in",
+      "a",
+      "list",
+      "of",
+      "\"",
+      "Blogs",
+      "that",
+      "Talk",
+      "about",
+      "Angola",
+      "\"",
+      "[pt]",
+      "Until",
+      "today",
+      "he",
+      "has",
+      "gathered",
+      "443"
+    ]
+  }
 }

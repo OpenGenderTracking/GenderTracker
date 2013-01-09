@@ -5,5 +5,42 @@
   "original_body": "Jing Gao from <em>the Ministry of Tufu</em> <a href=http://blog.minitofu.com/2011/01/first-chinese-sex-negative-website-launched-bashing-gays-and-masturbation-among-others>reports</a> on the launching of a non-governmental website <a href=http://www.haongo.com>haongo.com</a> which campaigns against eroticism as well as extramarital sex,  homosexuality and masturbation. ",
   "title": "First Chinese sex-negative website launched",
   "byline": "Oiwan",
-  "pub_date": "2011-01-06T05:15:25Z"
+  "pub_date": "2011-01-06T05:15:25Z",
+  "decompositions": {
+    "sentence": [
+      "Jing Gao from the Ministry of Tufu reports on the launching of a non-governmental website haongo.com",
+      "which campaigns against eroticism as well as extramarital sex,  homosexuality and masturbation."
+    ],
+    "tokens": [
+      "Jing",
+      "Gao",
+      "from",
+      "the",
+      "Ministry",
+      "of",
+      "Tufu",
+      "reports",
+      "on",
+      "the",
+      "launching",
+      "of",
+      "a",
+      "non-governmental",
+      "website",
+      "haongo.com",
+      "which",
+      "campaigns",
+      "against",
+      "eroticism",
+      "as",
+      "well",
+      "as",
+      "extramarital",
+      "sex",
+      ",",
+      "homosexuality",
+      "and",
+      "masturbation"
+    ]
+  }
 }

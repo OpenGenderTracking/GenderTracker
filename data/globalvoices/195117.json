@@ -5,5 +5,46 @@
   "original_body": "Korean activists and Egyptians living in South Korea held a protest in front of the Egyptian Embassy in Seoul today, urging quick withdrawal of Mubarak, South Korea's <a href=\"https://twitter.com/mediamongu/status/35907110516563968\">influential blogger/Twitter <em>@mediamongu</em> tweeted[ko].</a>",
   "title": "South Korea: A Protest Against Mubarak Held in Seoul",
   "byline": "yooeun",
-  "pub_date": "2011-02-11T04:55:23Z"
+  "pub_date": "2011-02-11T04:55:23Z",
+  "decompositions": {
+    "sentence": [
+      "Korean activists and Egyptians living in South Korea held a protest in front of the Egyptian Embassy in Seoul today, urging quick withdrawal of Mubarak, South Korea's influential blogger/Twitter @mediamongu tweeted[ko]."
+    ],
+    "tokens": [
+      "Korean",
+      "activists",
+      "and",
+      "Egyptians",
+      "living",
+      "in",
+      "South",
+      "Korea",
+      "held",
+      "a",
+      "protest",
+      "in",
+      "front",
+      "of",
+      "the",
+      "Egyptian",
+      "Embassy",
+      "in",
+      "Seoul",
+      "today",
+      ",",
+      "urging",
+      "quick",
+      "withdrawal",
+      "of",
+      "Mubarak",
+      ",",
+      "South",
+      "Korea",
+      "'s",
+      "influential",
+      "blogger/Twitter",
+      "@mediamongu",
+      "tweeted[ko]"
+    ]
+  }
 }

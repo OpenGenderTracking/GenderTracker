@@ -5,5 +5,43 @@
   "original_body": "<em>J Rahman</em> at <em>Mukti</em> <a href=\"http://jrahman.wordpress.com/2011/01/15/islamic-secularism/\">opines that</a> the new education policy of Bangladesh, which seeks to modernize the country’s madrassahs, can one day create a secular state in Bangladesh.",
   "title": "Education Policy For A Secular Bangladesh ",
   "byline": "rezwan",
-  "pub_date": "2011-01-18T19:38:03Z"
+  "pub_date": "2011-01-18T19:38:03Z",
+  "decompositions": {
+    "sentence": [
+      "J Rahman at Mukti opines that the new education policy of Bangladesh, which seeks to modernize the country’s madrassahs, can one day create a secular state in Bangladesh."
+    ],
+    "tokens": [
+      "J",
+      "Rahman",
+      "at",
+      "Mukti",
+      "opines",
+      "that",
+      "the",
+      "new",
+      "education",
+      "policy",
+      "of",
+      "Bangladesh",
+      ",",
+      "which",
+      "seeks",
+      "to",
+      "modernize",
+      "the",
+      "country",
+      "’s",
+      "madrassahs",
+      ",",
+      "can",
+      "one",
+      "day",
+      "create",
+      "a",
+      "secular",
+      "state",
+      "in",
+      "Bangladesh"
+    ]
+  }
 }

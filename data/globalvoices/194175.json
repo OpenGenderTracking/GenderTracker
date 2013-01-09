@@ -5,5 +5,36 @@
   "original_body": "At the Youtube Channel <a href=\"http://www.youtube.com/user/geofg\">Nina in Japan</a>, an elementary-school girl explains [en] <a href=\"http://www.youtube.com/watch?v=XyYMVbk2zHg\">the situation in Egypt</a> from her young point of view.",
   "title": "Japan: Little girl explains the situation in Egypt",
   "byline": "Scilla Alecci",
-  "pub_date": "2011-02-09T01:33:50Z"
+  "pub_date": "2011-02-09T01:33:50Z",
+  "decompositions": {
+    "sentence": [
+      "At the Youtube Channel Nina in Japan, an elementary-school girl explains [en] the situation in Egypt from her young point of view."
+    ],
+    "tokens": [
+      "At",
+      "the",
+      "Youtube",
+      "Channel",
+      "Nina",
+      "in",
+      "Japan",
+      ",",
+      "an",
+      "elementary-school",
+      "girl",
+      "explains",
+      "[en",
+      "]",
+      "the",
+      "situation",
+      "in",
+      "Egypt",
+      "from",
+      "her",
+      "young",
+      "point",
+      "of",
+      "view"
+    ]
+  }
 }

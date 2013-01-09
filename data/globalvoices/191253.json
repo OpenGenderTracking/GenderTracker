@@ -5,5 +5,37 @@
   "original_body": "<em><a href=\"http://gspottt.wordpress.com/2011/01/29/caribbean-groups-join-international-community-in-saluting-murdered-african-human-rights-worker-david-kato-kisule/\">gspotttt</a></em> and <em><a href=\"http://globewriter.wordpress.com/2011/01/28/rip-david-kato/\">Globewriter</a></em> join their voices in offering \"tribute to the life of slain Sexual Minorities Uganda human rights defender David Kato Kisule.\"",
   "title": "Trinidad & Tobago: In Solidarity Over Kato's Death ",
   "byline": "Janine Mendes-Franco",
-  "pub_date": "2011-01-31T13:18:06Z"
+  "pub_date": "2011-01-31T13:18:06Z",
+  "decompositions": {
+    "sentence": [
+      "gspotttt and Globewriter join their voices in offering \"tribute to the life of slain Sexual Minorities Uganda human rights defender David Kato Kisule.\""
+    ],
+    "tokens": [
+      "gspotttt",
+      "and",
+      "Globewriter",
+      "join",
+      "their",
+      "voices",
+      "in",
+      "offering",
+      "\"",
+      "tribute",
+      "to",
+      "the",
+      "life",
+      "of",
+      "slain",
+      "Sexual",
+      "Minorities",
+      "Uganda",
+      "human",
+      "rights",
+      "defender",
+      "David",
+      "Kato",
+      "Kisule",
+      "."
+    ]
+  }
 }

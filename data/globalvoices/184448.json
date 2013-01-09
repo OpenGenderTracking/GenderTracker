@@ -5,5 +5,47 @@
   "original_body": "At the start of the new year, Jamaican blogger <em>Ruthibelle</em> <a href=\"http://ruthibelle.blogspot.com/2011/01/dreams-turned-hostile.html\">contemplates</a> \"a people who must live not as they want, but as they are compelled to by 'circumstances beyond their control'\".",
   "title": "Jamaica: broken dreams",
   "byline": "Nicholas Laughlin",
-  "pub_date": "2011-01-03T21:39:21Z"
+  "pub_date": "2011-01-03T21:39:21Z",
+  "decompositions": {
+    "sentence": [
+      "At the start of the new year, Jamaican blogger Ruthibelle contemplates \"a people who must live not as they want, but as they are compelled to by 'circumstances beyond their control'\"."
+    ],
+    "tokens": [
+      "At",
+      "the",
+      "start",
+      "of",
+      "the",
+      "new",
+      "year",
+      ",",
+      "Jamaican",
+      "blogger",
+      "Ruthibelle",
+      "contemplates",
+      "\"",
+      "a",
+      "people",
+      "who",
+      "must",
+      "live",
+      "not",
+      "as",
+      "they",
+      "want",
+      ",",
+      "but",
+      "as",
+      "they",
+      "are",
+      "compelled",
+      "to",
+      "by",
+      "'circumstances",
+      "beyond",
+      "their",
+      "control",
+      "'\""
+    ]
+  }
 }

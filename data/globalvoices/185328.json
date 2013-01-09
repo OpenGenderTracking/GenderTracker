@@ -5,5 +5,43 @@
   "original_body": "The <a href=\"http://www.android-group.jp/\">Japan Android Group</a> is hosting the \"<a href=\"http://www.android-group.jp/abc2011w/\">Android Bazaar and Conference 2011 Winter</a>\" at Tokyo University today, and many people are tweeting about it with the hashtag <a href=\"http://search.twitter.com/search?q=%23abc2011w\">#abc2011w</a>. ",
   "title": "Japan: Android Conference",
   "byline": "Tomomi Sasaki",
-  "pub_date": "2011-01-09T12:02:09Z"
+  "pub_date": "2011-01-09T12:02:09Z",
+  "decompositions": {
+    "sentence": [
+      "The Japan Android Group is hosting the \"Android Bazaar and Conference 2011 Winter\" at Tokyo University today, and many people are tweeting about it with the hashtag #abc2011w."
+    ],
+    "tokens": [
+      "The",
+      "Japan",
+      "Android",
+      "Group",
+      "is",
+      "hosting",
+      "the",
+      "\"",
+      "Android",
+      "Bazaar",
+      "and",
+      "Conference",
+      "2011",
+      "Winter",
+      "\"",
+      "at",
+      "Tokyo",
+      "University",
+      "today",
+      ",",
+      "and",
+      "many",
+      "people",
+      "are",
+      "tweeting",
+      "about",
+      "it",
+      "with",
+      "the",
+      "hashtag",
+      "#abc2011w"
+    ]
+  }
 }

@@ -5,5 +5,36 @@
   "original_body": "<a href=\"http://pamboleras.blogspot.com/\"><em>Pamboleras</em></a> [es] is a Mexican blog written by and for women who love \"the most beautiful sport on earth\": football [soccer].",
   "title": "Mexico: A blog by and for female football fans",
   "byline": "Silvia Vinas",
-  "pub_date": "2011-01-19T16:12:35Z"
+  "pub_date": "2011-01-19T16:12:35Z",
+  "decompositions": {
+    "sentence": [
+      "Pamboleras [es] is a Mexican blog written by and for women who love \"the most beautiful sport on earth\": football [soccer]."
+    ],
+    "tokens": [
+      "Pamboleras",
+      "[es",
+      "]",
+      "is",
+      "a",
+      "Mexican",
+      "blog",
+      "written",
+      "by",
+      "and",
+      "for",
+      "women",
+      "who",
+      "love",
+      "\"",
+      "the",
+      "most",
+      "beautiful",
+      "sport",
+      "on",
+      "earth\"",
+      ":",
+      "football",
+      "[soccer]"
+    ]
+  }
 }

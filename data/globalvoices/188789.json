@@ -5,5 +5,25 @@
   "original_body": "Bahraini Sabeeka <a href=\"http://sabeeka-mythoughts.blogspot.com/2011/01/our-arabian-homeland.html\">questions</a> the meaning of \"our Arabian homeland\" in this post. ",
   "title": "Bahrain: Our Arabian Homeland ",
   "byline": "Amira Al Hussaini",
-  "pub_date": "2011-01-23T22:17:39Z"
+  "pub_date": "2011-01-23T22:17:39Z",
+  "decompositions": {
+    "sentence": [
+      "Bahraini Sabeeka questions the meaning of \"our Arabian homeland\" in this post."
+    ],
+    "tokens": [
+      "Bahraini",
+      "Sabeeka",
+      "questions",
+      "the",
+      "meaning",
+      "of",
+      "\"our",
+      "Arabian",
+      "homeland",
+      "\"",
+      "in",
+      "this",
+      "post"
+    ]
+  }
 }

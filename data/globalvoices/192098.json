@@ -5,5 +5,41 @@
   "original_body": "<em>Tshering Tobgay</em> <a href=\"http://www.tsheringtobgay.com/education/2011/bhutan-by-bhutanese.html\">highlights</a> “Bhutan by Bhutanese”, a photo-exhibition taking place in the city of Baar in Switzerland, which showcases Bhutan as the Bhutanese see their own country.",
   "title": "Bhutan By Bhutanese",
   "byline": "rezwan",
-  "pub_date": "2011-02-02T16:52:00Z"
+  "pub_date": "2011-02-02T16:52:00Z",
+  "decompositions": {
+    "sentence": [
+      "Tshering Tobgay highlights “Bhutan by Bhutanese”, a photo-exhibition taking place in the city of Baar in Switzerland, which showcases Bhutan as the Bhutanese see their own country."
+    ],
+    "tokens": [
+      "Tshering",
+      "Tobgay",
+      "highlights",
+      "“Bhutan",
+      "by",
+      "Bhutanese”",
+      ",",
+      "a",
+      "photo-exhibition",
+      "taking",
+      "place",
+      "in",
+      "the",
+      "city",
+      "of",
+      "Baar",
+      "in",
+      "Switzerland",
+      ",",
+      "which",
+      "showcases",
+      "Bhutan",
+      "as",
+      "the",
+      "Bhutanese",
+      "see",
+      "their",
+      "own",
+      "country"
+    ]
+  }
 }

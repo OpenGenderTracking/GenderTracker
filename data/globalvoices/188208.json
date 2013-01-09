@@ -5,5 +5,39 @@
   "original_body": "<em>BRAC Blog</em> <a href=\"http://blog.bracusa.org/2011/01/update-on-earthquake-in-pakistan.html\">informs</a> about yesterday's 7.4 magnitude earthquake in South Western Pakistan: \"there were no casualties or damage to houses or other assets.\"  ",
   "title": "Pakistan: Earthquake In South West Pakistan",
   "byline": "rezwan",
-  "pub_date": "2011-01-20T19:47:17Z"
+  "pub_date": "2011-01-20T19:47:17Z",
+  "decompositions": {
+    "sentence": [
+      "BRAC Blog informs about yesterday's 7.4 magnitude earthquake in South Western Pakistan: \"there were no casualties or damage to houses or other assets.\""
+    ],
+    "tokens": [
+      "BRAC",
+      "Blog",
+      "informs",
+      "about",
+      "yesterday",
+      "'s",
+      "7.4",
+      "magnitude",
+      "earthquake",
+      "in",
+      "South",
+      "Western",
+      "Pakistan",
+      ":",
+      "\"",
+      "there",
+      "were",
+      "no",
+      "casualties",
+      "or",
+      "damage",
+      "to",
+      "houses",
+      "or",
+      "other",
+      "assets",
+      "."
+    ]
+  }
 }

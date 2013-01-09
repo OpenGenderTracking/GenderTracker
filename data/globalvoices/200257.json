@@ -5,5 +5,47 @@
   "original_body": "<em>Sans Serif</em> <a href=\"http://wearethebest.wordpress.com/2011/02/24/guess-what-i-bought-my-girlfriend-on-feb-14/\">reports</a> that the former Karnataka chief minister H.D. Kumaraswamy has bought the struggling 24×7 Kannada news channel, Samaya, as a “gift” for his girlfriend, the former movie actress Radhika.",
   "title": "India: A TV Channel As A Valentine's Day Gift ",
   "byline": "rezwan",
-  "pub_date": "2011-02-24T22:07:53Z"
+  "pub_date": "2011-02-24T22:07:53Z",
+  "decompositions": {
+    "sentence": [
+      "Sans Serif reports that the former Karnataka chief minister H.D. Kumaraswamy has bought the struggling 24×7 Kannada news channel, Samaya, as a “gift” for his girlfriend, the former movie actress Radhika."
+    ],
+    "tokens": [
+      "Sans",
+      "Serif",
+      "reports",
+      "that",
+      "the",
+      "former",
+      "Karnataka",
+      "chief",
+      "minister",
+      "H.D.",
+      "Kumaraswamy",
+      "has",
+      "bought",
+      "the",
+      "struggling",
+      "24×7",
+      "Kannada",
+      "news",
+      "channel",
+      ",",
+      "Samaya",
+      ",",
+      "as",
+      "a",
+      "“gift",
+      "”",
+      "for",
+      "his",
+      "girlfriend",
+      ",",
+      "the",
+      "former",
+      "movie",
+      "actress",
+      "Radhika"
+    ]
+  }
 }

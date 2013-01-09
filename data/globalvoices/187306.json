@@ -5,5 +5,28 @@
   "original_body": "Fahem Med Ali has <a href=\"http://www.youtube.com/watch?v=nakyXcJ1Tec&feature=player_embedded\">created a short animation </a>to honour the martyrs of freedom in Tunisia.",
   "title": "Tunisia:Animation for the martyrs of freedom",
   "byline": "Hamid Tehrani",
-  "pub_date": "2011-01-17T11:21:32Z"
+  "pub_date": "2011-01-17T11:21:32Z",
+  "decompositions": {
+    "sentence": [
+      "Fahem Med Ali has created a short animation to honour the martyrs of freedom in Tunisia."
+    ],
+    "tokens": [
+      "Fahem",
+      "Med",
+      "Ali",
+      "has",
+      "created",
+      "a",
+      "short",
+      "animation",
+      "to",
+      "honour",
+      "the",
+      "martyrs",
+      "of",
+      "freedom",
+      "in",
+      "Tunisia"
+    ]
+  }
 }

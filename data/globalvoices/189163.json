@@ -5,5 +5,42 @@
   "original_body": "<em>Esfera </em> [Sphere, pt] has launched the <a href=\"http://blog.esfera.mobi/microbolsas-hacker-2a-chamada-2101/\">second round of micro grants</a> for transparency hackers in Brazil. Find out <a href=\"http://blog.esfera.mobi/sobre-as-microbolsas-hackers/\">what they are looking for</a> and apply until February 5.",
   "title": "Brazil: Micro Grants for Transparency Hackers",
   "byline": "Sara Moreira",
-  "pub_date": "2011-01-25T03:22:15Z"
+  "pub_date": "2011-01-25T03:22:15Z",
+  "decompositions": {
+    "sentence": [
+      "Esfera  [Sphere, pt] has launched the second round of micro grants for transparency hackers in Brazil.",
+      "Find out what they are looking for and apply until February 5."
+    ],
+    "tokens": [
+      "Esfera",
+      "[Sphere",
+      ",",
+      "pt]",
+      "has",
+      "launched",
+      "the",
+      "second",
+      "round",
+      "of",
+      "micro",
+      "grants",
+      "for",
+      "transparency",
+      "hackers",
+      "in",
+      "Brazil",
+      "Find",
+      "out",
+      "what",
+      "they",
+      "are",
+      "looking",
+      "for",
+      "and",
+      "apply",
+      "until",
+      "February",
+      "5"
+    ]
+  }
 }

@@ -5,5 +5,29 @@
   "original_body": "A third arrest and release for Guillermo Fariñas in three days: <em><a href=\"http://marcmasferrer.typepad.com/uncommon_sense/2011/01/for-the-second-time-farinas-is-caught-threatened-and-released-cuba.html\">Uncommon Sense</a></em> has the details. ",
   "title": "Cuba: Arrest & Release #3",
   "byline": "Janine Mendes-Franco",
-  "pub_date": "2011-01-31T13:11:08Z"
+  "pub_date": "2011-01-31T13:11:08Z",
+  "decompositions": {
+    "sentence": [
+      "A third arrest and release for Guillermo Fariñas in three days: Uncommon Sense has the details."
+    ],
+    "tokens": [
+      "A",
+      "third",
+      "arrest",
+      "and",
+      "release",
+      "for",
+      "Guillermo",
+      "Fariñas",
+      "in",
+      "three",
+      "days",
+      ":",
+      "Uncommon",
+      "Sense",
+      "has",
+      "the",
+      "details"
+    ]
+  }
 }

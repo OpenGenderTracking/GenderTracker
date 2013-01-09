@@ -5,5 +5,37 @@
   "original_body": "In <em><a href=\"http://octavocerco.blogspot.com\">Octavo Cerco</a></em> [es], guest author Boris González Arenas publishes the first part of a trilogy of essays on the political situation of Cuba.",
   "title": "Cuba: Essays on Cuba",
   "byline": "Firuzeh Shokooh Valle",
-  "pub_date": "2011-01-04T18:27:33Z"
+  "pub_date": "2011-01-04T18:27:33Z",
+  "decompositions": {
+    "sentence": [
+      "In Octavo Cerco [es], guest author Boris González Arenas publishes the first part of a trilogy of essays on the political situation of Cuba."
+    ],
+    "tokens": [
+      "In",
+      "Octavo",
+      "Cerco",
+      "[es]",
+      ",",
+      "guest",
+      "author",
+      "Boris",
+      "González",
+      "Arenas",
+      "publishes",
+      "the",
+      "first",
+      "part",
+      "of",
+      "a",
+      "trilogy",
+      "of",
+      "essays",
+      "on",
+      "the",
+      "political",
+      "situation",
+      "of",
+      "Cuba"
+    ]
+  }
 }

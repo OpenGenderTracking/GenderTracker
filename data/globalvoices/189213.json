@@ -5,5 +5,34 @@
   "original_body": "Last week Kenyan Gay <a href=\"http://kenyangayman.wordpress.com/2011/01/25/tanzania-gay-movie/\">came across a gay movie</a> produced and shot in Tanzania, which will premier on 4th February 2011.",
   "title": "Tanzania: Tanzania's First Gay Movie",
   "byline": "ndesanjo macha",
-  "pub_date": "2011-01-25T12:41:09Z"
+  "pub_date": "2011-01-25T12:41:09Z",
+  "decompositions": {
+    "sentence": [
+      "Last week Kenyan Gay came across a gay movie produced and shot in Tanzania, which will premier on 4th February 2011."
+    ],
+    "tokens": [
+      "Last",
+      "week",
+      "Kenyan",
+      "Gay",
+      "came",
+      "across",
+      "a",
+      "gay",
+      "movie",
+      "produced",
+      "and",
+      "shot",
+      "in",
+      "Tanzania",
+      ",",
+      "which",
+      "will",
+      "premier",
+      "on",
+      "4th",
+      "February",
+      "2011"
+    ]
+  }
 }

@@ -5,5 +5,21 @@
   "original_body": "<em><a href=\"http://hairoun.blogspot.com/2011/01/women-and-politics.html\">And Still I Rise</a></em> blogs about women and politics. ",
   "title": "St. Vincent & the Grenadines: Political Women ",
   "byline": "Janine Mendes-Franco",
-  "pub_date": "2011-01-18T17:51:48Z"
+  "pub_date": "2011-01-18T17:51:48Z",
+  "decompositions": {
+    "sentence": [
+      "And Still I Rise blogs about women and politics."
+    ],
+    "tokens": [
+      "And",
+      "Still",
+      "I",
+      "Rise",
+      "blogs",
+      "about",
+      "women",
+      "and",
+      "politics"
+    ]
+  }
 }

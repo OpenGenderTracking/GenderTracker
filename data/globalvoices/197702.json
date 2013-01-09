@@ -5,5 +5,29 @@
   "original_body": "Lemurs in the Caribbean? <em><a href=\"http://labrishjamaica.blogspot.com/2011/02/dear-richard-branson-lemurs-do-not.html\">Labrish Jamaica</a></em> calls on Sir Richard Branson to do the right thing.  ",
   "title": "Jamaica, B.V.I.: Non-Indigenous Species",
   "byline": "Janine Mendes-Franco",
-  "pub_date": "2011-02-18T18:54:08Z"
+  "pub_date": "2011-02-18T18:54:08Z",
+  "decompositions": {
+    "sentence": [
+      "Lemurs in the Caribbean?",
+      "Labrish Jamaica calls on Sir Richard Branson to do the right thing."
+    ],
+    "tokens": [
+      "Lemurs",
+      "in",
+      "the",
+      "Caribbean",
+      "Labrish",
+      "Jamaica",
+      "calls",
+      "on",
+      "Sir",
+      "Richard",
+      "Branson",
+      "to",
+      "do",
+      "the",
+      "right",
+      "thing"
+    ]
+  }
 }

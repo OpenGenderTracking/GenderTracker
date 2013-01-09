@@ -5,5 +5,30 @@
   "original_body": "<em><a href=\"http://www.trinidadcarnivaldiary.com/2011/02/celebrities-on-twitter-who-is-coming.html\">Trinidad Carnival Diary</a></em> has been trawling through Twitter to find out which celebrities are coming for Carnival 2011.",
   "title": "Trinidad & Tobago: Celebrity Carnival",
   "byline": "Janine Mendes-Franco",
-  "pub_date": "2011-02-04T21:21:38Z"
+  "pub_date": "2011-02-04T21:21:38Z",
+  "decompositions": {
+    "sentence": [
+      "Trinidad Carnival Diary has been trawling through Twitter to find out which celebrities are coming for Carnival 2011."
+    ],
+    "tokens": [
+      "Trinidad",
+      "Carnival",
+      "Diary",
+      "has",
+      "been",
+      "trawling",
+      "through",
+      "Twitter",
+      "to",
+      "find",
+      "out",
+      "which",
+      "celebrities",
+      "are",
+      "coming",
+      "for",
+      "Carnival",
+      "2011"
+    ]
+  }
 }

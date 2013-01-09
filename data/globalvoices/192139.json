@@ -5,5 +5,48 @@
   "original_body": "\"In Cuba, the only means of cheap public mass transit are the city buses...state taxi service has disappeared\": <em><a href=\"http://desdelahabanaivan.wordpress.com/2011/02/01/transportation-in-havana-goes-backwards/\">Iván's File Cabinet</a></em> says that the transportation service in Havana is regressing. ",
   "title": "Cuba: Transportation in Reverse ",
   "byline": "Janine Mendes-Franco",
-  "pub_date": "2011-02-02T17:11:49Z"
+  "pub_date": "2011-02-02T17:11:49Z",
+  "decompositions": {
+    "sentence": [
+      "\"In Cuba, the only means of cheap public mass transit are the city buses...state taxi service has disappeared\": Iván's File Cabinet says that the transportation service in Havana is regressing."
+    ],
+    "tokens": [
+      "\"",
+      "In",
+      "Cuba",
+      ",",
+      "the",
+      "only",
+      "means",
+      "of",
+      "cheap",
+      "public",
+      "mass",
+      "transit",
+      "are",
+      "the",
+      "city",
+      "buses",
+      "...state",
+      "taxi",
+      "service",
+      "has",
+      "disappeared",
+      "\"",
+      ":",
+      "Iván",
+      "'s",
+      "File",
+      "Cabinet",
+      "says",
+      "that",
+      "the",
+      "transportation",
+      "service",
+      "in",
+      "Havana",
+      "is",
+      "regressing"
+    ]
+  }
 }

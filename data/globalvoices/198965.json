@@ -5,5 +5,26 @@
   "original_body": "<em><a href=\"http://guanaguanaresingsat.blogspot.com/2011/02/there-are-no-words.html\">Guanaguanare</a></em> and <em><a href=\"http://gspottt.wordpress.com/2011/02/21/daniel-guerra-rip/\">gspott</a></em> are devastated over the murder of an eight year old boy.  ",
   "title": "Trinidad & Tobago: Child Found Dead ",
   "byline": "Janine Mendes-Franco",
-  "pub_date": "2011-02-21T22:14:37Z"
+  "pub_date": "2011-02-21T22:14:37Z",
+  "decompositions": {
+    "sentence": [
+      "Guanaguanare and gspott are devastated over the murder of an eight year old boy."
+    ],
+    "tokens": [
+      "Guanaguanare",
+      "and",
+      "gspott",
+      "are",
+      "devastated",
+      "over",
+      "the",
+      "murder",
+      "of",
+      "an",
+      "eight",
+      "year",
+      "old",
+      "boy"
+    ]
+  }
 }

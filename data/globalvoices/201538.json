@@ -5,5 +5,25 @@
   "original_body": "<em>Sharad Kumar</em> <a href=\"http://upintheairwenowhere.blogspot.com/2011/02/chronicles-of-future-delhi.html\">describes</a> the future of the mega city Delhi as he sees.  ",
   "title": "India: The Future Of Delhi",
   "byline": "rezwan",
-  "pub_date": "2011-02-27T20:53:56Z"
+  "pub_date": "2011-02-27T20:53:56Z",
+  "decompositions": {
+    "sentence": [
+      "Sharad Kumar describes the future of the mega city Delhi as he sees."
+    ],
+    "tokens": [
+      "Sharad",
+      "Kumar",
+      "describes",
+      "the",
+      "future",
+      "of",
+      "the",
+      "mega",
+      "city",
+      "Delhi",
+      "as",
+      "he",
+      "sees"
+    ]
+  }
 }

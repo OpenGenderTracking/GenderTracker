@@ -5,5 +5,40 @@
   "original_body": "<em>Passu</em> <a href=\"http://writebhutan.blogspot.com/2010/12/my-dream-of-lungtenzampa-bridge.html\">dreams</a> of an iconic bridge in place of the existing Lungtenzampa bridge at the heart of Bhutan's capital Thimphu, which is considered an engineering blunder.",
   "title": "Bhutan: Dream of An Iconic Lungtenzampa Bridge",
   "byline": "rezwan",
-  "pub_date": "2011-01-04T21:33:26Z"
+  "pub_date": "2011-01-04T21:33:26Z",
+  "decompositions": {
+    "sentence": [
+      "Passu dreams of an iconic bridge in place of the existing Lungtenzampa bridge at the heart of Bhutan's capital Thimphu, which is considered an engineering blunder."
+    ],
+    "tokens": [
+      "Passu",
+      "dreams",
+      "of",
+      "an",
+      "iconic",
+      "bridge",
+      "in",
+      "place",
+      "of",
+      "the",
+      "existing",
+      "Lungtenzampa",
+      "bridge",
+      "at",
+      "the",
+      "heart",
+      "of",
+      "Bhutan",
+      "'s",
+      "capital",
+      "Thimphu",
+      ",",
+      "which",
+      "is",
+      "considered",
+      "an",
+      "engineering",
+      "blunder"
+    ]
+  }
 }

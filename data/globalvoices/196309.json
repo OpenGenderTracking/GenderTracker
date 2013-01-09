@@ -5,5 +5,43 @@
   "original_body": "<em>High Peaks Pure Earth</em> <a href=http://www.highpeakspureearth.com/2011/02/cctv-says-lhasa-people-are-happiest-by.html>translated Tibetan blogger Woser's article</a> in response to the latest CCTV's survey that found Lhasa be the \"2010 City With the Happiest People\". ",
   "title": "China: Lhasa People Are “Happiest”?",
   "byline": "Oiwan",
-  "pub_date": "2011-02-15T06:44:33Z"
+  "pub_date": "2011-02-15T06:44:33Z",
+  "decompositions": {
+    "sentence": [
+      "High Peaks Pure Earth translated Tibetan blogger Woser's article in response to the latest CCTV's survey that found Lhasa be the \"2010 City With the Happiest People\"."
+    ],
+    "tokens": [
+      "High",
+      "Peaks",
+      "Pure",
+      "Earth",
+      "translated",
+      "Tibetan",
+      "blogger",
+      "Woser",
+      "'s",
+      "article",
+      "in",
+      "response",
+      "to",
+      "the",
+      "latest",
+      "CCTV",
+      "'s",
+      "survey",
+      "that",
+      "found",
+      "Lhasa",
+      "be",
+      "the",
+      "\"",
+      "2010",
+      "City",
+      "With",
+      "the",
+      "Happiest",
+      "People",
+      "\""
+    ]
+  }
 }

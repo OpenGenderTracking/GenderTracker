@@ -5,5 +5,35 @@
   "original_body": "<em><a href=\"http://marcmasferrer.typepad.com/uncommon_sense/2011/02/at-havana-church-cardinal-ortega-is-on-the-wrong-side-cuba.html\">Uncommon Sense</a></em> offers another example of why he thinks Havana's Cardinal Jaime Ortega \"is on the wrong side\" of the struggle.  ",
   "title": "Cuba: Church or State? ",
   "byline": "Janine Mendes-Franco",
-  "pub_date": "2011-02-09T16:12:16Z"
+  "pub_date": "2011-02-09T16:12:16Z",
+  "decompositions": {
+    "sentence": [
+      "Uncommon Sense offers another example of why he thinks Havana's Cardinal Jaime Ortega \"is on the wrong side\" of the struggle."
+    ],
+    "tokens": [
+      "Uncommon",
+      "Sense",
+      "offers",
+      "another",
+      "example",
+      "of",
+      "why",
+      "he",
+      "thinks",
+      "Havana",
+      "'s",
+      "Cardinal",
+      "Jaime",
+      "Ortega",
+      "\"is",
+      "on",
+      "the",
+      "wrong",
+      "side",
+      "\"",
+      "of",
+      "the",
+      "struggle"
+    ]
+  }
 }

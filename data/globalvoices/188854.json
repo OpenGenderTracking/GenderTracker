@@ -5,5 +5,34 @@
   "original_body": "<em>Nasim Fekrat</em> <a href=\"http://www.afghanlord.org/2011/01/afghan-journalist-attacked-with-acid.html\">reports</a> that Afghanistani journalist and novelist Razaq Mamoon was attacked by an unknown assailant who sprayed acid on his face. ",
   "title": "Afghanistan: Journalist attacked with acid",
   "byline": "Adam Kesher",
-  "pub_date": "2011-01-24T08:32:21Z"
+  "pub_date": "2011-01-24T08:32:21Z",
+  "decompositions": {
+    "sentence": [
+      "Nasim Fekrat reports that Afghanistani journalist and novelist Razaq Mamoon was attacked by an unknown assailant who sprayed acid on his face."
+    ],
+    "tokens": [
+      "Nasim",
+      "Fekrat",
+      "reports",
+      "that",
+      "Afghanistani",
+      "journalist",
+      "and",
+      "novelist",
+      "Razaq",
+      "Mamoon",
+      "was",
+      "attacked",
+      "by",
+      "an",
+      "unknown",
+      "assailant",
+      "who",
+      "sprayed",
+      "acid",
+      "on",
+      "his",
+      "face"
+    ]
+  }
 }

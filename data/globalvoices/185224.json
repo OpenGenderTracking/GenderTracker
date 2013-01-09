@@ -5,5 +5,36 @@
   "original_body": "<em><a href=\"http://sietske-in-beiroet.blogspot.com/2011/01/and-we-have-snow.html\">Sietske</a></em> posts about the trip she took with her children to enjoy the snow that has finally covered the slopes of the Lebanese mountains.",
   "title": "Lebanon: Snow Finally",
   "byline": "Moussa Bachir",
-  "pub_date": "2011-01-09T09:03:30Z"
+  "pub_date": "2011-01-09T09:03:30Z",
+  "decompositions": {
+    "sentence": [
+      "Sietske posts about the trip she took with her children to enjoy the snow that has finally covered the slopes of the Lebanese mountains."
+    ],
+    "tokens": [
+      "Sietske",
+      "posts",
+      "about",
+      "the",
+      "trip",
+      "she",
+      "took",
+      "with",
+      "her",
+      "children",
+      "to",
+      "enjoy",
+      "the",
+      "snow",
+      "that",
+      "has",
+      "finally",
+      "covered",
+      "the",
+      "slopes",
+      "of",
+      "the",
+      "Lebanese",
+      "mountains"
+    ]
+  }
 }

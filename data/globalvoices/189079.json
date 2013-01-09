@@ -5,5 +5,35 @@
   "original_body": "Jamaica-based blogger Annie Paul, following the Jaipur Literature Festival online, <a href=\"http://anniepaulose.wordpress.com/2011/01/21/junot-diaz-at-the-jaipur-literary-festival/\">reports</a> on an appearance there by the Dominican-American writer Junot Díaz.",
   "title": "Jamaica: following Junot Diaz in Jaipur",
   "byline": "Nicholas Laughlin",
-  "pub_date": "2011-01-24T20:32:26Z"
+  "pub_date": "2011-01-24T20:32:26Z",
+  "decompositions": {
+    "sentence": [
+      "Jamaica-based blogger Annie Paul, following the Jaipur Literature Festival online, reports on an appearance there by the Dominican-American writer Junot Díaz."
+    ],
+    "tokens": [
+      "Jamaica-based",
+      "blogger",
+      "Annie",
+      "Paul",
+      ",",
+      "following",
+      "the",
+      "Jaipur",
+      "Literature",
+      "Festival",
+      "online",
+      ",",
+      "reports",
+      "on",
+      "an",
+      "appearance",
+      "there",
+      "by",
+      "the",
+      "Dominican-American",
+      "writer",
+      "Junot",
+      "Díaz"
+    ]
+  }
 }

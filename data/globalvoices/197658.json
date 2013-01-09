@@ -5,5 +5,33 @@
   "original_body": "<em>Windows to Russia</em> <a href=\"http://windowstorussia.com/putin-is-a-mountain.html\">reports</a> that Kyrgyzstan on 17 February decided to name a mountain peak after Russian Prime Minister Vladimir Putin.",
   "title": "Russia-Kyrgyzstan: Mount Putin on the map",
   "byline": "Vilhelm",
-  "pub_date": "2011-02-18T16:17:31Z"
+  "pub_date": "2011-02-18T16:17:31Z",
+  "decompositions": {
+    "sentence": [
+      "Windows to Russia reports that Kyrgyzstan on 17 February decided to name a mountain peak after Russian Prime Minister Vladimir Putin."
+    ],
+    "tokens": [
+      "Windows",
+      "to",
+      "Russia",
+      "reports",
+      "that",
+      "Kyrgyzstan",
+      "on",
+      "17",
+      "February",
+      "decided",
+      "to",
+      "name",
+      "a",
+      "mountain",
+      "peak",
+      "after",
+      "Russian",
+      "Prime",
+      "Minister",
+      "Vladimir",
+      "Putin"
+    ]
+  }
 }

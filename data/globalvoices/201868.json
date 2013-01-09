@@ -5,5 +5,30 @@
   "original_body": "<em><a href=\"http://desdelahabanaivan.wordpress.com/2011/02/25/the-day-orlando-zapata-died/\">Iván's File Cabinet</a></em> remembers the day that hunger striker and prisoner of conscience Orlando Zapata Tamayo died. ",
   "title": "Cuba: The Day Zapata Died ",
   "byline": "Janine Mendes-Franco",
-  "pub_date": "2011-02-28T16:25:24Z"
+  "pub_date": "2011-02-28T16:25:24Z",
+  "decompositions": {
+    "sentence": [
+      "Iván's File Cabinet remembers the day that hunger striker and prisoner of conscience Orlando Zapata Tamayo died."
+    ],
+    "tokens": [
+      "Iván",
+      "'s",
+      "File",
+      "Cabinet",
+      "remembers",
+      "the",
+      "day",
+      "that",
+      "hunger",
+      "striker",
+      "and",
+      "prisoner",
+      "of",
+      "conscience",
+      "Orlando",
+      "Zapata",
+      "Tamayo",
+      "died"
+    ]
+  }
 }

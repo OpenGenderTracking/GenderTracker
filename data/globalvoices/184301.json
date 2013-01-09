@@ -5,5 +5,36 @@
   "original_body": "Andrés Colmán Gutiérrez in <em>Ñangapiry News</em> <a href=\"http://colmangutierrez.blogspot.com/2011/01/bicentenario-lo-paraguay.html\">writes</a> [es] about the show on January 1st that began this year's bicentennial celebration in Paraguay.",
   "title": "Paraguay: The Start of The Bicentennial Celebration",
   "byline": "Silvia Vinas",
-  "pub_date": "2011-01-03T13:46:14Z"
+  "pub_date": "2011-01-03T13:46:14Z",
+  "decompositions": {
+    "sentence": [
+      "Andrés Colmán Gutiérrez in Ñangapiry News writes [es] about the show on January 1st that began this year's bicentennial celebration in Paraguay."
+    ],
+    "tokens": [
+      "Andrés",
+      "Colmán",
+      "Gutiérrez",
+      "in",
+      "Ñangapiry",
+      "News",
+      "writes",
+      "[es",
+      "]",
+      "about",
+      "the",
+      "show",
+      "on",
+      "January",
+      "1st",
+      "that",
+      "began",
+      "this",
+      "year",
+      "'s",
+      "bicentennial",
+      "celebration",
+      "in",
+      "Paraguay"
+    ]
+  }
 }

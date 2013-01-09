@@ -5,5 +5,23 @@
   "original_body": "<iframe src=\"http://player.vimeo.com/video/8354190?title=0&amp;byline=0&amp;portrait=0&amp;color=287b85\" width=\"400\" height=\"300\" frameborder=\"0\"></iframe><p><a href=\"http://vimeo.com/8354190\">From 19 January to 19 January</a> from <a href=\"http://vimeo.com/umitk\">ümit kıvanç</a> on <a href=\"http://vimeo.com\">Vimeo</a>.</p>",
   "title": null,
   "byline": "Onnik Krikorian",
-  "pub_date": "-1-11-30T00:00:00Z"
+  "pub_date": "-1-11-30T00:00:00Z",
+  "decompositions": {
+    "sentence": [
+      "From 19 January to 19 January from ümit kıvanç on Vimeo."
+    ],
+    "tokens": [
+      "From",
+      "19",
+      "January",
+      "to",
+      "19",
+      "January",
+      "from",
+      "ümit",
+      "kıvanç",
+      "on",
+      "Vimeo"
+    ]
+  }
 }

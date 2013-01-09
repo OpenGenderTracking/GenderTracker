@@ -5,5 +5,43 @@
   "original_body": "Carlos A. Quiroz discusses gay marriage in Peru in a video in his blog <a href=\"http://peruanista.wordpress.com/2011/01/26/el-matrimonio-gay-en-peru-comentario-personal-de-un-peruano-homosexual/\"><em>Peruanista</em></a> [es]. Peruvians are debating equal marriage in the wake of this year's <a href=\"http://www.peruviantimes.com/tag/2011-presidential-elections\">presidential elections.\n</a>",
   "title": "Peru: Discussing Gay Marriage During a Presidential Campaign Year",
   "byline": "Silvia Vinas",
-  "pub_date": "2011-01-26T16:53:27Z"
+  "pub_date": "2011-01-26T16:53:27Z",
+  "decompositions": {
+    "sentence": [
+      "Carlos A. Quiroz discusses gay marriage in Peru in a video in his blog Peruanista [es].",
+      "Peruvians are debating equal marriage in the wake of this year's presidential elections."
+    ],
+    "tokens": [
+      "Carlos",
+      "A.",
+      "Quiroz",
+      "discusses",
+      "gay",
+      "marriage",
+      "in",
+      "Peru",
+      "in",
+      "a",
+      "video",
+      "in",
+      "his",
+      "blog",
+      "Peruanista",
+      "[es]",
+      "Peruvians",
+      "are",
+      "debating",
+      "equal",
+      "marriage",
+      "in",
+      "the",
+      "wake",
+      "of",
+      "this",
+      "year",
+      "'s",
+      "presidential",
+      "elections"
+    ]
+  }
 }

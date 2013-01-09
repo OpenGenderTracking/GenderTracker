@@ -5,5 +5,46 @@
   "original_body": "<em>The ArmComedy News Network</em> takes a satirical look at recent action taken against illegal street trade in Yerevan, the Armenian capital, and <a href=\"http://www.armcomedy.com/2011/01/27/prostitutes/\">humorously ponders what it means for the city's prostitutes</a>.",
   "title": "Armenia: Prostitutes and Street Trade",
   "byline": "Onnik Krikorian",
-  "pub_date": "2011-02-02T12:32:32Z"
+  "pub_date": "2011-02-02T12:32:32Z",
+  "decompositions": {
+    "sentence": [
+      "The ArmComedy News Network takes a satirical look at recent action taken against illegal street trade in Yerevan, the Armenian capital, and humorously ponders what it means for the city's prostitutes."
+    ],
+    "tokens": [
+      "The",
+      "ArmComedy",
+      "News",
+      "Network",
+      "takes",
+      "a",
+      "satirical",
+      "look",
+      "at",
+      "recent",
+      "action",
+      "taken",
+      "against",
+      "illegal",
+      "street",
+      "trade",
+      "in",
+      "Yerevan",
+      ",",
+      "the",
+      "Armenian",
+      "capital",
+      ",",
+      "and",
+      "humorously",
+      "ponders",
+      "what",
+      "it",
+      "means",
+      "for",
+      "the",
+      "city",
+      "'s",
+      "prostitutes"
+    ]
+  }
 }

@@ -5,5 +5,21 @@
   "original_body": "Green coffee and porn?  <em><a href=\"http://sapodilla.blogspot.com/2011/02/green-coffee-porn.html\">Guyana-Gyal</a></em> explains the link.  ",
   "title": "Guyana: What you find on the Internet",
   "byline": "Janine Mendes-Franco",
-  "pub_date": "2011-02-25T19:03:14Z"
+  "pub_date": "2011-02-25T19:03:14Z",
+  "decompositions": {
+    "sentence": [
+      "Green coffee and porn?",
+      "Guyana-Gyal explains the link."
+    ],
+    "tokens": [
+      "Green",
+      "coffee",
+      "and",
+      "porn",
+      "Guyana-Gyal",
+      "explains",
+      "the",
+      "link"
+    ]
+  }
 }

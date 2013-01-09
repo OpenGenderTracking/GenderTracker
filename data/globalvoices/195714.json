@@ -5,5 +5,41 @@
   "original_body": "<em>Jebat Must Die</em> from Malaysia writes about the online debate between prominent political bloggers about the use of the <a href=\"http://jebatmustdie.wordpress.com/2011/02/10/arguments-and-excuses-over-bahasa-malaysia/\">national language</a> in the country and its link to nationalism. \n\n",
   "title": "Malaysia: National language and patriotism debate",
   "byline": "mong",
-  "pub_date": "2011-02-13T06:25:22Z"
+  "pub_date": "2011-02-13T06:25:22Z",
+  "decompositions": {
+    "sentence": [
+      "Jebat Must Die from Malaysia writes about the online debate between prominent political bloggers about the use of the national language in the country and its link to nationalism."
+    ],
+    "tokens": [
+      "Jebat",
+      "Must",
+      "Die",
+      "from",
+      "Malaysia",
+      "writes",
+      "about",
+      "the",
+      "online",
+      "debate",
+      "between",
+      "prominent",
+      "political",
+      "bloggers",
+      "about",
+      "the",
+      "use",
+      "of",
+      "the",
+      "national",
+      "language",
+      "in",
+      "the",
+      "country",
+      "and",
+      "its",
+      "link",
+      "to",
+      "nationalism"
+    ]
+  }
 }

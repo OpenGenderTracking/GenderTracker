@@ -5,5 +5,50 @@
   "original_body": "<em>Guppu.com</em> <a href=\"http://guppu.com/2011/02/26/snowfall-in-lahore/\">reports</a> that \"on February 26, 2011, Lahorites witnessed an extraordinary day when all of the sudden, dark clouds came and it felt as if the winter has come back, and snowfall started.\"",
   "title": "Pakistan: Unexpected Snowfall In Lahore",
   "byline": "rezwan",
-  "pub_date": "2011-02-26T22:28:14Z"
+  "pub_date": "2011-02-26T22:28:14Z",
+  "decompositions": {
+    "sentence": [
+      "Guppu.com reports that \"on February 26, 2011, Lahorites witnessed an extraordinary day when all of the sudden, dark clouds came and it felt as if the winter has come back, and snowfall started.\""
+    ],
+    "tokens": [
+      "Guppu.com",
+      "reports",
+      "that",
+      "\"on",
+      "February",
+      "26",
+      ",",
+      "2011",
+      ",",
+      "Lahorites",
+      "witnessed",
+      "an",
+      "extraordinary",
+      "day",
+      "when",
+      "all",
+      "of",
+      "the",
+      "sudden",
+      ",",
+      "dark",
+      "clouds",
+      "came",
+      "and",
+      "it",
+      "felt",
+      "as",
+      "if",
+      "the",
+      "winter",
+      "has",
+      "come",
+      "back",
+      ",",
+      "and",
+      "snowfall",
+      "started",
+      "."
+    ]
+  }
 }

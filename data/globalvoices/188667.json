@@ -5,5 +5,48 @@
   "original_body": "<div>\n\n<em>Ouestafnews <a href=\"http://www.ouestaf.com/Bientot-des-voitures-made-in-Mali-sur-le-marche-ouest-africain_a3431.html?preaction=nl&amp;id=13587246&amp;idnl=82050&amp;\">writes </a></em> (fr) that : \" A factory capable of producing 2000 cars a year will soon be inaugurated near Bamako. The first Hyundai cars  «made in Mali» are expected for June 2011.\"\n\n</div>",
   "title": "Mali: Cars « Made in Mali » to Be Sold on the West African Market ",
   "byline": "Lova Rakotomalala",
-  "pub_date": "2011-01-23T07:23:25Z"
+  "pub_date": "2011-01-23T07:23:25Z",
+  "decompositions": {
+    "sentence": [
+      "Ouestafnews writes  (fr) that : \" A factory capable of producing 2000 cars a year will soon be inaugurated near Bamako.",
+      "The first Hyundai cars  «made in Mali» are expected for June 2011.\""
+    ],
+    "tokens": [
+      "Ouestafnews",
+      "writes",
+      "(",
+      "fr",
+      ")",
+      "that",
+      ":",
+      "\"",
+      "A",
+      "factory",
+      "capable",
+      "of",
+      "producing",
+      "2000",
+      "cars",
+      "a",
+      "year",
+      "will",
+      "soon",
+      "be",
+      "inaugurated",
+      "near",
+      "Bamako",
+      "The",
+      "first",
+      "Hyundai",
+      "cars",
+      "«made",
+      "in",
+      "Mali»",
+      "are",
+      "expected",
+      "for",
+      "June",
+      "2011"
+    ]
+  }
 }

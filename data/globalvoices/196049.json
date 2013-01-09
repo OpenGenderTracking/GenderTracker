@@ -5,5 +5,23 @@
   "original_body": "<a href=\"http://hairoun.blogspot.com/2011/02/another-letter-to-my-heart-on.html\">Abeni</a> writes a letter to her heart on Valentine's Day. ",
   "title": "St. Vincent & the Grenadines: Dear Heart ",
   "byline": "Janine Mendes-Franco",
-  "pub_date": "2011-02-14T15:15:40Z"
+  "pub_date": "2011-02-14T15:15:40Z",
+  "decompositions": {
+    "sentence": [
+      "Abeni writes a letter to her heart on Valentine's Day."
+    ],
+    "tokens": [
+      "Abeni",
+      "writes",
+      "a",
+      "letter",
+      "to",
+      "her",
+      "heart",
+      "on",
+      "Valentine",
+      "'s",
+      "Day"
+    ]
+  }
 }

@@ -5,5 +5,37 @@
   "original_body": "In <em><a href=\"http://www.tranceliquido.com\">Trance Líquido</a></em> [es], Lilliam Nieves analyzes the recent theft of three masterpieces of the Puerto Rican paintor José Campeche from the National Gallery.",
   "title": "Puerto Rico: Stolen Art ",
   "byline": "Firuzeh Shokooh Valle",
-  "pub_date": "2011-01-03T15:37:24Z"
+  "pub_date": "2011-01-03T15:37:24Z",
+  "decompositions": {
+    "sentence": [
+      "In Trance Líquido [es], Lilliam Nieves analyzes the recent theft of three masterpieces of the Puerto Rican paintor José Campeche from the National Gallery."
+    ],
+    "tokens": [
+      "In",
+      "Trance",
+      "Líquido",
+      "[es]",
+      ",",
+      "Lilliam",
+      "Nieves",
+      "analyzes",
+      "the",
+      "recent",
+      "theft",
+      "of",
+      "three",
+      "masterpieces",
+      "of",
+      "the",
+      "Puerto",
+      "Rican",
+      "paintor",
+      "José",
+      "Campeche",
+      "from",
+      "the",
+      "National",
+      "Gallery"
+    ]
+  }
 }

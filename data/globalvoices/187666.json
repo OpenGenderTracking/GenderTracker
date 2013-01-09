@@ -5,5 +5,35 @@
   "original_body": "The <a href=\"http://www.toilet.org.sg/index.html\"><em>Restroom Association Singapore</em></a> uses various social media tools like <a href=\"http://twitter.com/Restroom_Assn\">twitter</a>, <a href=\"http://www.youtube.com/user/RestroomAssociation\">youtube</a>, and <a href=\"http://www.facebook.com/pages/Restroom-Association-Singapore-RAS/115474825178325?v=wall\">facebook</a> to promote cleaner public toilets in Singapore.\n\n\n",
   "title": "Singapore: Using social media to promote clean toilets",
   "byline": "mong",
-  "pub_date": "2011-01-18T14:04:20Z"
+  "pub_date": "2011-01-18T14:04:20Z",
+  "decompositions": {
+    "sentence": [
+      "The Restroom Association Singapore uses various social media tools like twitter, youtube, and facebook to promote cleaner public toilets in Singapore."
+    ],
+    "tokens": [
+      "The",
+      "Restroom",
+      "Association",
+      "Singapore",
+      "uses",
+      "various",
+      "social",
+      "media",
+      "tools",
+      "like",
+      "twitter",
+      ",",
+      "youtube",
+      ",",
+      "and",
+      "facebook",
+      "to",
+      "promote",
+      "cleaner",
+      "public",
+      "toilets",
+      "in",
+      "Singapore"
+    ]
+  }
 }

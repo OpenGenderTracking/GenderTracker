@@ -5,5 +5,35 @@
   "original_body": "<em><a href=\"http://1click2cuba.blogspot.com/2011/02/will-cuba-be-next-egypt.html\">1Click2Cuba</a></em> wonders whether Cuba will be the next Egypt, but <em><a href=\"http://desdelahabanaivan.wordpress.com/2011/02/08/cubans-are-neither-arabs-nor-muslims/\">Iván's File Cabinet</a></em> reminds us that the Cuban reality is different.   ",
   "title": "Cuba: The Reality of Revolution ",
   "byline": "Janine Mendes-Franco",
-  "pub_date": "2011-02-08T17:34:31Z"
+  "pub_date": "2011-02-08T17:34:31Z",
+  "decompositions": {
+    "sentence": [
+      "1Click2Cuba wonders whether Cuba will be the next Egypt, but Iván's File Cabinet reminds us that the Cuban reality is different."
+    ],
+    "tokens": [
+      "1Click2Cuba",
+      "wonders",
+      "whether",
+      "Cuba",
+      "will",
+      "be",
+      "the",
+      "next",
+      "Egypt",
+      ",",
+      "but",
+      "Iván",
+      "'s",
+      "File",
+      "Cabinet",
+      "reminds",
+      "us",
+      "that",
+      "the",
+      "Cuban",
+      "reality",
+      "is",
+      "different"
+    ]
+  }
 }

@@ -5,5 +5,32 @@
   "original_body": "<em>Phoenixritu</em> <a href=\"http://phoenixritu.com/2011/02/indusladies-2nd-annual-international-womens-day-blog-contest/http://phoenixritu.com/2011/02/indusladies-2nd-annual-international-womens-day-blog-contest/\">informs</a> about the Indusladies 2nd annual international women's day Blog contest which offers a cash prize of Rs.10,000.",
   "title": "India: Indusladies Blog Contest",
   "byline": "rezwan",
-  "pub_date": "2011-02-17T22:18:01Z"
+  "pub_date": "2011-02-17T22:18:01Z",
+  "decompositions": {
+    "sentence": [
+      "Phoenixritu informs about the Indusladies 2nd annual international women's day Blog contest which offers a cash prize of Rs.10,000."
+    ],
+    "tokens": [
+      "Phoenixritu",
+      "informs",
+      "about",
+      "the",
+      "Indusladies",
+      "2nd",
+      "annual",
+      "international",
+      "women",
+      "'s",
+      "day",
+      "Blog",
+      "contest",
+      "which",
+      "offers",
+      "a",
+      "cash",
+      "prize",
+      "of",
+      "Rs.10,000"
+    ]
+  }
 }

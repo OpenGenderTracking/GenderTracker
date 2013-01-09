@@ -5,5 +5,49 @@
   "original_body": "<em>Bavar Sabz</em>, an Iran based blogger <a href=\"http://bavar-e-sabz.blogspot.com/2011/01/blog-post.html\">writes</a>[fa] he uses his car as a taxi to talk about the protest movement with people. The blogger never accepts money and asks clients to pray for the movement.",
   "title": "Iran:\"Green Taxi\"",
   "byline": "Hamid Tehrani",
-  "pub_date": "2011-01-04T22:19:39Z"
+  "pub_date": "2011-01-04T22:19:39Z",
+  "decompositions": {
+    "sentence": [
+      "Bavar Sabz, an Iran based blogger writes[fa] he uses his car as a taxi to talk about the protest movement with people.",
+      "The blogger never accepts money and asks clients to pray for the movement."
+    ],
+    "tokens": [
+      "Bavar",
+      "Sabz",
+      ",",
+      "an",
+      "Iran",
+      "based",
+      "blogger",
+      "writes[fa]",
+      "he",
+      "uses",
+      "his",
+      "car",
+      "as",
+      "a",
+      "taxi",
+      "to",
+      "talk",
+      "about",
+      "the",
+      "protest",
+      "movement",
+      "with",
+      "people",
+      "The",
+      "blogger",
+      "never",
+      "accepts",
+      "money",
+      "and",
+      "asks",
+      "clients",
+      "to",
+      "pray",
+      "for",
+      "the",
+      "movement"
+    ]
+  }
 }

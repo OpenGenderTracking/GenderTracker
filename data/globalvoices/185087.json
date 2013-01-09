@@ -5,5 +5,26 @@
   "original_body": "<em>Fahmidul Haque</em> <a href=\"http://fahmidulhaq.blogspot.com/2011/01/40-years-of-media-experiences-in.html\">discusses</a> the developments of journalism in Bangladesh in the last four decades.",
   "title": "Bangladesh: Looking Back At Media Experiences",
   "byline": "rezwan",
-  "pub_date": "2011-01-07T22:42:11Z"
+  "pub_date": "2011-01-07T22:42:11Z",
+  "decompositions": {
+    "sentence": [
+      "Fahmidul Haque discusses the developments of journalism in Bangladesh in the last four decades."
+    ],
+    "tokens": [
+      "Fahmidul",
+      "Haque",
+      "discusses",
+      "the",
+      "developments",
+      "of",
+      "journalism",
+      "in",
+      "Bangladesh",
+      "in",
+      "the",
+      "last",
+      "four",
+      "decades"
+    ]
+  }
 }

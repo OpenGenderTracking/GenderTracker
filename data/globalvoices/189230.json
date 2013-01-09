@@ -5,5 +5,52 @@
   "original_body": "<a href=\"http://gukira.wordpress.com/2011/01/24/queer-africa-pre-writing-writing-re-writing/\">On Queer Africa:</a> ...when I am asked to write on “queer Africa” or think about it, (the invitations rarely come, so this is hypothetical), I am asked to do “something” “impossible.”",
   "title": "Africa: Queer Africa: Pre-Writing, Writing, Re-Writing",
   "byline": "ndesanjo macha",
-  "pub_date": "2011-01-25T14:03:38Z"
+  "pub_date": "2011-01-25T14:03:38Z",
+  "decompositions": {
+    "sentence": [
+      "On Queer Africa: ...when I am asked to write on “queer Africa” or think about it, (the invitations rarely come, so this is hypothetical), I am asked to do “something” “impossible.”"
+    ],
+    "tokens": [
+      "On",
+      "Queer",
+      "Africa",
+      ":",
+      "...when",
+      "I",
+      "am",
+      "asked",
+      "to",
+      "write",
+      "on",
+      "“queer",
+      "Africa",
+      "”",
+      "or",
+      "think",
+      "about",
+      "it",
+      ",",
+      "(",
+      "the",
+      "invitations",
+      "rarely",
+      "come",
+      ",",
+      "so",
+      "this",
+      "is",
+      "hypothetical",
+      ")",
+      ",",
+      "I",
+      "am",
+      "asked",
+      "to",
+      "do",
+      "“something",
+      "”",
+      "“impossible",
+      "."
+    ]
+  }
 }

@@ -5,5 +5,38 @@
   "original_body": "<a href=\"http://cambodianchildren.blogspot.com/\">Cambodian Children Books Project</a> is a collaborative effort of a team of Cambodian writers/artists to create reading books in Khmer for Cambodian school children in Cambodia. \n\n",
   "title": "Cambodian Children Books Project",
   "byline": "mong",
-  "pub_date": "2011-01-25T13:08:48Z"
+  "pub_date": "2011-01-25T13:08:48Z",
+  "decompositions": {
+    "sentence": [
+      "Cambodian Children Books Project is a collaborative effort of a team of Cambodian writers/artists to create reading books in Khmer for Cambodian school children in Cambodia."
+    ],
+    "tokens": [
+      "Cambodian",
+      "Children",
+      "Books",
+      "Project",
+      "is",
+      "a",
+      "collaborative",
+      "effort",
+      "of",
+      "a",
+      "team",
+      "of",
+      "Cambodian",
+      "writers/artists",
+      "to",
+      "create",
+      "reading",
+      "books",
+      "in",
+      "Khmer",
+      "for",
+      "Cambodian",
+      "school",
+      "children",
+      "in",
+      "Cambodia"
+    ]
+  }
 }

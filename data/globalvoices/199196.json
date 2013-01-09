@@ -5,5 +5,33 @@
   "original_body": "<em>Jottings from the Granite Studio</em> has a guest post by Yajun <a href=http://granitestudio.org/2011/02/21/a-chinese-perspective-on-the-jasmine-revolution-another-guest-post-by-yajun>commenting on the so-called \"Jasmine Revolution\"</a> in China. ",
   "title": "China: A Chinese Perspective on the “Jasmine Revolution”",
   "byline": "Oiwan",
-  "pub_date": "2011-02-22T09:28:35Z"
+  "pub_date": "2011-02-22T09:28:35Z",
+  "decompositions": {
+    "sentence": [
+      "Jottings from the Granite Studio has a guest post by Yajun commenting on the so-called \"Jasmine Revolution\" in China."
+    ],
+    "tokens": [
+      "Jottings",
+      "from",
+      "the",
+      "Granite",
+      "Studio",
+      "has",
+      "a",
+      "guest",
+      "post",
+      "by",
+      "Yajun",
+      "commenting",
+      "on",
+      "the",
+      "so-called",
+      "\"",
+      "Jasmine",
+      "Revolution",
+      "\"",
+      "in",
+      "China"
+    ]
+  }
 }

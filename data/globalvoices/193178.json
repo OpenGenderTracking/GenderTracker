@@ -5,5 +5,46 @@
   "original_body": "<em>Ekram Kabir</em> at <em>Kotha-Chhilo</em> <a href=\"http://kotha-chhilo.blogspot.com/2011/02/visa-free-south-asia-are-you-kidding.html\">opines that</a> the urgent task for the South Asian countries would be to promote peace-building through conflict resolution before the talk of making it a visa free region can begin. ",
   "title": "South Asia: A Visa Free Region?",
   "byline": "rezwan",
-  "pub_date": "2011-02-05T12:23:38Z"
+  "pub_date": "2011-02-05T12:23:38Z",
+  "decompositions": {
+    "sentence": [
+      "Ekram Kabir at Kotha-Chhilo opines that the urgent task for the South Asian countries would be to promote peace-building through conflict resolution before the talk of making it a visa free region can begin."
+    ],
+    "tokens": [
+      "Ekram",
+      "Kabir",
+      "at",
+      "Kotha-Chhilo",
+      "opines",
+      "that",
+      "the",
+      "urgent",
+      "task",
+      "for",
+      "the",
+      "South",
+      "Asian",
+      "countries",
+      "would",
+      "be",
+      "to",
+      "promote",
+      "peace-building",
+      "through",
+      "conflict",
+      "resolution",
+      "before",
+      "the",
+      "talk",
+      "of",
+      "making",
+      "it",
+      "a",
+      "visa",
+      "free",
+      "region",
+      "can",
+      "begin"
+    ]
+  }
 }

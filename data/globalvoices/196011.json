@@ -5,5 +5,41 @@
   "original_body": "Iranian protesters demonstrate in Tehran, Shiraz, Isfahan,Rasht and several other cities. Here is a video film <a href=\"http://www.youtube.com/watch?v=t5e2gfVYroc\">shows</a> Sharif University students in Tehran chant against 'dictator'. ",
   "title": "Iran: Protesters back to Streets",
   "byline": "Hamid Tehrani",
-  "pub_date": "2011-02-14T14:36:45Z"
+  "pub_date": "2011-02-14T14:36:45Z",
+  "decompositions": {
+    "sentence": [
+      "Iranian protesters demonstrate in Tehran, Shiraz, Isfahan,Rasht and several other cities.",
+      "Here is a video film shows Sharif University students in Tehran chant against 'dictator'."
+    ],
+    "tokens": [
+      "Iranian",
+      "protesters",
+      "demonstrate",
+      "in",
+      "Tehran",
+      ",",
+      "Shiraz",
+      ",",
+      "Isfahan",
+      ",Rasht",
+      "and",
+      "several",
+      "other",
+      "cities",
+      "Here",
+      "is",
+      "a",
+      "video",
+      "film",
+      "shows",
+      "Sharif",
+      "University",
+      "students",
+      "in",
+      "Tehran",
+      "chant",
+      "against",
+      "'dictator"
+    ]
+  }
 }

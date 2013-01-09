@@ -5,5 +5,32 @@
   "original_body": "<em>TW</em> in Vietnam blogs about the <a href=\"http://twinvn.blogspot.com/2011/01/bygone-saigon-vanishing-landmarks.html\">vanishing landmarks</a> in Saigon and the need to preserve historical sites in the city. \n\n",
   "title": "Vietnam: Vanishing landmarks",
   "byline": "mong",
-  "pub_date": "2011-01-28T03:27:49Z"
+  "pub_date": "2011-01-28T03:27:49Z",
+  "decompositions": {
+    "sentence": [
+      "TW in Vietnam blogs about the vanishing landmarks in Saigon and the need to preserve historical sites in the city."
+    ],
+    "tokens": [
+      "TW",
+      "in",
+      "Vietnam",
+      "blogs",
+      "about",
+      "the",
+      "vanishing",
+      "landmarks",
+      "in",
+      "Saigon",
+      "and",
+      "the",
+      "need",
+      "to",
+      "preserve",
+      "historical",
+      "sites",
+      "in",
+      "the",
+      "city"
+    ]
+  }
 }

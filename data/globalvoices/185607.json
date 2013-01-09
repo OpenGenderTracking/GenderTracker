@@ -5,5 +5,35 @@
   "original_body": "Jiang Gaoming <a href=http://www.chinadialogue.net/article/show/single/en/4040>explains</a> in <em>China Dialogue</em> how human development increases the risk of natural disasters by looking into Zhouqu mudslide happened last year. ",
   "title": "China: Human error at Zhouqu mudslide",
   "byline": "Oiwan",
-  "pub_date": "2011-01-10T06:49:49Z"
+  "pub_date": "2011-01-10T06:49:49Z",
+  "decompositions": {
+    "sentence": [
+      "Jiang Gaoming explains in China Dialogue how human development increases the risk of natural disasters by looking into Zhouqu mudslide happened last year."
+    ],
+    "tokens": [
+      "Jiang",
+      "Gaoming",
+      "explains",
+      "in",
+      "China",
+      "Dialogue",
+      "how",
+      "human",
+      "development",
+      "increases",
+      "the",
+      "risk",
+      "of",
+      "natural",
+      "disasters",
+      "by",
+      "looking",
+      "into",
+      "Zhouqu",
+      "mudslide",
+      "happened",
+      "last",
+      "year"
+    ]
+  }
 }

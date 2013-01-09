@@ -5,5 +5,46 @@
   "original_body": "<em>China Digital Times</em> has <a href=http://chinadigitaltimes.net/2011/02/latest-directives-from-the-ministry-of-truth-january-2-28-2011>translated</a> the latest instruction issued by various authorities to media outlets. The censor machine claims that it would shut down websites which are lax in monitoring news concerning Egypt. ",
   "title": "China: January 2011 censorship instruction from Chinese authorities",
   "byline": "Oiwan",
-  "pub_date": "2011-02-09T06:16:58Z"
+  "pub_date": "2011-02-09T06:16:58Z",
+  "decompositions": {
+    "sentence": [
+      "China Digital Times has translated the latest instruction issued by various authorities to media outlets.",
+      "The censor machine claims that it would shut down websites which are lax in monitoring news concerning Egypt."
+    ],
+    "tokens": [
+      "China",
+      "Digital",
+      "Times",
+      "has",
+      "translated",
+      "the",
+      "latest",
+      "instruction",
+      "issued",
+      "by",
+      "various",
+      "authorities",
+      "to",
+      "media",
+      "outlets",
+      "The",
+      "censor",
+      "machine",
+      "claims",
+      "that",
+      "it",
+      "would",
+      "shut",
+      "down",
+      "websites",
+      "which",
+      "are",
+      "lax",
+      "in",
+      "monitoring",
+      "news",
+      "concerning",
+      "Egypt"
+    ]
+  }
 }

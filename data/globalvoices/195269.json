@@ -5,5 +5,41 @@
   "original_body": "<a href=\"http://www.voicesofuganda.com/\">Voices of Uganda</a> is an idea conceived Ugandan photographer Andrew Agaba to create a “citizens talking to citizens” platform as Ugandans get ready to go to the polls. ",
   "title": "Uganda: Voices of Uganda: Citizens talking to citizens",
   "byline": "ndesanjo macha",
-  "pub_date": "2011-02-11T13:53:43Z"
+  "pub_date": "2011-02-11T13:53:43Z",
+  "decompositions": {
+    "sentence": [
+      "Voices of Uganda is an idea conceived Ugandan photographer Andrew Agaba to create a “citizens talking to citizens” platform as Ugandans get ready to go to the polls."
+    ],
+    "tokens": [
+      "Voices",
+      "of",
+      "Uganda",
+      "is",
+      "an",
+      "idea",
+      "conceived",
+      "Ugandan",
+      "photographer",
+      "Andrew",
+      "Agaba",
+      "to",
+      "create",
+      "a",
+      "“citizens",
+      "talking",
+      "to",
+      "citizens",
+      "”",
+      "platform",
+      "as",
+      "Ugandans",
+      "get",
+      "ready",
+      "to",
+      "go",
+      "to",
+      "the",
+      "polls"
+    ]
+  }
 }

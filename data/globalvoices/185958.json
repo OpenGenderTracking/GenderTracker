@@ -5,5 +5,33 @@
   "original_body": "Southern Sudan Independence referendum: <a href=\"http://twitter.com/#!/alunmcdonald/status/24154170105798656\">Alun McDonald is sad</a> to see his favourite African country, Sudan, about to split. ",
   "title": "Sudan: My favourite African country about to split",
   "byline": "ndesanjo macha",
-  "pub_date": "2011-01-11T17:32:00Z"
+  "pub_date": "2011-01-11T17:32:00Z",
+  "decompositions": {
+    "sentence": [
+      "Southern Sudan Independence referendum: Alun McDonald is sad to see his favourite African country, Sudan, about to split."
+    ],
+    "tokens": [
+      "Southern",
+      "Sudan",
+      "Independence",
+      "referendum",
+      ":",
+      "Alun",
+      "McDonald",
+      "is",
+      "sad",
+      "to",
+      "see",
+      "his",
+      "favourite",
+      "African",
+      "country",
+      ",",
+      "Sudan",
+      ",",
+      "about",
+      "to",
+      "split"
+    ]
+  }
 }

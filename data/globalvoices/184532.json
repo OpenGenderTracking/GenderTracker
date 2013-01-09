@@ -5,5 +5,49 @@
   "original_body": "\"For this year make sure to follow 11 Lebanese Birds always here tweeting regularly making this place special and 100% Lebanese\" <a href=\" http://www.joesbox.me/2011/01/11-lebanese-birds-to-follow-in-2011.html\">writes <em>Joe</em></a>, who lists the Tweeters with a short description of each.",
   "title": "Lebanon: 11 Tweeps to Follow in 2011",
   "byline": "Moussa Bachir",
-  "pub_date": "2011-01-04T17:37:33Z"
+  "pub_date": "2011-01-04T17:37:33Z",
+  "decompositions": {
+    "sentence": [
+      "\"For this year make sure to follow 11 Lebanese Birds always here tweeting regularly making this place special and 100% Lebanese\" writes Joe, who lists the Tweeters with a short description of each."
+    ],
+    "tokens": [
+      "\"",
+      "For",
+      "this",
+      "year",
+      "make",
+      "sure",
+      "to",
+      "follow",
+      "11",
+      "Lebanese",
+      "Birds",
+      "always",
+      "here",
+      "tweeting",
+      "regularly",
+      "making",
+      "this",
+      "place",
+      "special",
+      "and",
+      "100",
+      "%",
+      "Lebanese",
+      "\"",
+      "writes",
+      "Joe",
+      ",",
+      "who",
+      "lists",
+      "the",
+      "Tweeters",
+      "with",
+      "a",
+      "short",
+      "description",
+      "of",
+      "each"
+    ]
+  }
 }

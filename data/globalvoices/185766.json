@@ -5,5 +5,36 @@
   "original_body": "<em>Groundviews</em> <a href=\"http://groundviews.org/2011/01/10/on-flooding-and-disaster-management/\">provides updates</a> on the recent severe flooding, landslides and an overwhelming humanitarian crisis in the Central and Eastern provinces of Sri Lanka.",
   "title": "Floods In Sri Lanka",
   "byline": "rezwan",
-  "pub_date": "2011-01-10T19:13:43Z"
+  "pub_date": "2011-01-10T19:13:43Z",
+  "decompositions": {
+    "sentence": [
+      "Groundviews provides updates on the recent severe flooding, landslides and an overwhelming humanitarian crisis in the Central and Eastern provinces of Sri Lanka."
+    ],
+    "tokens": [
+      "Groundviews",
+      "provides",
+      "updates",
+      "on",
+      "the",
+      "recent",
+      "severe",
+      "flooding",
+      ",",
+      "landslides",
+      "and",
+      "an",
+      "overwhelming",
+      "humanitarian",
+      "crisis",
+      "in",
+      "the",
+      "Central",
+      "and",
+      "Eastern",
+      "provinces",
+      "of",
+      "Sri",
+      "Lanka"
+    ]
+  }
 }

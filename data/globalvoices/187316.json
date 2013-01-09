@@ -5,5 +5,34 @@
   "original_body": "<a href='http://soulkonekshen.posterous.com/one-tweet-and-the-rest-is-a-brunei-adventure' >Soulkonekshen</a> discusses how twitter facilitated the travel of a US-based journalist in Brunei. Local bloggers also participated in the twitter exchange.",
   "title": "Brunei: Twitter and tourism",
   "byline": "Fadila Ahmad",
-  "pub_date": "2011-01-17T23:42:58Z"
+  "pub_date": "2011-01-17T23:42:58Z",
+  "decompositions": {
+    "sentence": [
+      "Soulkonekshen discusses how twitter facilitated the travel of a US-based journalist in Brunei.",
+      "Local bloggers also participated in the twitter exchange."
+    ],
+    "tokens": [
+      "Soulkonekshen",
+      "discusses",
+      "how",
+      "twitter",
+      "facilitated",
+      "the",
+      "travel",
+      "of",
+      "a",
+      "US-based",
+      "journalist",
+      "in",
+      "Brunei",
+      "Local",
+      "bloggers",
+      "also",
+      "participated",
+      "in",
+      "the",
+      "twitter",
+      "exchange"
+    ]
+  }
 }

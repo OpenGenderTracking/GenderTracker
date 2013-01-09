@@ -5,5 +5,25 @@
   "original_body": "Follow <a href=\"http://www.mambomagazine.com/blog/10-feb/sauti-za-busara-live-stream\">live Twitterstream</a> from Sauti Za Busara music festival in Zanzibar, Tanzania. ",
   "title": "Tanzania: Sauti Za Busara Live Twitterstream\n",
   "byline": "ndesanjo macha",
-  "pub_date": "2011-02-10T13:37:36Z"
+  "pub_date": "2011-02-10T13:37:36Z",
+  "decompositions": {
+    "sentence": [
+      "Follow live Twitterstream from Sauti Za Busara music festival in Zanzibar, Tanzania."
+    ],
+    "tokens": [
+      "Follow",
+      "live",
+      "Twitterstream",
+      "from",
+      "Sauti",
+      "Za",
+      "Busara",
+      "music",
+      "festival",
+      "in",
+      "Zanzibar",
+      ",",
+      "Tanzania"
+    ]
+  }
 }

@@ -5,5 +5,45 @@
   "original_body": "Big Ear Records, Production label and new management from South Africa <a href=\"http://www.museke.com/en/node/7206\">is releasing the much anticipated new super dance album</a>, I am an African goddess, of the Namibian Superstar LadyMay.",
   "title": "Namibia: I am an African goddess",
   "byline": "ndesanjo macha",
-  "pub_date": "2011-01-26T13:50:53Z"
+  "pub_date": "2011-01-26T13:50:53Z",
+  "decompositions": {
+    "sentence": [
+      "Big Ear Records, Production label and new management from South Africa is releasing the much anticipated new super dance album, I am an African goddess, of the Namibian Superstar LadyMay."
+    ],
+    "tokens": [
+      "Big",
+      "Ear",
+      "Records",
+      ",",
+      "Production",
+      "label",
+      "and",
+      "new",
+      "management",
+      "from",
+      "South",
+      "Africa",
+      "is",
+      "releasing",
+      "the",
+      "much",
+      "anticipated",
+      "new",
+      "super",
+      "dance",
+      "album",
+      ",",
+      "I",
+      "am",
+      "an",
+      "African",
+      "goddess",
+      ",",
+      "of",
+      "the",
+      "Namibian",
+      "Superstar",
+      "LadyMay"
+    ]
+  }
 }

@@ -5,5 +5,44 @@
   "original_body": "Trinidad and Tobago's first President, Sir Ellis Clarke, passed away last week; <em><a href=\"http://www.thecaribbeancamera.com/news/3910-tt-president\">Caribbean Camera</a></em> has the details on funeral arrangements and how people can pay their last respects.  ",
   "title": "Trinidad & Tobago: R.I.P. Sir Ellis ",
   "byline": "Janine Mendes-Franco",
-  "pub_date": "2011-01-05T15:47:00Z"
+  "pub_date": "2011-01-05T15:47:00Z",
+  "decompositions": {
+    "sentence": [
+      "Trinidad and Tobago's first President, Sir Ellis Clarke, passed away last week; Caribbean Camera has the details on funeral arrangements and how people can pay their last respects."
+    ],
+    "tokens": [
+      "Trinidad",
+      "and",
+      "Tobago",
+      "'s",
+      "first",
+      "President",
+      ",",
+      "Sir",
+      "Ellis",
+      "Clarke",
+      ",",
+      "passed",
+      "away",
+      "last",
+      "week",
+      ";",
+      "Caribbean",
+      "Camera",
+      "has",
+      "the",
+      "details",
+      "on",
+      "funeral",
+      "arrangements",
+      "and",
+      "how",
+      "people",
+      "can",
+      "pay",
+      "their",
+      "last",
+      "respects"
+    ]
+  }
 }

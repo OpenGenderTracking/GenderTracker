@@ -5,5 +5,45 @@
   "original_body": "<em>Czech Position</em> <a href=\"http://www.ceskapozice.cz/en/news/society/holocaust-%E2%80%98devouring%E2%80%99-czech-roma\">writes in detail about \"the wartime fate of the Roma\"</a> - whose \"tremendous suffering and loss [are] often reduced to little more than a historical footnote.\"",
   "title": "Czech Republic: The Czech Roma During the Holocaust",
   "byline": "Veronica Khokhlova",
-  "pub_date": "2011-01-29T02:38:05Z"
+  "pub_date": "2011-01-29T02:38:05Z",
+  "decompositions": {
+    "sentence": [
+      "Czech Position writes in detail about \"the wartime fate of the Roma\" - whose \"tremendous suffering and loss [are] often reduced to little more than a historical footnote.\""
+    ],
+    "tokens": [
+      "Czech",
+      "Position",
+      "writes",
+      "in",
+      "detail",
+      "about",
+      "\"",
+      "the",
+      "wartime",
+      "fate",
+      "of",
+      "the",
+      "Roma",
+      "\"",
+      "-",
+      "whose",
+      "\"",
+      "tremendous",
+      "suffering",
+      "and",
+      "loss",
+      "[are",
+      "]",
+      "often",
+      "reduced",
+      "to",
+      "little",
+      "more",
+      "than",
+      "a",
+      "historical",
+      "footnote",
+      "."
+    ]
+  }
 }

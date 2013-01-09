@@ -5,5 +5,48 @@
   "original_body": "\"Are India and Pakistan ideological enemies?\"  <a href=\"http://pakteahouse.net/2011/02/15/are-india-and-pakistan-ideological-enemies/\">asks</a> <em>Dr. Niaz Murtaza</em> at <em>Pak Tea House</em>. Murtaza thinks that both the countries should resolve their differences maturely by dialogue, not by other means.",
   "title": "India And Pakistan: Ideological Enemies?",
   "byline": "rezwan",
-  "pub_date": "2011-02-18T22:08:42Z"
+  "pub_date": "2011-02-18T22:08:42Z",
+  "decompositions": {
+    "sentence": [
+      "\"Are India and Pakistan ideological enemies?\"  asks Dr. Niaz Murtaza at Pak Tea House.",
+      "Murtaza thinks that both the countries should resolve their differences maturely by dialogue, not by other means."
+    ],
+    "tokens": [
+      "\"",
+      "Are",
+      "India",
+      "and",
+      "Pakistan",
+      "ideological",
+      "enemies",
+      "?",
+      "\"",
+      "asks",
+      "Dr.",
+      "Niaz",
+      "Murtaza",
+      "at",
+      "Pak",
+      "Tea",
+      "House",
+      "Murtaza",
+      "thinks",
+      "that",
+      "both",
+      "the",
+      "countries",
+      "should",
+      "resolve",
+      "their",
+      "differences",
+      "maturely",
+      "by",
+      "dialogue",
+      ",",
+      "not",
+      "by",
+      "other",
+      "means"
+    ]
+  }
 }

@@ -5,5 +5,37 @@
   "original_body": "<em>Spotlight on Singapore</em> <a href=\"http://rogerpoh.wordpress.com/2011/02/28/singapores-human-rights-vs-hong-kongs-human-rights/\">compares</a> the human rights record of Singapore with Hong Kong and comments that Singapore is trailing in the area of political freedom.\n\n",
   "title": "Singapore: Human rights record",
   "byline": "mong",
-  "pub_date": "2011-02-28T16:03:55Z"
+  "pub_date": "2011-02-28T16:03:55Z",
+  "decompositions": {
+    "sentence": [
+      "Spotlight on Singapore compares the human rights record of Singapore with Hong Kong and comments that Singapore is trailing in the area of political freedom."
+    ],
+    "tokens": [
+      "Spotlight",
+      "on",
+      "Singapore",
+      "compares",
+      "the",
+      "human",
+      "rights",
+      "record",
+      "of",
+      "Singapore",
+      "with",
+      "Hong",
+      "Kong",
+      "and",
+      "comments",
+      "that",
+      "Singapore",
+      "is",
+      "trailing",
+      "in",
+      "the",
+      "area",
+      "of",
+      "political",
+      "freedom"
+    ]
+  }
 }

@@ -5,5 +5,40 @@
   "original_body": "<em>Sgpolitics.net</em> comments about the <a href=\"http://www.sgpolitics.net/?p=5980\">'flawed'</a> immigration policy of the Singapore government which favors the hiring of more foreign workers at the expense of its local workforce.\n\n",
   "title": "Singapore: \"Flawed\" immigration policy",
   "byline": "mong",
-  "pub_date": "2011-02-28T16:07:35Z"
+  "pub_date": "2011-02-28T16:07:35Z",
+  "decompositions": {
+    "sentence": [
+      "Sgpolitics.net comments about the 'flawed' immigration policy of the Singapore government which favors the hiring of more foreign workers at the expense of its local workforce."
+    ],
+    "tokens": [
+      "Sgpolitics",
+      ".net",
+      "comments",
+      "about",
+      "the",
+      "'flawed",
+      "'",
+      "immigration",
+      "policy",
+      "of",
+      "the",
+      "Singapore",
+      "government",
+      "which",
+      "favors",
+      "the",
+      "hiring",
+      "of",
+      "more",
+      "foreign",
+      "workers",
+      "at",
+      "the",
+      "expense",
+      "of",
+      "its",
+      "local",
+      "workforce"
+    ]
+  }
 }

@@ -5,5 +5,51 @@
   "original_body": "Why the hardworking donkey island keeps serving the wealthy piggy island? <em>Utopia Net</em> has a <a href=http://www.wyzxsx.com/Article/Class22/201102/216189.html>fable [zh]</a> telling the relation between China and the U.S.. Mary Ann O'Donnell from <em>Shenzhen Noted</em> retells the fable <a href=http://maryannodonnell.wordpress.com/2011/02/23/the-fable-of-donkey-island-and-piggy-island>in English</a>. ",
   "title": "China: The fable of donkey island and piggy island",
   "byline": "Oiwan",
-  "pub_date": "2011-02-24T03:45:10Z"
+  "pub_date": "2011-02-24T03:45:10Z",
+  "decompositions": {
+    "sentence": [
+      "Why the hardworking donkey island keeps serving the wealthy piggy island?",
+      "Utopia Net has a fable [zh] telling the relation between China and the U.S.. Mary Ann O'Donnell from Shenzhen Noted retells the fable in English."
+    ],
+    "tokens": [
+      "Why",
+      "the",
+      "hardworking",
+      "donkey",
+      "island",
+      "keeps",
+      "serving",
+      "the",
+      "wealthy",
+      "piggy",
+      "island",
+      "Utopia",
+      "Net",
+      "has",
+      "a",
+      "fable",
+      "[zh",
+      "]",
+      "telling",
+      "the",
+      "relation",
+      "between",
+      "China",
+      "and",
+      "the",
+      "U.S.",
+      ".",
+      "Mary",
+      "Ann",
+      "O'Donnell",
+      "from",
+      "Shenzhen",
+      "Noted",
+      "retells",
+      "the",
+      "fable",
+      "in",
+      "English"
+    ]
+  }
 }

@@ -5,5 +5,36 @@
   "original_body": "Filipino netizens use the <a href=\"http://twitter.com/#search?q=%23ust400\">#ust400</a> hashtag to celebrate the 400th year of the University of Sto. Tomas, Asia's oldest Catholic university. \n\n",
   "title": "Philippines: Oldest Catholic University",
   "byline": "mong",
-  "pub_date": "2011-01-28T03:01:00Z"
+  "pub_date": "2011-01-28T03:01:00Z",
+  "decompositions": {
+    "sentence": [
+      "Filipino netizens use the #ust400 hashtag to celebrate the 400th year of the University of Sto.",
+      "Tomas, Asia's oldest Catholic university."
+    ],
+    "tokens": [
+      "Filipino",
+      "netizens",
+      "use",
+      "the",
+      "#ust400",
+      "hashtag",
+      "to",
+      "celebrate",
+      "the",
+      "400th",
+      "year",
+      "of",
+      "the",
+      "University",
+      "of",
+      "Sto",
+      "Tomas",
+      ",",
+      "Asia",
+      "'s",
+      "oldest",
+      "Catholic",
+      "university"
+    ]
+  }
 }

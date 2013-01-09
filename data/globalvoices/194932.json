@@ -5,5 +5,48 @@
   "original_body": "\"I wonder if people are somehow lulling themselves into a belief that the digital world is not real or somehow divorced from the real world\": <em><a href=\"http://potomacgrasshopper.wordpress.com/2011/02/09/if-its-digital-is-it-real/\">Grasshopper Eyes The Potomac</a></em> says everything is connected. ",
   "title": "Jamaica, U.S.A.: Virtual Reality ",
   "byline": "Janine Mendes-Franco",
-  "pub_date": "2011-02-10T17:19:09Z"
+  "pub_date": "2011-02-10T17:19:09Z",
+  "decompositions": {
+    "sentence": [
+      "\"I wonder if people are somehow lulling themselves into a belief that the digital world is not real or somehow divorced from the real world\": Grasshopper Eyes The Potomac says everything is connected."
+    ],
+    "tokens": [
+      "\"",
+      "I",
+      "wonder",
+      "if",
+      "people",
+      "are",
+      "somehow",
+      "lulling",
+      "themselves",
+      "into",
+      "a",
+      "belief",
+      "that",
+      "the",
+      "digital",
+      "world",
+      "is",
+      "not",
+      "real",
+      "or",
+      "somehow",
+      "divorced",
+      "from",
+      "the",
+      "real",
+      "world",
+      "\"",
+      ":",
+      "Grasshopper",
+      "Eyes",
+      "The",
+      "Potomac",
+      "says",
+      "everything",
+      "is",
+      "connected"
+    ]
+  }
 }

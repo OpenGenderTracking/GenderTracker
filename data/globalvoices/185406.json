@@ -5,5 +5,26 @@
   "original_body": "You can now live reports of Southern Sudan Referendum 2011 from<a href=\"http://sudanvotemonitor.com/\"> Sudan Vote Monitor</a>.",
   "title": "Sudan: Southern Sudan Live Reports",
   "byline": "ndesanjo macha",
-  "pub_date": "2011-01-09T14:40:51Z"
+  "pub_date": "2011-01-09T14:40:51Z",
+  "decompositions": {
+    "sentence": [
+      "You can now live reports of Southern Sudan Referendum 2011 from Sudan Vote Monitor."
+    ],
+    "tokens": [
+      "You",
+      "can",
+      "now",
+      "live",
+      "reports",
+      "of",
+      "Southern",
+      "Sudan",
+      "Referendum",
+      "2011",
+      "from",
+      "Sudan",
+      "Vote",
+      "Monitor"
+    ]
+  }
 }

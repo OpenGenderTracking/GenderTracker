@@ -5,5 +5,43 @@
   "original_body": "David Z. Morris <a href=\"http://mindslikeknives.blogspot.com/2011/02/japanese-olio-minstrels-march-27th-1854.html\">reported</a> [en] that Japanese hip-hop was born in the 19th century. The blogger also suggested links to some academic articles that explain its origins and development. ",
   "title": "Japan: The Pre-History of Japanese Hip Hop",
   "byline": "Scilla Alecci",
-  "pub_date": "2011-02-21T14:54:14Z"
+  "pub_date": "2011-02-21T14:54:14Z",
+  "decompositions": {
+    "sentence": [
+      "David Z. Morris reported [en] that Japanese hip-hop was born in the 19th century.",
+      "The blogger also suggested links to some academic articles that explain its origins and development."
+    ],
+    "tokens": [
+      "David",
+      "Z.",
+      "Morris",
+      "reported",
+      "[en",
+      "]",
+      "that",
+      "Japanese",
+      "hip-hop",
+      "was",
+      "born",
+      "in",
+      "the",
+      "19th",
+      "century",
+      "The",
+      "blogger",
+      "also",
+      "suggested",
+      "links",
+      "to",
+      "some",
+      "academic",
+      "articles",
+      "that",
+      "explain",
+      "its",
+      "origins",
+      "and",
+      "development"
+    ]
+  }
 }

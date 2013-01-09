@@ -5,5 +5,39 @@
   "original_body": "<em>Hungarian Watch</em> <a href=\"http://hungarianwatch.wordpress.com/2011/01/26/good-news-hungary-seems-poised-to-make-changes-to-media-law/\">reports</a> that \"Hungary seems poised to make changes to media law\" - but \"freedom of the press is still on shaky ground.\"",
   "title": "Hungary: New Media Law To Be Modified?",
   "byline": "Veronica Khokhlova",
-  "pub_date": "2011-01-29T01:39:36Z"
+  "pub_date": "2011-01-29T01:39:36Z",
+  "decompositions": {
+    "sentence": [
+      "Hungarian Watch reports that \"Hungary seems poised to make changes to media law\" - but \"freedom of the press is still on shaky ground.\""
+    ],
+    "tokens": [
+      "Hungarian",
+      "Watch",
+      "reports",
+      "that",
+      "\"",
+      "Hungary",
+      "seems",
+      "poised",
+      "to",
+      "make",
+      "changes",
+      "to",
+      "media",
+      "law",
+      "\"",
+      "-",
+      "but",
+      "\"freedom",
+      "of",
+      "the",
+      "press",
+      "is",
+      "still",
+      "on",
+      "shaky",
+      "ground",
+      "."
+    ]
+  }
 }

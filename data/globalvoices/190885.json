@@ -5,5 +5,47 @@
   "original_body": "<a href=\"http://blogs.concernusa.org/2011/01/27/liberia-education/\">Jenny discusses the works of Concern Liberia</a>, which involve constructing classrooms, separate toilets for boys and girls, providing furniture, textbooks and other essential learning items like blackboards, pencils and copybooks. ",
   "title": "Liberia: Improving Liberian Education",
   "byline": "ndesanjo macha",
-  "pub_date": "2011-01-30T12:05:10Z"
+  "pub_date": "2011-01-30T12:05:10Z",
+  "decompositions": {
+    "sentence": [
+      "Jenny discusses the works of Concern Liberia, which involve constructing classrooms, separate toilets for boys and girls, providing furniture, textbooks and other essential learning items like blackboards, pencils and copybooks."
+    ],
+    "tokens": [
+      "Jenny",
+      "discusses",
+      "the",
+      "works",
+      "of",
+      "Concern",
+      "Liberia",
+      ",",
+      "which",
+      "involve",
+      "constructing",
+      "classrooms",
+      ",",
+      "separate",
+      "toilets",
+      "for",
+      "boys",
+      "and",
+      "girls",
+      ",",
+      "providing",
+      "furniture",
+      ",",
+      "textbooks",
+      "and",
+      "other",
+      "essential",
+      "learning",
+      "items",
+      "like",
+      "blackboards",
+      ",",
+      "pencils",
+      "and",
+      "copybooks"
+    ]
+  }
 }

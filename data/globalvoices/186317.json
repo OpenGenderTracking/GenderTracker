@@ -5,5 +5,23 @@
   "original_body": "<em><a href=\"http://sapodilla.blogspot.com/2011/01/one-turtle-seeks-good-home.html\">Guyana-Gyal</a></em> considers adopting a turtle - but there's a deal-breaker. ",
   "title": "Guyana: Adopt-a-Turtle ",
   "byline": "Janine Mendes-Franco",
-  "pub_date": "2011-01-13T16:02:11Z"
+  "pub_date": "2011-01-13T16:02:11Z",
+  "decompositions": {
+    "sentence": [
+      "Guyana-Gyal considers adopting a turtle - but there's a deal-breaker."
+    ],
+    "tokens": [
+      "Guyana-Gyal",
+      "considers",
+      "adopting",
+      "a",
+      "turtle",
+      "-",
+      "but",
+      "there",
+      "'s",
+      "a",
+      "deal-breaker"
+    ]
+  }
 }

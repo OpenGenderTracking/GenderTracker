@@ -5,5 +5,52 @@
   "original_body": "A Hong Kong based NGO <em>Students and Scholars Against Corporate Misbehaviour</em> has nominated Apple subcontractor, FoxConn for the <a href=http://www.publiceye.ch/en/vote/foxconn>2011 public eye award</a>. There are at least 18 workers committed suicide in FoxConn's factories in China in 2010.",
   "title": "Taiwan: Foxconn nominated for the public eye award",
   "byline": "Oiwan",
-  "pub_date": "2011-01-17T06:54:10Z"
+  "pub_date": "2011-01-17T06:54:10Z",
+  "decompositions": {
+    "sentence": [
+      "A Hong Kong based NGO Students and Scholars Against Corporate Misbehaviour has nominated Apple subcontractor, FoxConn for the 2011 public eye award.",
+      "There are at least 18 workers committed suicide in FoxConn's factories in China in 2010."
+    ],
+    "tokens": [
+      "A",
+      "Hong",
+      "Kong",
+      "based",
+      "NGO",
+      "Students",
+      "and",
+      "Scholars",
+      "Against",
+      "Corporate",
+      "Misbehaviour",
+      "has",
+      "nominated",
+      "Apple",
+      "subcontractor",
+      ",",
+      "FoxConn",
+      "for",
+      "the",
+      "2011",
+      "public",
+      "eye",
+      "award",
+      "There",
+      "are",
+      "at",
+      "least",
+      "18",
+      "workers",
+      "committed",
+      "suicide",
+      "in",
+      "FoxConn",
+      "'s",
+      "factories",
+      "in",
+      "China",
+      "in",
+      "2010"
+    ]
+  }
 }

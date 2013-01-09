@@ -5,5 +5,47 @@
   "original_body": "YouTube-user <em>Volf1959</em> posted a <a href=\"http://www.youtube.com/watch?v=TWW2BzeQYFY\">video</a> [RUS] of a small river Dzyhra next to Sochi that is now covered with toxic layer because of the development of one of the infrastructure for the <a href=\"http://en.wikipedia.org/wiki/2014_Winter_Olympics\">Sochi 2014 Olympics</a> .",
   "title": "Russia: Toxic River Caused by Sochi Olympics Development",
   "byline": "Alexey Sidorenko",
-  "pub_date": "2011-01-19T13:36:32Z"
+  "pub_date": "2011-01-19T13:36:32Z",
+  "decompositions": {
+    "sentence": [
+      "YouTube-user Volf1959 posted a video [RUS] of a small river Dzyhra next to Sochi that is now covered with toxic layer because of the development of one of the infrastructure for the Sochi 2014 Olympics ."
+    ],
+    "tokens": [
+      "YouTube-user",
+      "Volf1959",
+      "posted",
+      "a",
+      "video",
+      "[RUS]",
+      "of",
+      "a",
+      "small",
+      "river",
+      "Dzyhra",
+      "next",
+      "to",
+      "Sochi",
+      "that",
+      "is",
+      "now",
+      "covered",
+      "with",
+      "toxic",
+      "layer",
+      "because",
+      "of",
+      "the",
+      "development",
+      "of",
+      "one",
+      "of",
+      "the",
+      "infrastructure",
+      "for",
+      "the",
+      "Sochi",
+      "2014",
+      "Olympics"
+    ]
+  }
 }

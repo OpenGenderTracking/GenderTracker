@@ -5,5 +5,41 @@
   "original_body": "Albeiro Rodas from <a href=\"http://colombiapassport.com/2011/02/16/the-arepa-magazine-colombia-seen-by-an-american/\"><em>Colombia Passport</em></a> interviewed Robin Finley, director of <em>La Arepa</em> --an English print magazine that can also be found <a href=\"http://www.thearepa.com/\">online</a>, on <a href=\"http://twitter.com/#!/search/thearepa\">Twitter</a> and on <a href=\"http://www.facebook.com/pages/The-Arepa-Magazine/140653285953939?ref=ts\">Facebook</a>.",
   "title": "Colombia: Interview with director of English magazine \"La Arepa\"",
   "byline": "Silvia Vinas",
-  "pub_date": "2011-02-16T19:09:52Z"
+  "pub_date": "2011-02-16T19:09:52Z",
+  "decompositions": {
+    "sentence": [
+      "Albeiro Rodas from Colombia Passport interviewed Robin Finley, director of La Arepa --an English print magazine that can also be found online, on Twitter and on Facebook."
+    ],
+    "tokens": [
+      "Albeiro",
+      "Rodas",
+      "from",
+      "Colombia",
+      "Passport",
+      "interviewed",
+      "Robin",
+      "Finley",
+      ",",
+      "director",
+      "of",
+      "La",
+      "Arepa",
+      "--an",
+      "English",
+      "print",
+      "magazine",
+      "that",
+      "can",
+      "also",
+      "be",
+      "found",
+      "online",
+      ",",
+      "on",
+      "Twitter",
+      "and",
+      "on",
+      "Facebook"
+    ]
+  }
 }

@@ -5,5 +5,31 @@
   "original_body": "\"Trust the Republican machinery to make you start feeling nostalgic for Dubya\": <a href=\"http://www.bcraw.com/index.php?option=com_myblog&show=failing-to-significance.html&Itemid=13\">B.C. Pires</a> blogs about She-Who-Shall-Not-Be-Named. ",
   "title": "Barbados, U.S.A.: The Republicans",
   "byline": "Janine Mendes-Franco",
-  "pub_date": "2011-01-13T16:13:05Z"
+  "pub_date": "2011-01-13T16:13:05Z",
+  "decompositions": {
+    "sentence": [
+      "\"Trust the Republican machinery to make you start feeling nostalgic for Dubya\": B.C. Pires blogs about She-Who-Shall-Not-Be-Named."
+    ],
+    "tokens": [
+      "\"",
+      "Trust",
+      "the",
+      "Republican",
+      "machinery",
+      "to",
+      "make",
+      "you",
+      "start",
+      "feeling",
+      "nostalgic",
+      "for",
+      "Dubya\"",
+      ":",
+      "B.C.",
+      "Pires",
+      "blogs",
+      "about",
+      "She-Who-Shall-Not-Be-Named"
+    ]
+  }
 }

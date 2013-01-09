@@ -5,5 +5,38 @@
   "original_body": "Regional <a href=\"http://tyronereviews.blogspot.com/2011/01/requiem-for-traditional-calabash.html\">bloggers</a> <a href=\"http://geoffreyphilp.blogspot.com/2011/01/good-night-calabash.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+blogspot%2FEVfd+%28Geoffrey+Philp%27s+Blog+Spot%29\">continue</a> to <a href=\"http://jahworld-pmordecai.blogspot.com/2011/01/calabash-oh-calabash-how-we-mourn-your.html\">say their farewells</a> to Jamaica's beloved annual <em>Calabash International Literary Festival</em>, which has come to an end after ten years.  ",
   "title": "Jamaica: No More Calabash",
   "byline": "Janine Mendes-Franco",
-  "pub_date": "2011-01-19T17:42:46Z"
+  "pub_date": "2011-01-19T17:42:46Z",
+  "decompositions": {
+    "sentence": [
+      "Regional bloggers continue to say their farewells to Jamaica's beloved annual Calabash International Literary Festival, which has come to an end after ten years."
+    ],
+    "tokens": [
+      "Regional",
+      "bloggers",
+      "continue",
+      "to",
+      "say",
+      "their",
+      "farewells",
+      "to",
+      "Jamaica",
+      "'s",
+      "beloved",
+      "annual",
+      "Calabash",
+      "International",
+      "Literary",
+      "Festival",
+      ",",
+      "which",
+      "has",
+      "come",
+      "to",
+      "an",
+      "end",
+      "after",
+      "ten",
+      "years"
+    ]
+  }
 }

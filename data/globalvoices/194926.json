@@ -5,5 +5,41 @@
   "original_body": "Today, February 12, 2011, marks 26 years since Argentine writer Julio Cortázar died of leukemia. Simon Kofoed writes about the author's life in <a href=\"http://argen-times.blogspot.com/2011/02/julio-cortazar-and-rayuela.html?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+argen-times+%28argen-times%29\"><em>argen-times</em></a>.",
   "title": "Argentina: 26 Years Since the Death of Julio Cortázar",
   "byline": "Silvia Vinas",
-  "pub_date": "2011-02-12T17:00:40Z"
+  "pub_date": "2011-02-12T17:00:40Z",
+  "decompositions": {
+    "sentence": [
+      "Today, February 12, 2011, marks 26 years since Argentine writer Julio Cortázar died of leukemia.",
+      "Simon Kofoed writes about the author's life in argen-times."
+    ],
+    "tokens": [
+      "Today",
+      ",",
+      "February",
+      "12",
+      ",",
+      "2011",
+      ",",
+      "marks",
+      "26",
+      "years",
+      "since",
+      "Argentine",
+      "writer",
+      "Julio",
+      "Cortázar",
+      "died",
+      "of",
+      "leukemia",
+      "Simon",
+      "Kofoed",
+      "writes",
+      "about",
+      "the",
+      "author",
+      "'s",
+      "life",
+      "in",
+      "argen-times"
+    ]
+  }
 }

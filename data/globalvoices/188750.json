@@ -5,5 +5,26 @@
   "original_body": "<em>Santosh</em> at <em>Uber Desi </em> <a href=\"http://uberdesi.com/blog/2011/01/22/american-chain-restaurants-taking-india-by-storm/\">opines</a> that American chain restaurants are taking India by storm.",
   "title": "India: Invasion Of The American Chain Restaurants",
   "byline": "rezwan",
-  "pub_date": "2011-01-23T21:08:10Z"
+  "pub_date": "2011-01-23T21:08:10Z",
+  "decompositions": {
+    "sentence": [
+      "Santosh at Uber Desi  opines that American chain restaurants are taking India by storm."
+    ],
+    "tokens": [
+      "Santosh",
+      "at",
+      "Uber",
+      "Desi",
+      "opines",
+      "that",
+      "American",
+      "chain",
+      "restaurants",
+      "are",
+      "taking",
+      "India",
+      "by",
+      "storm"
+    ]
+  }
 }

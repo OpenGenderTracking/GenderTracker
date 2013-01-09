@@ -5,5 +5,52 @@
   "original_body": "\"It includes work by thirty-six artists from twelve Caribbean countries and the international diaspora\": <em><a href=\"http://caribbeanreviewofbooks.com/2011/01/25/looking-wrestling-with-the-image/\">Antilles</a></em> blogs about an exhibition of contemporary Caribbean art that is now on show at the Museum of the Americas in Washington, DC. ",
   "title": "Caribbean, U.S.A.: Contemporary Art Exhibit ",
   "byline": "Janine Mendes-Franco",
-  "pub_date": "2011-01-26T15:42:19Z"
+  "pub_date": "2011-01-26T15:42:19Z",
+  "decompositions": {
+    "sentence": [
+      "\"It includes work by thirty-six artists from twelve Caribbean countries and the international diaspora\": Antilles blogs about an exhibition of contemporary Caribbean art that is now on show at the Museum of the Americas in Washington, DC."
+    ],
+    "tokens": [
+      "\"",
+      "It",
+      "includes",
+      "work",
+      "by",
+      "thirty-six",
+      "artists",
+      "from",
+      "twelve",
+      "Caribbean",
+      "countries",
+      "and",
+      "the",
+      "international",
+      "diaspora\"",
+      ":",
+      "Antilles",
+      "blogs",
+      "about",
+      "an",
+      "exhibition",
+      "of",
+      "contemporary",
+      "Caribbean",
+      "art",
+      "that",
+      "is",
+      "now",
+      "on",
+      "show",
+      "at",
+      "the",
+      "Museum",
+      "of",
+      "the",
+      "Americas",
+      "in",
+      "Washington",
+      ",",
+      "DC"
+    ]
+  }
 }

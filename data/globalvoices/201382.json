@@ -5,5 +5,29 @@
   "original_body": "<a href=\"http://www.cambofest.com/\">Cambofest</a>: Film and Video Festival of Cambodia will take place on the first week of March. \n\n",
   "title": "Cambodia: Cambofest Film Festival",
   "byline": "mong",
-  "pub_date": "2011-02-27T13:55:28Z"
+  "pub_date": "2011-02-27T13:55:28Z",
+  "decompositions": {
+    "sentence": [
+      "Cambofest: Film and Video Festival of Cambodia will take place on the first week of March."
+    ],
+    "tokens": [
+      "Cambofest",
+      ":",
+      "Film",
+      "and",
+      "Video",
+      "Festival",
+      "of",
+      "Cambodia",
+      "will",
+      "take",
+      "place",
+      "on",
+      "the",
+      "first",
+      "week",
+      "of",
+      "March"
+    ]
+  }
 }

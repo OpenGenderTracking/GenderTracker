@@ -5,5 +5,28 @@
   "original_body": "East Timor will inaugurate its <a href=\"http://temposemanaltimor.blogspot.com/2011/02/fifa-president-schedule-to-visit-east.html\">first football training center</a> next month, according to <em>Tempo Semanal</em>. \n\n",
   "title": "East Timor: First football training center",
   "byline": "mong",
-  "pub_date": "2011-02-25T14:50:16Z"
+  "pub_date": "2011-02-25T14:50:16Z",
+  "decompositions": {
+    "sentence": [
+      "East Timor will inaugurate its first football training center next month, according to Tempo Semanal."
+    ],
+    "tokens": [
+      "East",
+      "Timor",
+      "will",
+      "inaugurate",
+      "its",
+      "first",
+      "football",
+      "training",
+      "center",
+      "next",
+      "month",
+      ",",
+      "according",
+      "to",
+      "Tempo",
+      "Semanal"
+    ]
+  }
 }

@@ -5,5 +5,47 @@
   "original_body": "In preparation of this year's International Mother Language Day on the 21st of February, <a href=\"http://bangladeshcanadaandbeyond.blogspot.com/2011/01/bangla-bengali-alphabet-1.html\">Jerome</a> is posting one Bangla (Bengali) alphabet a day to introduce these alphabets to the international community.",
   "title": "Bangladesh: Introducing the Bangla Alphabets To The International Community",
   "byline": "rezwan",
-  "pub_date": "2011-01-07T21:47:03Z"
+  "pub_date": "2011-01-07T21:47:03Z",
+  "decompositions": {
+    "sentence": [
+      "In preparation of this year's International Mother Language Day on the 21st of February, Jerome is posting one Bangla (Bengali) alphabet a day to introduce these alphabets to the international community."
+    ],
+    "tokens": [
+      "In",
+      "preparation",
+      "of",
+      "this",
+      "year",
+      "'s",
+      "International",
+      "Mother",
+      "Language",
+      "Day",
+      "on",
+      "the",
+      "21st",
+      "of",
+      "February",
+      ",",
+      "Jerome",
+      "is",
+      "posting",
+      "one",
+      "Bangla",
+      "(",
+      "Bengali",
+      ")",
+      "alphabet",
+      "a",
+      "day",
+      "to",
+      "introduce",
+      "these",
+      "alphabets",
+      "to",
+      "the",
+      "international",
+      "community"
+    ]
+  }
 }

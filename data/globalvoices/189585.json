@@ -5,5 +5,37 @@
   "original_body": "Steve Dickinson from <em>China Law Blog</em> looks into <a href=http://www.chinalawblog.com/2011/01/chinas_campaign_against_corruption.html>2 reports published by the PRC National Audit Office</a> that address the corruption problem of government officials. ",
   "title": "China's Campaign Against Corruption",
   "byline": "Oiwan",
-  "pub_date": "2011-01-26T05:18:46Z"
+  "pub_date": "2011-01-26T05:18:46Z",
+  "decompositions": {
+    "sentence": [
+      "Steve Dickinson from China Law Blog looks into 2 reports published by the PRC National Audit Office that address the corruption problem of government officials."
+    ],
+    "tokens": [
+      "Steve",
+      "Dickinson",
+      "from",
+      "China",
+      "Law",
+      "Blog",
+      "looks",
+      "into",
+      "2",
+      "reports",
+      "published",
+      "by",
+      "the",
+      "PRC",
+      "National",
+      "Audit",
+      "Office",
+      "that",
+      "address",
+      "the",
+      "corruption",
+      "problem",
+      "of",
+      "government",
+      "officials"
+    ]
+  }
 }

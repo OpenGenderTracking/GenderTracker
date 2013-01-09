@@ -5,5 +5,42 @@
   "original_body": "Guardian <a href=\"http://www.guardian.co.uk/world/2011/jan/12/ayatollah-ali-khamenei-twitter-row\">writes</a> that \"A Twitter account believed to belong to Iran's supreme leader has triggered controversy among Iranians whose own access to social networking websites remains blocked.\"",
   "title": "Iran:\"Supreme leader tweetings infuriate Iran's bloggers\"",
   "byline": "Hamid Tehrani",
-  "pub_date": "2011-01-13T16:46:44Z"
+  "pub_date": "2011-01-13T16:46:44Z",
+  "decompositions": {
+    "sentence": [
+      "Guardian writes that \"A Twitter account believed to belong to Iran's supreme leader has triggered controversy among Iranians whose own access to social networking websites remains blocked.\""
+    ],
+    "tokens": [
+      "Guardian",
+      "writes",
+      "that",
+      "\"",
+      "A",
+      "Twitter",
+      "account",
+      "believed",
+      "to",
+      "belong",
+      "to",
+      "Iran",
+      "'s",
+      "supreme",
+      "leader",
+      "has",
+      "triggered",
+      "controversy",
+      "among",
+      "Iranians",
+      "whose",
+      "own",
+      "access",
+      "to",
+      "social",
+      "networking",
+      "websites",
+      "remains",
+      "blocked",
+      "."
+    ]
+  }
 }

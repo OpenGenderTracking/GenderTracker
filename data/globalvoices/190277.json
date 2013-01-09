@@ -5,5 +5,29 @@
   "original_body": "<em>HCMC Today</em> describes a sample of the <a href=\"http://hcmctoday.blogspot.com/2011/01/vietnamese-calligraphy.html\">Vietnamese Calligraphy</a> in Nguyen Thi Minh Khai Street in Vietnam. \n\n",
   "title": "Vietnamese Calligraphy",
   "byline": "mong",
-  "pub_date": "2011-01-28T05:00:43Z"
+  "pub_date": "2011-01-28T05:00:43Z",
+  "decompositions": {
+    "sentence": [
+      "HCMC Today describes a sample of the Vietnamese Calligraphy in Nguyen Thi Minh Khai Street in Vietnam."
+    ],
+    "tokens": [
+      "HCMC",
+      "Today",
+      "describes",
+      "a",
+      "sample",
+      "of",
+      "the",
+      "Vietnamese",
+      "Calligraphy",
+      "in",
+      "Nguyen",
+      "Thi",
+      "Minh",
+      "Khai",
+      "Street",
+      "in",
+      "Vietnam"
+    ]
+  }
 }

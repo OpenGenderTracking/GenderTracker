@@ -5,5 +5,26 @@
   "original_body": "<em>Maddy</em> <a href=\"http://maddy06.blogspot.com/2011/01/what-is-your-new-rashi.html\">writes</a> in details about the recent rumor that the Zodiac signs will change. ",
   "title": "India: All The Fuss About New Zodiac Sign Dates",
   "byline": "rezwan",
-  "pub_date": "2011-01-20T19:40:20Z"
+  "pub_date": "2011-01-20T19:40:20Z",
+  "decompositions": {
+    "sentence": [
+      "Maddy writes in details about the recent rumor that the Zodiac signs will change."
+    ],
+    "tokens": [
+      "Maddy",
+      "writes",
+      "in",
+      "details",
+      "about",
+      "the",
+      "recent",
+      "rumor",
+      "that",
+      "the",
+      "Zodiac",
+      "signs",
+      "will",
+      "change"
+    ]
+  }
 }

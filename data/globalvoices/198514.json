@@ -5,5 +5,30 @@
   "original_body": "Junling Hu from <em>Democracy in China</em> <a href=http://freedomchina.blogspot.com/2011/02/chinas-jasmine-protest-reflection-on.html>reports and reflects upon</a> the Jasmine Protest on 20 of February 2011. ",
   "title": "China: Jasmine Protest",
   "byline": "Oiwan",
-  "pub_date": "2011-02-21T04:59:50Z"
+  "pub_date": "2011-02-21T04:59:50Z",
+  "decompositions": {
+    "sentence": [
+      "Junling Hu from Democracy in China reports and reflects upon the Jasmine Protest on 20 of February 2011."
+    ],
+    "tokens": [
+      "Junling",
+      "Hu",
+      "from",
+      "Democracy",
+      "in",
+      "China",
+      "reports",
+      "and",
+      "reflects",
+      "upon",
+      "the",
+      "Jasmine",
+      "Protest",
+      "on",
+      "20",
+      "of",
+      "February",
+      "2011"
+    ]
+  }
 }

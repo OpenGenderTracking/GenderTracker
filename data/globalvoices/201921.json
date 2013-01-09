@@ -5,5 +5,52 @@
   "original_body": "Catherine from <a href=\"http://smallfishinthebigtaco.blogspot.com/2011/02/put-on-shadeshere-comes-tlacotalpan.html\"><em>Small Fish in the Big Taco</em></a> shares colour coded images of \"a very sleepy town in the state of Veracruz....namely Tlacotalpan.\" She calls <a href=\"http://en.wikipedia.org/wiki/Tlacotalpan\">Tlacotalpan</a>, \"the most colourful place in the globe!!\"",
   "title": "Mexico: Photos of Tlacotalpan, \"the most colourful place in the globe\"",
   "byline": "Silvia Vinas",
-  "pub_date": "2011-02-28T17:19:04Z"
+  "pub_date": "2011-02-28T17:19:04Z",
+  "decompositions": {
+    "sentence": [
+      "Catherine from Small Fish in the Big Taco shares colour coded images of \"a very sleepy town in the state of Veracruz....namely Tlacotalpan.\"",
+      "She calls Tlacotalpan, \"the most colourful place in the globe!!\""
+    ],
+    "tokens": [
+      "Catherine",
+      "from",
+      "Small",
+      "Fish",
+      "in",
+      "the",
+      "Big",
+      "Taco",
+      "shares",
+      "colour",
+      "coded",
+      "images",
+      "of",
+      "\"",
+      "a",
+      "very",
+      "sleepy",
+      "town",
+      "in",
+      "the",
+      "state",
+      "of",
+      "Veracruz....namely",
+      "Tlacotalpan",
+      ".",
+      "She",
+      "calls",
+      "Tlacotalpan",
+      ",",
+      "\"",
+      "the",
+      "most",
+      "colourful",
+      "place",
+      "in",
+      "the",
+      "globe",
+      "!",
+      "!"
+    ]
+  }
 }

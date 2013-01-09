@@ -5,5 +5,45 @@
   "original_body": "<em>China and the World</em> has a blog post looking into the Chinese Internet giant, <a href=http://china-theworld.blogspot.com/2011/02/chinese-new-year-video-chinese-students.html><em>Tencent's</em> lunar new year advertisement</a> which tells the typical story of a young Chinese with a \"dream\". ",
   "title": "China: QQ and the American Dream",
   "byline": "Oiwan",
-  "pub_date": "2011-02-07T06:51:55Z"
+  "pub_date": "2011-02-07T06:51:55Z",
+  "decompositions": {
+    "sentence": [
+      "China and the World has a blog post looking into the Chinese Internet giant, Tencent's lunar new year advertisement which tells the typical story of a young Chinese with a \"dream\"."
+    ],
+    "tokens": [
+      "China",
+      "and",
+      "the",
+      "World",
+      "has",
+      "a",
+      "blog",
+      "post",
+      "looking",
+      "into",
+      "the",
+      "Chinese",
+      "Internet",
+      "giant",
+      ",",
+      "Tencent",
+      "'s",
+      "lunar",
+      "new",
+      "year",
+      "advertisement",
+      "which",
+      "tells",
+      "the",
+      "typical",
+      "story",
+      "of",
+      "a",
+      "young",
+      "Chinese",
+      "with",
+      "a",
+      "\"dream\""
+    ]
+  }
 }

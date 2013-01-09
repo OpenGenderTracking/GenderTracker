@@ -5,5 +5,50 @@
   "original_body": "<a href=\"http://donaldiaba.blogspot.com/2011/01/python-african-tour-comes-to-ghana.html\">Python African Tour is in Ghana</a>: \"Python African Tour (PAT) is an exciting African open source technology initiative aimed at promoting agile programming languages, mainly Python, among Africa's tech communities.\"",
   "title": "Ghana: Python African Tour comes to Ghana",
   "byline": "ndesanjo macha",
-  "pub_date": "2011-01-08T12:36:38Z"
+  "pub_date": "2011-01-08T12:36:38Z",
+  "decompositions": {
+    "sentence": [
+      "Python African Tour is in Ghana: \"Python African Tour (PAT) is an exciting African open source technology initiative aimed at promoting agile programming languages, mainly Python, among Africa's tech communities.\""
+    ],
+    "tokens": [
+      "Python",
+      "African",
+      "Tour",
+      "is",
+      "in",
+      "Ghana",
+      ":",
+      "\"",
+      "Python",
+      "African",
+      "Tour",
+      "(",
+      "PAT",
+      ")",
+      "is",
+      "an",
+      "exciting",
+      "African",
+      "open",
+      "source",
+      "technology",
+      "initiative",
+      "aimed",
+      "at",
+      "promoting",
+      "agile",
+      "programming",
+      "languages",
+      ",",
+      "mainly",
+      "Python",
+      ",",
+      "among",
+      "Africa",
+      "'s",
+      "tech",
+      "communities",
+      "."
+    ]
+  }
 }

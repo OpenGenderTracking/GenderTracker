@@ -5,5 +5,47 @@
   "original_body": "\"Carnival is slowly becoming nothing but a two day drunken orgy to music where a celebration of a people used to be\": <em><a href=\"http://plainlytalking.blogspot.com/2011/01/abuse-of-culture-who-say-advantage.html\">Plain Talk</a></em> is underwhelmed by this year's Carnival soca offerings.",
   "title": "Trinidad & Tobago: Where's the Culture? ",
   "byline": "Janine Mendes-Franco",
-  "pub_date": "2011-02-01T17:18:30Z"
+  "pub_date": "2011-02-01T17:18:30Z",
+  "decompositions": {
+    "sentence": [
+      "\"Carnival is slowly becoming nothing but a two day drunken orgy to music where a celebration of a people used to be\": Plain Talk is underwhelmed by this year's Carnival soca offerings."
+    ],
+    "tokens": [
+      "\"",
+      "Carnival",
+      "is",
+      "slowly",
+      "becoming",
+      "nothing",
+      "but",
+      "a",
+      "two",
+      "day",
+      "drunken",
+      "orgy",
+      "to",
+      "music",
+      "where",
+      "a",
+      "celebration",
+      "of",
+      "a",
+      "people",
+      "used",
+      "to",
+      "be\"",
+      ":",
+      "Plain",
+      "Talk",
+      "is",
+      "underwhelmed",
+      "by",
+      "this",
+      "year",
+      "'s",
+      "Carnival",
+      "soca",
+      "offerings"
+    ]
+  }
 }

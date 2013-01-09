@@ -5,5 +5,31 @@
   "original_body": "<em>Belgraded</em> <a href=\"http://www.belgraded.com/ceca-croatia\">posts a list</a> of Serbian, Croatian and Bosnian singers who are \"unwelcome in former enemy countries.\"",
   "title": "Balkans: Ceca and Other \"Unwelcome\" Singers",
   "byline": "Veronica Khokhlova",
-  "pub_date": "2011-02-18T15:34:23Z"
+  "pub_date": "2011-02-18T15:34:23Z",
+  "decompositions": {
+    "sentence": [
+      "Belgraded posts a list of Serbian, Croatian and Bosnian singers who are \"unwelcome in former enemy countries.\""
+    ],
+    "tokens": [
+      "Belgraded",
+      "posts",
+      "a",
+      "list",
+      "of",
+      "Serbian",
+      ",",
+      "Croatian",
+      "and",
+      "Bosnian",
+      "singers",
+      "who",
+      "are",
+      "\"unwelcome",
+      "in",
+      "former",
+      "enemy",
+      "countries",
+      "."
+    ]
+  }
 }

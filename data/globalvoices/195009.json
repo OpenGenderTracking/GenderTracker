@@ -5,5 +5,27 @@
   "original_body": "<em>Diganta Sarkar</em>  at <em>The New Horizon </em> <a href=\"http://horizonspeaks.wordpress.com/2011/02/10/how-many-bangladeshis-live-in-india/\">discusses</a> about the immigration issues between India and Bangladesh.",
   "title": "India, Bangladesh: How Many Bangladeshis Live In India?",
   "byline": "rezwan",
-  "pub_date": "2011-02-10T22:05:10Z"
+  "pub_date": "2011-02-10T22:05:10Z",
+  "decompositions": {
+    "sentence": [
+      "Diganta Sarkar  at The New Horizon  discusses about the immigration issues between India and Bangladesh."
+    ],
+    "tokens": [
+      "Diganta",
+      "Sarkar",
+      "at",
+      "The",
+      "New",
+      "Horizon",
+      "discusses",
+      "about",
+      "the",
+      "immigration",
+      "issues",
+      "between",
+      "India",
+      "and",
+      "Bangladesh"
+    ]
+  }
 }

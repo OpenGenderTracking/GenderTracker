@@ -5,5 +5,44 @@
   "original_body": "<em><a href=\"http://cruzarlasalambradaseng.wordpress.com/2011/01/24/simply-marta/\">Crossing the Barbed Wire</a></em> blogs about the experience of Marta Diaz Rondon, who was reportedly imprisoned and beaten by \"men who claim to be patriots and protectors of Cuba’s security.\" ",
   "title": "Cuba: Marta's Victory ",
   "byline": "Janine Mendes-Franco",
-  "pub_date": "2011-01-25T20:10:54Z"
+  "pub_date": "2011-01-25T20:10:54Z",
+  "decompositions": {
+    "sentence": [
+      "Crossing the Barbed Wire blogs about the experience of Marta Diaz Rondon, who was reportedly imprisoned and beaten by \"men who claim to be patriots and protectors of Cuba’s security.\""
+    ],
+    "tokens": [
+      "Crossing",
+      "the",
+      "Barbed",
+      "Wire",
+      "blogs",
+      "about",
+      "the",
+      "experience",
+      "of",
+      "Marta",
+      "Diaz",
+      "Rondon",
+      ",",
+      "who",
+      "was",
+      "reportedly",
+      "imprisoned",
+      "and",
+      "beaten",
+      "by",
+      "\"men",
+      "who",
+      "claim",
+      "to",
+      "be",
+      "patriots",
+      "and",
+      "protectors",
+      "of",
+      "Cuba’s",
+      "security",
+      "."
+    ]
+  }
 }

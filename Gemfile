@@ -9,5 +9,6 @@ gem 'ruby-debug'
 gem 'uuid'
 gem 'feedzirra'
 gem 'sanitize'
+gem 'eventmachine'
 
 gem 'jruby-opennlp', :git => "git://github.com/iros/jruby-opennlp.git"

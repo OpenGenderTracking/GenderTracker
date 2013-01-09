@@ -5,5 +5,34 @@
   "original_body": "\"Even by Trini standards, it was a bad week for discipline\": <a href=\"http://www.bcraw.com/index.php?option=com_myblog&show=legalized-lawlessness.html&Itemid=13\">B.C. Pires</a> blogs about \"legalized lawlessness\".",
   "title": "Trinidad & Tobago: Lack of Leadership ",
   "byline": "Janine Mendes-Franco",
-  "pub_date": "2011-01-10T20:13:22Z"
+  "pub_date": "2011-01-10T20:13:22Z",
+  "decompositions": {
+    "sentence": [
+      "\"Even by Trini standards, it was a bad week for discipline\": B.C. Pires blogs about \"legalized lawlessness\"."
+    ],
+    "tokens": [
+      "\"",
+      "Even",
+      "by",
+      "Trini",
+      "standards",
+      ",",
+      "it",
+      "was",
+      "a",
+      "bad",
+      "week",
+      "for",
+      "discipline",
+      "\"",
+      ":",
+      "B.C.",
+      "Pires",
+      "blogs",
+      "about",
+      "\"legalized",
+      "lawlessness",
+      "\""
+    ]
+  }
 }

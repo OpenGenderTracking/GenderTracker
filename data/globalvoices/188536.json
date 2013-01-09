@@ -5,5 +5,50 @@
   "original_body": "<em>Dr. Hano Hailang</em> at <em>Arunachal Diary</em> <a href=\"http://arunachaldiary.com/2011/01/quintessential-of-apatani-phonetics/\">informs that</a> Apatani language of Arunachal Pradesh in India has become endangered and a linguist named Nending Ommo is publishing a book on the sound systems of Apatani language to protect it.",
   "title": "India: Protecting Apatani Language",
   "byline": "rezwan",
-  "pub_date": "2011-01-21T19:21:35Z"
+  "pub_date": "2011-01-21T19:21:35Z",
+  "decompositions": {
+    "sentence": [
+      "Dr. Hano Hailang at Arunachal Diary informs that Apatani language of Arunachal Pradesh in India has become endangered and a linguist named Nending Ommo is publishing a book on the sound systems of Apatani language to protect it."
+    ],
+    "tokens": [
+      "Dr.",
+      "Hano",
+      "Hailang",
+      "at",
+      "Arunachal",
+      "Diary",
+      "informs",
+      "that",
+      "Apatani",
+      "language",
+      "of",
+      "Arunachal",
+      "Pradesh",
+      "in",
+      "India",
+      "has",
+      "become",
+      "endangered",
+      "and",
+      "a",
+      "linguist",
+      "named",
+      "Nending",
+      "Ommo",
+      "is",
+      "publishing",
+      "a",
+      "book",
+      "on",
+      "the",
+      "sound",
+      "systems",
+      "of",
+      "Apatani",
+      "language",
+      "to",
+      "protect",
+      "it"
+    ]
+  }
 }

@@ -5,5 +5,44 @@
   "original_body": "<em><a href=\"http://guyanagroove.blogspot.com/2011/01/ending-relationship-should-not-mean.html\">The Guyana Groove</a></em> is concerned about \"the extremely high rate\" of domestic violence, especially \"in those cases in which one or both of the partners left the relationship.\" ",
   "title": "Guyana: End of Relationship, Not End of Life ",
   "byline": "Janine Mendes-Franco",
-  "pub_date": "2011-01-26T15:31:42Z"
+  "pub_date": "2011-01-26T15:31:42Z",
+  "decompositions": {
+    "sentence": [
+      "The Guyana Groove is concerned about \"the extremely high rate\" of domestic violence, especially \"in those cases in which one or both of the partners left the relationship.\""
+    ],
+    "tokens": [
+      "The",
+      "Guyana",
+      "Groove",
+      "is",
+      "concerned",
+      "about",
+      "\"",
+      "the",
+      "extremely",
+      "high",
+      "rate",
+      "\"",
+      "of",
+      "domestic",
+      "violence",
+      ",",
+      "especially",
+      "\"in",
+      "those",
+      "cases",
+      "in",
+      "which",
+      "one",
+      "or",
+      "both",
+      "of",
+      "the",
+      "partners",
+      "left",
+      "the",
+      "relationship",
+      "."
+    ]
+  }
 }

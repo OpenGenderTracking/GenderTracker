@@ -5,5 +5,23 @@
   "original_body": "<a href=\"http://liveinguyana.blogspot.com/2011/02/sharief-khan-passes-away.html\">Guyanese</a> <a href=\"http://www.demerarawaves.com/index.php?option=com_content&view=article&id=747:veteran-journalist-sharief-khan-dies&catid=1&Itemid=45\">bloggers</a> acknowledge the passing of veteran journalist, Sharief Khan.",
   "title": "Guyana: Journalist Sharief Khan Dies ",
   "byline": "Janine Mendes-Franco",
-  "pub_date": "2011-02-23T13:41:27Z"
+  "pub_date": "2011-02-23T13:41:27Z",
+  "decompositions": {
+    "sentence": [
+      "Guyanese bloggers acknowledge the passing of veteran journalist, Sharief Khan."
+    ],
+    "tokens": [
+      "Guyanese",
+      "bloggers",
+      "acknowledge",
+      "the",
+      "passing",
+      "of",
+      "veteran",
+      "journalist",
+      ",",
+      "Sharief",
+      "Khan"
+    ]
+  }
 }

@@ -5,5 +5,37 @@
   "original_body": "\"The second Karachi literature festival 2011 took place on 5th and 6th February at Carlton hotel in Karachi\", <a href=\"http://www.chowrangi.com/karachi-literature-festival-2011-2.html\">reports</a> <em>Rabia Sheikh</em> at <em>Chowrangi</em>.",
   "title": "Pakistan: Karachi Literature Festival 2011",
   "byline": "rezwan",
-  "pub_date": "2011-02-08T20:01:48Z"
+  "pub_date": "2011-02-08T20:01:48Z",
+  "decompositions": {
+    "sentence": [
+      "\"The second Karachi literature festival 2011 took place on 5th and 6th February at Carlton hotel in Karachi\", reports Rabia Sheikh at Chowrangi."
+    ],
+    "tokens": [
+      "\"",
+      "The",
+      "second",
+      "Karachi",
+      "literature",
+      "festival",
+      "2011",
+      "took",
+      "place",
+      "on",
+      "5th",
+      "and",
+      "6th",
+      "February",
+      "at",
+      "Carlton",
+      "hotel",
+      "in",
+      "Karachi\"",
+      ",",
+      "reports",
+      "Rabia",
+      "Sheikh",
+      "at",
+      "Chowrangi"
+    ]
+  }
 }

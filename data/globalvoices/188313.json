@@ -5,5 +5,27 @@
   "original_body": "<a href=\"http://www.facebook.com/pages/Tru-Me/167424323301232?v=wall\"><em>Tru Me</em></a> is Singapore's online <a href=\"http://msdemeanoursingapore.blogspot.com/2011/01/coming-out-and-crossing-over.html\">transgender</a> beauty pageant which will be launched next month. \n\n\n",
   "title": "Singapore: Online transgender beauty pageant",
   "byline": "mong",
-  "pub_date": "2011-01-21T06:31:54Z"
+  "pub_date": "2011-01-21T06:31:54Z",
+  "decompositions": {
+    "sentence": [
+      "Tru Me is Singapore's online transgender beauty pageant which will be launched next month."
+    ],
+    "tokens": [
+      "Tru",
+      "Me",
+      "is",
+      "Singapore",
+      "'s",
+      "online",
+      "transgender",
+      "beauty",
+      "pageant",
+      "which",
+      "will",
+      "be",
+      "launched",
+      "next",
+      "month"
+    ]
+  }
 }

@@ -5,5 +5,39 @@
   "original_body": "Charmaine Valere shares her thoughts on <a href=\"http://signifyinguyana.typepad.com/signifyin_guyana/2010/12/three-caribbean-men-of-verse-geoffrey-philp-kei-miller-and-christian-campbell.html\">\"three Caribbean men of verse\"</a>--Jamaican poets Geoffrey Philp and Kei Miller and Bahamian Christian Campbell--whose poems she enjoyed in 2010.",
   "title": "Jamaica, Bahamas: three poets",
   "byline": "Nicholas Laughlin",
-  "pub_date": "2011-01-01T14:15:51Z"
+  "pub_date": "2011-01-01T14:15:51Z",
+  "decompositions": {
+    "sentence": [
+      "Charmaine Valere shares her thoughts on \"three Caribbean men of verse\"--Jamaican poets Geoffrey Philp and Kei Miller and Bahamian Christian Campbell--whose poems she enjoyed in 2010."
+    ],
+    "tokens": [
+      "Charmaine",
+      "Valere",
+      "shares",
+      "her",
+      "thoughts",
+      "on",
+      "\"",
+      "three",
+      "Caribbean",
+      "men",
+      "of",
+      "verse\"--Jamaican",
+      "poets",
+      "Geoffrey",
+      "Philp",
+      "and",
+      "Kei",
+      "Miller",
+      "and",
+      "Bahamian",
+      "Christian",
+      "Campbell--whose",
+      "poems",
+      "she",
+      "enjoyed",
+      "in",
+      "2010"
+    ]
+  }
 }

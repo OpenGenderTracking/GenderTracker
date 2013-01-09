@@ -5,5 +5,48 @@
   "original_body": "\"Dr. King's importance lies in his challenge to expand our moral imagination\": <a href=\"http://geoffreyphilp.blogspot.com/2011/01/happy-birthday-dr-king-2010.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+blogspot%2FEVfd+%28Geoffrey+Philp%27s+Blog+Spot%29\">Geoffrey Philp</a> and <a href=\"http://www.atout-guadeloupe.com/Un-Martin-Luther-King-Day-tres-discret-en-Guadeloupe_a4562.html\">other</a> <a href=\"http://www.yardflex.com/archives/008451.html\">regional</a> <a href=\"http://www.chookooloonks.com/blog/2011/1/17/random-thoughts-on-blogging-the-global-village-and-martin-lu.html\">bloggers</a> pay tribute to the late American civil rights leader Martin Luther King Jr. ",
   "title": "Jamaica, Guadeloupe, T&T, U.S.A.: MLK Day ",
   "byline": "Janine Mendes-Franco",
-  "pub_date": "2011-01-17T17:50:47Z"
+  "pub_date": "2011-01-17T17:50:47Z",
+  "decompositions": {
+    "sentence": [
+      "\"Dr.",
+      "King's importance lies in his challenge to expand our moral imagination\": Geoffrey Philp and other regional bloggers pay tribute to the late American civil rights leader Martin Luther King Jr."
+    ],
+    "tokens": [
+      "\"",
+      "Dr.",
+      "King",
+      "'s",
+      "importance",
+      "lies",
+      "in",
+      "his",
+      "challenge",
+      "to",
+      "expand",
+      "our",
+      "moral",
+      "imagination",
+      "\"",
+      ":",
+      "Geoffrey",
+      "Philp",
+      "and",
+      "other",
+      "regional",
+      "bloggers",
+      "pay",
+      "tribute",
+      "to",
+      "the",
+      "late",
+      "American",
+      "civil",
+      "rights",
+      "leader",
+      "Martin",
+      "Luther",
+      "King",
+      "Jr."
+    ]
+  }
 }

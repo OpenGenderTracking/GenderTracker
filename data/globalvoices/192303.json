@@ -5,5 +5,39 @@
   "original_body": "After 23 years, Myanmar's <a href=\"http://www.shanland.org/index.php?option=com_content&view=article&id=3441:no-surprise-usdp-mps-elected-as-speakers-of-shan-state-legislature&catid=85:politics&Itemid=266\">legislature</a> opened its first session and elected its new leaders. The new officers are all members of the junta-backed party. \n\n",
   "title": "Myanmar: Leaders of the new Parliament",
   "byline": "mong",
-  "pub_date": "2011-02-03T04:18:31Z"
+  "pub_date": "2011-02-03T04:18:31Z",
+  "decompositions": {
+    "sentence": [
+      "After 23 years, Myanmar's legislature opened its first session and elected its new leaders.",
+      "The new officers are all members of the junta-backed party."
+    ],
+    "tokens": [
+      "After",
+      "23",
+      "years",
+      ",",
+      "Myanmar",
+      "'s",
+      "legislature",
+      "opened",
+      "its",
+      "first",
+      "session",
+      "and",
+      "elected",
+      "its",
+      "new",
+      "leaders",
+      "The",
+      "new",
+      "officers",
+      "are",
+      "all",
+      "members",
+      "of",
+      "the",
+      "junta-backed",
+      "party"
+    ]
+  }
 }

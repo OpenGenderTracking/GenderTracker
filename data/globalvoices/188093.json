@@ -5,5 +5,42 @@
   "original_body": "Blogger <a href=\"http://welgar.livejournal.com/556805.html\"><em>welgar</em></a> contemplates about how useful it could be  to create a website that would list all collaborators of Russian authorities who try to compromise the action of the opposition.",
   "title": "Russia: Bloggers Discuss Possible Website of Collaborators of Authorities",
   "byline": "Vadim Isakov",
-  "pub_date": "2011-01-20T07:11:47Z"
+  "pub_date": "2011-01-20T07:11:47Z",
+  "decompositions": {
+    "sentence": [
+      "Blogger welgar contemplates about how useful it could be  to create a website that would list all collaborators of Russian authorities who try to compromise the action of the opposition."
+    ],
+    "tokens": [
+      "Blogger",
+      "welgar",
+      "contemplates",
+      "about",
+      "how",
+      "useful",
+      "it",
+      "could",
+      "be",
+      "to",
+      "create",
+      "a",
+      "website",
+      "that",
+      "would",
+      "list",
+      "all",
+      "collaborators",
+      "of",
+      "Russian",
+      "authorities",
+      "who",
+      "try",
+      "to",
+      "compromise",
+      "the",
+      "action",
+      "of",
+      "the",
+      "opposition"
+    ]
+  }
 }

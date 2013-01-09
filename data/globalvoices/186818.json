@@ -5,5 +5,29 @@
   "original_body": "<em>Mohamed Naahi</em> <a href=\"http://mohamednaahii.blogspot.com/2011/01/can-expatriate-dominance-in-country-be.html\">wonders</a> what can be done to reduce the growing number of foreign workers in Maldives. ",
   "title": "Maldives: Dominance Of The Expatriates",
   "byline": "rezwan",
-  "pub_date": "2011-01-15T18:50:34Z"
+  "pub_date": "2011-01-15T18:50:34Z",
+  "decompositions": {
+    "sentence": [
+      "Mohamed Naahi wonders what can be done to reduce the growing number of foreign workers in Maldives."
+    ],
+    "tokens": [
+      "Mohamed",
+      "Naahi",
+      "wonders",
+      "what",
+      "can",
+      "be",
+      "done",
+      "to",
+      "reduce",
+      "the",
+      "growing",
+      "number",
+      "of",
+      "foreign",
+      "workers",
+      "in",
+      "Maldives"
+    ]
+  }
 }

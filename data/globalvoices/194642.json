@@ -5,5 +5,32 @@
   "original_body": "Filipinos use the twitter hashtag <a href=\"http://twitter.com/#search?q=%23azkals\">#azkals</a> to express support and admiration to the Philippine Football Team known as the Azkals. \n\n",
   "title": "Philippines: Football revival",
   "byline": "mong",
-  "pub_date": "2011-02-10T01:20:24Z"
+  "pub_date": "2011-02-10T01:20:24Z",
+  "decompositions": {
+    "sentence": [
+      "Filipinos use the twitter hashtag #azkals to express support and admiration to the Philippine Football Team known as the Azkals."
+    ],
+    "tokens": [
+      "Filipinos",
+      "use",
+      "the",
+      "twitter",
+      "hashtag",
+      "#azkals",
+      "to",
+      "express",
+      "support",
+      "and",
+      "admiration",
+      "to",
+      "the",
+      "Philippine",
+      "Football",
+      "Team",
+      "known",
+      "as",
+      "the",
+      "Azkals"
+    ]
+  }
 }

@@ -5,5 +5,25 @@
   "original_body": "<em>Kosoof</em>, a leading photo blogger <a href=\"http://kosoof.com/archive/517.php#comments\">has published</a> a photo from snowy Tehran.",
   "title": "Iran: Snow in Tehran",
   "byline": "Hamid Tehrani",
-  "pub_date": "2011-01-04T22:10:42Z"
+  "pub_date": "2011-01-04T22:10:42Z",
+  "decompositions": {
+    "sentence": [
+      "Kosoof, a leading photo blogger has published a photo from snowy Tehran."
+    ],
+    "tokens": [
+      "Kosoof",
+      ",",
+      "a",
+      "leading",
+      "photo",
+      "blogger",
+      "has",
+      "published",
+      "a",
+      "photo",
+      "from",
+      "snowy",
+      "Tehran"
+    ]
+  }
 }

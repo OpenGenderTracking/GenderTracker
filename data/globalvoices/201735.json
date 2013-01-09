@@ -5,5 +5,42 @@
   "original_body": "Beginning this year, female Uzbekistan nationals must pledge that they shall not become prostitutes outside of the country in order to receive their exit visa, <a href=\"http://www.neweurasia.net/politics-and-society/let-me-out-and-i-promise-not-to-be-a-prostitute/\">reports neweurasia’s Abulfazal</a>.",
   "title": "Uzbekistan: Exit visa requires a no-whore plea",
   "byline": "Adam Kesher",
-  "pub_date": "2011-02-28T11:26:09Z"
+  "pub_date": "2011-02-28T11:26:09Z",
+  "decompositions": {
+    "sentence": [
+      "Beginning this year, female Uzbekistan nationals must pledge that they shall not become prostitutes outside of the country in order to receive their exit visa, reports neweurasia’s Abulfazal."
+    ],
+    "tokens": [
+      "Beginning",
+      "this",
+      "year",
+      ",",
+      "female",
+      "Uzbekistan",
+      "nationals",
+      "must",
+      "pledge",
+      "that",
+      "they",
+      "shall",
+      "not",
+      "become",
+      "prostitutes",
+      "outside",
+      "of",
+      "the",
+      "country",
+      "in",
+      "order",
+      "to",
+      "receive",
+      "their",
+      "exit",
+      "visa",
+      ",",
+      "reports",
+      "neweurasia’s",
+      "Abulfazal"
+    ]
+  }
 }

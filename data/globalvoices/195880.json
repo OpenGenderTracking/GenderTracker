@@ -5,5 +5,44 @@
   "original_body": "Several video films <a href=\"http://www.youtube.com/user/UNITY4IRAN#p/u/1/Db-Y8So6f_o\">show </a>protesters on rooftops in Tehran chanting 'God is Great' and 'down with dictator' on Sunday. Tommorow Iranian opposition called for a demonstration in Iran.",
   "title": "Iran:Protesters on rooftops",
   "byline": "Hamid Tehrani",
-  "pub_date": "2011-02-13T21:15:12Z"
+  "pub_date": "2011-02-13T21:15:12Z",
+  "decompositions": {
+    "sentence": [
+      "Several video films show protesters on rooftops in Tehran chanting 'God is Great' and 'down with dictator' on Sunday.",
+      "Tommorow Iranian opposition called for a demonstration in Iran."
+    ],
+    "tokens": [
+      "Several",
+      "video",
+      "films",
+      "show",
+      "protesters",
+      "on",
+      "rooftops",
+      "in",
+      "Tehran",
+      "chanting",
+      "'",
+      "God",
+      "is",
+      "Great",
+      "'",
+      "and",
+      "'down",
+      "with",
+      "dictator",
+      "'",
+      "on",
+      "Sunday",
+      "Tommorow",
+      "Iranian",
+      "opposition",
+      "called",
+      "for",
+      "a",
+      "demonstration",
+      "in",
+      "Iran"
+    ]
+  }
 }

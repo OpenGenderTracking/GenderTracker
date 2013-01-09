@@ -5,5 +5,38 @@
   "original_body": "Cabalamuse<a href=\"http://cabalamuse.wordpress.com/2011/01/08/grown-men-crying/\"> writes about the story of Moroccan \"foreign fighters\" in Iraq</a>, retracing their trajectory from the slums of Casablanca to the prisons of Baghdad.",
   "title": "Morocco: From the Slums of Casablanca to the Prisons of Iraq",
   "byline": "Hisham",
-  "pub_date": "2011-01-10T10:08:22Z"
+  "pub_date": "2011-01-10T10:08:22Z",
+  "decompositions": {
+    "sentence": [
+      "Cabalamuse writes about the story of Moroccan \"foreign fighters\" in Iraq, retracing their trajectory from the slums of Casablanca to the prisons of Baghdad."
+    ],
+    "tokens": [
+      "Cabalamuse",
+      "writes",
+      "about",
+      "the",
+      "story",
+      "of",
+      "Moroccan",
+      "\"foreign",
+      "fighters",
+      "\"",
+      "in",
+      "Iraq",
+      ",",
+      "retracing",
+      "their",
+      "trajectory",
+      "from",
+      "the",
+      "slums",
+      "of",
+      "Casablanca",
+      "to",
+      "the",
+      "prisons",
+      "of",
+      "Baghdad"
+    ]
+  }
 }

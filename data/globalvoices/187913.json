@@ -5,5 +5,15 @@
   "original_body": "http://twitter.com/#!/AmbassadorRice/status/27471413564678145",
   "title": "Sudan: twitter",
   "byline": "ndesanjo macha",
-  "pub_date": "-1-11-30T00:00:00Z"
+  "pub_date": "-1-11-30T00:00:00Z",
+  "decompositions": {
+    "sentence": [
+      "http://twitter.com/#!/AmbassadorRice/status/27471413564678145"
+    ],
+    "tokens": [
+      "http",
+      "://twitter.com/#",
+      "!/AmbassadorRice/status/27471413564678145"
+    ]
+  }
 }

@@ -5,5 +5,44 @@
   "original_body": "<em><a href=\"http://www.bahamapundit.com/2011/01/the-theft-of-our-fishery-resources.html\">Bahama Pundit</a></em>'s Larry Smith notes that \"a recent report...has confirmed that poaching by commercial fishermen from the Dominican Republic is the greatest single threat to Bahamian seafood resources.\"",
   "title": "Bahamas, D.R.: Fish Poaching",
   "byline": "Janine Mendes-Franco",
-  "pub_date": "2011-01-26T15:46:06Z"
+  "pub_date": "2011-01-26T15:46:06Z",
+  "decompositions": {
+    "sentence": [
+      "Bahama Pundit's Larry Smith notes that \"a recent report...has confirmed that poaching by commercial fishermen from the Dominican Republic is the greatest single threat to Bahamian seafood resources.\""
+    ],
+    "tokens": [
+      "Bahama",
+      "Pundit",
+      "'s",
+      "Larry",
+      "Smith",
+      "notes",
+      "that",
+      "\"",
+      "a",
+      "recent",
+      "report",
+      "...has",
+      "confirmed",
+      "that",
+      "poaching",
+      "by",
+      "commercial",
+      "fishermen",
+      "from",
+      "the",
+      "Dominican",
+      "Republic",
+      "is",
+      "the",
+      "greatest",
+      "single",
+      "threat",
+      "to",
+      "Bahamian",
+      "seafood",
+      "resources",
+      "."
+    ]
+  }
 }

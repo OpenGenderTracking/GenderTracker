@@ -5,5 +5,49 @@
   "original_body": "<a href=\"http://bankelele.blogspot.com/2011/01/dabra-2011.html\">Bankelele announces</a> the launch of The 2011 Diageo Africa Business Reporting Awards - DABRA in Nairobi, Kenya. Entries are invited from all African countries for the winners to be announced in London later this year.\n\n",
   "title": "Africa: The 2011 Diageo Africa Business Reporting Awards",
   "byline": "ndesanjo macha",
-  "pub_date": "2011-01-24T11:41:04Z"
+  "pub_date": "2011-01-24T11:41:04Z",
+  "decompositions": {
+    "sentence": [
+      "Bankelele announces the launch of The 2011 Diageo Africa Business Reporting Awards - DABRA in Nairobi, Kenya.",
+      "Entries are invited from all African countries for the winners to be announced in London later this year."
+    ],
+    "tokens": [
+      "Bankelele",
+      "announces",
+      "the",
+      "launch",
+      "of",
+      "The",
+      "2011",
+      "Diageo",
+      "Africa",
+      "Business",
+      "Reporting",
+      "Awards",
+      "-",
+      "DABRA",
+      "in",
+      "Nairobi",
+      ",",
+      "Kenya",
+      "Entries",
+      "are",
+      "invited",
+      "from",
+      "all",
+      "African",
+      "countries",
+      "for",
+      "the",
+      "winners",
+      "to",
+      "be",
+      "announced",
+      "in",
+      "London",
+      "later",
+      "this",
+      "year"
+    ]
+  }
 }

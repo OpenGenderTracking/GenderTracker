@@ -5,5 +5,44 @@
   "original_body": "\"One of the most striking aspects of Marley’s songwriting is his authenticity\": Diaspora litblogger <a href=\"http://geoffreyphilp.blogspot.com/2011/02/what-can-bob-marley-teach-bloggers.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+blogspot%2FEVfd+%28Geoffrey+Philp%27s+Blog+Spot%29\">Geoffrey Philp</a> wonders if bloggers can learn a few lessons from the late reggae great.  ",
   "title": "Jamaica: Lessons from Marley",
   "byline": "Janine Mendes-Franco",
-  "pub_date": "2011-02-07T18:47:00Z"
+  "pub_date": "2011-02-07T18:47:00Z",
+  "decompositions": {
+    "sentence": [
+      "\"One of the most striking aspects of Marley’s songwriting is his authenticity\": Diaspora litblogger Geoffrey Philp wonders if bloggers can learn a few lessons from the late reggae great."
+    ],
+    "tokens": [
+      "\"",
+      "One",
+      "of",
+      "the",
+      "most",
+      "striking",
+      "aspects",
+      "of",
+      "Marley’s",
+      "songwriting",
+      "is",
+      "his",
+      "authenticity",
+      "\"",
+      ":",
+      "Diaspora",
+      "litblogger",
+      "Geoffrey",
+      "Philp",
+      "wonders",
+      "if",
+      "bloggers",
+      "can",
+      "learn",
+      "a",
+      "few",
+      "lessons",
+      "from",
+      "the",
+      "late",
+      "reggae",
+      "great"
+    ]
+  }
 }

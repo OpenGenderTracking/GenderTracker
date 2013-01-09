@@ -30,9 +30,10 @@ module Parsers
       article = {}
       puts "processing #{entry.title}"
 
-      # TODO: need to strip this guy of stuff...
       article["url"] = entry.entry_id
       article["id"] = self.generate_id(article)
+      
+      # remove html content tags.
       article["body"] = Sanitize.clean(entry.content)
       article["original_body"] = entry.content
       article["title"] = entry.title

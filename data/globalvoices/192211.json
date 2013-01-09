@@ -5,5 +5,52 @@
   "original_body": "Alexey Navalny, Russian anticorruption blogger, <a href=\"http://navalny.livejournal.com/547869.html\">started</a> [RUS] fundraising for his website <em>rospil.info</em>. Within first three hours Navalny <a href=\"http://navalny.livejournal.com/548198.html\">had collected</a> [RUS] more than $5,300 in donations which is a record for online anticorruption iniatives in Russia.",
   "title": "Russia: Blogger Navalny Starts Anticorruption Fundraising",
   "byline": "Alexey Sidorenko",
-  "pub_date": "2011-02-02T21:15:47Z"
+  "pub_date": "2011-02-02T21:15:47Z",
+  "decompositions": {
+    "sentence": [
+      "Alexey Navalny, Russian anticorruption blogger, started [RUS] fundraising for his website rospil.info.",
+      "Within first three hours Navalny had collected [RUS] more than $5,300 in donations which is a record for online anticorruption iniatives in Russia."
+    ],
+    "tokens": [
+      "Alexey",
+      "Navalny",
+      ",",
+      "Russian",
+      "anticorruption",
+      "blogger",
+      ",",
+      "started",
+      "[RUS]",
+      "fundraising",
+      "for",
+      "his",
+      "website",
+      "rospil",
+      ".info",
+      "Within",
+      "first",
+      "three",
+      "hours",
+      "Navalny",
+      "had",
+      "collected",
+      "[RUS]",
+      "more",
+      "than",
+      "$",
+      "5,300",
+      "in",
+      "donations",
+      "which",
+      "is",
+      "a",
+      "record",
+      "for",
+      "online",
+      "anticorruption",
+      "iniatives",
+      "in",
+      "Russia"
+    ]
+  }
 }

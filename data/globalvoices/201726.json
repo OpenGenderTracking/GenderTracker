@@ -5,5 +5,52 @@
   "original_body": "<a href=\"http://www.neweurasia.net/business-and-economics/tough-times-for-the-largest-market-of-central-asia/\">Rahat reports</a> that \"Dordoi\" - the largest market of Central Asia near Bishkek, the capital city of Kyrgyzstan, is experiencing a fall in sales with the establishment of the Customs Union by Belarus, Kazakhstan and Russia.",
   "title": "Kyrgyzstan: Central Asia's largest market affected by Customs Union",
   "byline": "Adam Kesher",
-  "pub_date": "2011-02-28T11:14:17Z"
+  "pub_date": "2011-02-28T11:14:17Z",
+  "decompositions": {
+    "sentence": [
+      "Rahat reports that \"Dordoi\" - the largest market of Central Asia near Bishkek, the capital city of Kyrgyzstan, is experiencing a fall in sales with the establishment of the Customs Union by Belarus, Kazakhstan and Russia."
+    ],
+    "tokens": [
+      "Rahat",
+      "reports",
+      "that",
+      "\"",
+      "Dordoi\"",
+      "-",
+      "the",
+      "largest",
+      "market",
+      "of",
+      "Central",
+      "Asia",
+      "near",
+      "Bishkek",
+      ",",
+      "the",
+      "capital",
+      "city",
+      "of",
+      "Kyrgyzstan",
+      ",",
+      "is",
+      "experiencing",
+      "a",
+      "fall",
+      "in",
+      "sales",
+      "with",
+      "the",
+      "establishment",
+      "of",
+      "the",
+      "Customs",
+      "Union",
+      "by",
+      "Belarus",
+      ",",
+      "Kazakhstan",
+      "and",
+      "Russia"
+    ]
+  }
 }

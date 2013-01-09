@@ -5,5 +5,45 @@
   "original_body": "In the wake of popular uprisings in Tunisia and Egypt, the oil-rich former Soviet Republic of Azerbaijan has unexpectedly <a href=\"http://globalvoicesonline.org/2011/02/14/azerbaijan-anti-corruption-drive-following-egypt-and-tunisia/\">launched a crackdown on corruption</a>. <em>Politics By Other Means</em> <a href=\"http://www.othermeanspolitics.com/1/post/2011/02/azerbaijan-cracks-down-on-corruption-no-really.html\">analyses the move</a>. ",
   "title": "Azerbaijan: Corruption crackdown",
   "byline": "Onnik Krikorian",
-  "pub_date": "2011-02-19T18:14:40Z"
+  "pub_date": "2011-02-19T18:14:40Z",
+  "decompositions": {
+    "sentence": [
+      "In the wake of popular uprisings in Tunisia and Egypt, the oil-rich former Soviet Republic of Azerbaijan has unexpectedly launched a crackdown on corruption.",
+      "Politics By Other Means analyses the move."
+    ],
+    "tokens": [
+      "In",
+      "the",
+      "wake",
+      "of",
+      "popular",
+      "uprisings",
+      "in",
+      "Tunisia",
+      "and",
+      "Egypt",
+      ",",
+      "the",
+      "oil-rich",
+      "former",
+      "Soviet",
+      "Republic",
+      "of",
+      "Azerbaijan",
+      "has",
+      "unexpectedly",
+      "launched",
+      "a",
+      "crackdown",
+      "on",
+      "corruption",
+      "Politics",
+      "By",
+      "Other",
+      "Means",
+      "analyses",
+      "the",
+      "move"
+    ]
+  }
 }

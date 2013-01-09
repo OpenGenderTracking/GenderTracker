@@ -5,5 +5,32 @@
   "original_body": "A photograph of a voter in Southern Sudan entitle, <a href=\"http://twitpic.com/3og0ea\">\"The long walk to vote #SudanRef #Sudan\"</a>",
   "title": "Sudan: The long walk to vote",
   "byline": "ndesanjo macha",
-  "pub_date": "2011-01-09T13:35:02Z"
+  "pub_date": "2011-01-09T13:35:02Z",
+  "decompositions": {
+    "sentence": [
+      "A photograph of a voter in Southern Sudan entitle, \"The long walk to vote #SudanRef #Sudan\""
+    ],
+    "tokens": [
+      "A",
+      "photograph",
+      "of",
+      "a",
+      "voter",
+      "in",
+      "Southern",
+      "Sudan",
+      "entitle",
+      ",",
+      "\"",
+      "The",
+      "long",
+      "walk",
+      "to",
+      "vote",
+      "#",
+      "SudanRef",
+      "#",
+      "Sudan"
+    ]
+  }
 }

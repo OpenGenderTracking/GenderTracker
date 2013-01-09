@@ -5,5 +5,35 @@
   "original_body": "Zhongnanhai <a href=http://www.zhongnanhaiblog.com/?p=370>blogs about a debate</a> on \"The world needs less democracy, not more\" organized by Asia Intelligence in Hong Kong. ",
   "title": "China and Hong Kong: Questioning Democracy",
   "byline": "Oiwan",
-  "pub_date": "2011-02-12T09:12:18Z"
+  "pub_date": "2011-02-12T09:12:18Z",
+  "decompositions": {
+    "sentence": [
+      "Zhongnanhai blogs about a debate on \"The world needs less democracy, not more\" organized by Asia Intelligence in Hong Kong."
+    ],
+    "tokens": [
+      "Zhongnanhai",
+      "blogs",
+      "about",
+      "a",
+      "debate",
+      "on",
+      "\"",
+      "The",
+      "world",
+      "needs",
+      "less",
+      "democracy",
+      ",",
+      "not",
+      "more",
+      "\"",
+      "organized",
+      "by",
+      "Asia",
+      "Intelligence",
+      "in",
+      "Hong",
+      "Kong"
+    ]
+  }
 }

@@ -5,5 +5,40 @@
   "original_body": "Adam Cathcart from <em>Sinologistical Violoncellist</em> looks into the commercial deals <a href=http://adamcathcart.wordpress.com/2011/01/11/get-ready-for-the-new-borderland-status-quo>between China and North Korea</a> and predicts that a new status quo is setting up in Northeast Asia. ",
   "title": "China and Korea: New Status Quo on the Sino-North Korean Border",
   "byline": "Oiwan",
-  "pub_date": "2011-01-12T07:29:34Z"
+  "pub_date": "2011-01-12T07:29:34Z",
+  "decompositions": {
+    "sentence": [
+      "Adam Cathcart from Sinologistical Violoncellist looks into the commercial deals between China and North Korea and predicts that a new status quo is setting up in Northeast Asia."
+    ],
+    "tokens": [
+      "Adam",
+      "Cathcart",
+      "from",
+      "Sinologistical",
+      "Violoncellist",
+      "looks",
+      "into",
+      "the",
+      "commercial",
+      "deals",
+      "between",
+      "China",
+      "and",
+      "North",
+      "Korea",
+      "and",
+      "predicts",
+      "that",
+      "a",
+      "new",
+      "status",
+      "quo",
+      "is",
+      "setting",
+      "up",
+      "in",
+      "Northeast",
+      "Asia"
+    ]
+  }
 }

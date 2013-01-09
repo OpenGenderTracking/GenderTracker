@@ -4,8 +4,8 @@ module Decomposer
 
   class Tokens < Decomposer::Default
 
-    def initialize(article_path)
-      super(article_path)
+    def initialize(article)
+      super(article)
 
       sentence_model_file_path = File.expand_path(File.join(
         File.dirname(__FILE__), 
@@ -28,17 +28,21 @@ module Decomposer
 
     end
 
+    def get_name
+      "tokens"
+    end
+
     def process
 
-      if !self.has_decomposition?("sentence") &&
-         !self.has_decomposition?("tokens")
+      if !@article.has_decomposition?("sentence") &&
+         !@article.has_decomposition?("tokens")
 
         tokens = []
         
         # add sentences. Break out tokens as we iterate sentences... no point
         # in breaking up the whole thing twice.
-        self.add_decomposition "sentence" do
-          sentences = @sentence_detector.detect(@article["body"]) rescue []
+        @article.add_decomposition "sentence" do
+          sentences = @sentence_detector.detect(@article.body) rescue []
 
           # iterate over sentences and tokenize them. Ignore tokens that are
           # punctuation. Only check the last ones in a sentence for now.
@@ -55,10 +59,11 @@ module Decomposer
           sentences
         end
 
-        self.add_decomposition "tokens" do
+        @article.add_decomposition "tokens" do
           tokens
         end
 
+        @article.save
       else
         puts "decompositions exist. skipping."
       end

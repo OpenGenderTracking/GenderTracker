@@ -5,5 +5,33 @@
   "original_body": "Cornell PhD student Manfred Elfstrom has started a <a href=\"http://chinastrikes.crowdmap.com/main\">website</a> to map instances of labor unrest across China on the <a href=\"http://www.ushahidi.com/\">Ushahidi</a> platform.",
   "title": "China: Mapping labor unrest",
   "byline": "Andy Yee",
-  "pub_date": "2011-01-19T06:13:42Z"
+  "pub_date": "2011-01-19T06:13:42Z",
+  "decompositions": {
+    "sentence": [
+      "Cornell PhD student Manfred Elfstrom has started a website to map instances of labor unrest across China on the Ushahidi platform."
+    ],
+    "tokens": [
+      "Cornell",
+      "PhD",
+      "student",
+      "Manfred",
+      "Elfstrom",
+      "has",
+      "started",
+      "a",
+      "website",
+      "to",
+      "map",
+      "instances",
+      "of",
+      "labor",
+      "unrest",
+      "across",
+      "China",
+      "on",
+      "the",
+      "Ushahidi",
+      "platform"
+    ]
+  }
 }

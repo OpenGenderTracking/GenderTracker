@@ -5,5 +5,30 @@
   "original_body": "Siweiluozi <a href=http://www.siweiluozi.net/2011/02/yang-hengjun-big-news.html>translated</a> prominent blogger Yang Hengjun's tweet \"celebrating\" the successful exportation of political value to Libya. ",
   "title": "China: Exportation of value to Libya",
   "byline": "Oiwan",
-  "pub_date": "2011-02-23T01:44:51Z"
+  "pub_date": "2011-02-23T01:44:51Z",
+  "decompositions": {
+    "sentence": [
+      "Siweiluozi translated prominent blogger Yang Hengjun's tweet \"celebrating\" the successful exportation of political value to Libya."
+    ],
+    "tokens": [
+      "Siweiluozi",
+      "translated",
+      "prominent",
+      "blogger",
+      "Yang",
+      "Hengjun",
+      "'s",
+      "tweet",
+      "\"celebrating",
+      "\"",
+      "the",
+      "successful",
+      "exportation",
+      "of",
+      "political",
+      "value",
+      "to",
+      "Libya"
+    ]
+  }
 }

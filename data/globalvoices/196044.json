@@ -5,5 +5,31 @@
   "original_body": "\"It’s shortlist time — for at least a couple of literary awards\": <em><a href=\"http://caribbeanreviewofbooks.com/2011/02/11/making-the-list/\">Antilles</a></em> has the details. ",
   "title": "Trinidad & Tobago: Literary Awards",
   "byline": "Janine Mendes-Franco",
-  "pub_date": "2011-02-14T15:13:13Z"
+  "pub_date": "2011-02-14T15:13:13Z",
+  "decompositions": {
+    "sentence": [
+      "\"It’s shortlist time — for at least a couple of literary awards\": Antilles has the details."
+    ],
+    "tokens": [
+      "\"",
+      "It’s",
+      "shortlist",
+      "time",
+      "—",
+      "for",
+      "at",
+      "least",
+      "a",
+      "couple",
+      "of",
+      "literary",
+      "awards",
+      "\"",
+      ":",
+      "Antilles",
+      "has",
+      "the",
+      "details"
+    ]
+  }
 }

@@ -5,5 +5,28 @@
   "original_body": "As Ugandans are getting ready for presidential and parliamentary elections, follow election related tweets <a href=\"http://twitter.com/#!/search?q=%23ugandavotes\">here.</a> ",
   "title": "Uganda: Follow Uganda elections on Twitter",
   "byline": "ndesanjo macha",
-  "pub_date": "2011-02-16T15:26:18Z"
+  "pub_date": "2011-02-16T15:26:18Z",
+  "decompositions": {
+    "sentence": [
+      "As Ugandans are getting ready for presidential and parliamentary elections, follow election related tweets here."
+    ],
+    "tokens": [
+      "As",
+      "Ugandans",
+      "are",
+      "getting",
+      "ready",
+      "for",
+      "presidential",
+      "and",
+      "parliamentary",
+      "elections",
+      ",",
+      "follow",
+      "election",
+      "related",
+      "tweets",
+      "here"
+    ]
+  }
 }

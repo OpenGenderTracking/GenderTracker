@@ -5,5 +5,28 @@
   "original_body": "Tonyo Cruz uploads the full text of proposed <a href=\"http://tonyocruz.com/?p=3063\">'Cybercrime'</a> prevention legislative bills in the Philippines.\n\n",
   "title": "Philippines: Anti-Cybercrime Bills",
   "byline": "mong",
-  "pub_date": "2011-02-03T03:38:47Z"
+  "pub_date": "2011-02-03T03:38:47Z",
+  "decompositions": {
+    "sentence": [
+      "Tonyo Cruz uploads the full text of proposed 'Cybercrime' prevention legislative bills in the Philippines."
+    ],
+    "tokens": [
+      "Tonyo",
+      "Cruz",
+      "uploads",
+      "the",
+      "full",
+      "text",
+      "of",
+      "proposed",
+      "'Cybercrime",
+      "'",
+      "prevention",
+      "legislative",
+      "bills",
+      "in",
+      "the",
+      "Philippines"
+    ]
+  }
 }

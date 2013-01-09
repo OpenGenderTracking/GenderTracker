@@ -5,5 +5,51 @@
   "original_body": "<em>Foreign Notes</em> <a href=\"http://foreignnotes.blogspot.com/2011/01/ukrainian-football-covered-in-same-sht.html\">writes</a> about the latest Euro 2012 controversy in Ukraine: \"In other words, the Ukrainian national team could find itself banned from the Euro 2012 football tournament that the country is itself hosting...\"",
   "title": "Ukraine: The Newest Euro 2012 Scandal",
   "byline": "Veronica Khokhlova",
-  "pub_date": "2011-01-28T23:19:18Z"
+  "pub_date": "2011-01-28T23:19:18Z",
+  "decompositions": {
+    "sentence": [
+      "Foreign Notes writes about the latest Euro 2012 controversy in Ukraine: \"In other words, the Ukrainian national team could find itself banned from the Euro 2012 football tournament that the country is itself hosting...\""
+    ],
+    "tokens": [
+      "Foreign",
+      "Notes",
+      "writes",
+      "about",
+      "the",
+      "latest",
+      "Euro",
+      "2012",
+      "controversy",
+      "in",
+      "Ukraine",
+      ":",
+      "\"",
+      "In",
+      "other",
+      "words",
+      ",",
+      "the",
+      "Ukrainian",
+      "national",
+      "team",
+      "could",
+      "find",
+      "itself",
+      "banned",
+      "from",
+      "the",
+      "Euro",
+      "2012",
+      "football",
+      "tournament",
+      "that",
+      "the",
+      "country",
+      "is",
+      "itself",
+      "hosting",
+      "..",
+      "."
+    ]
+  }
 }

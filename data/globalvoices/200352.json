@@ -5,5 +5,41 @@
   "original_body": "On February 28, 2011 at 1.00 pm, Kenyans will sing all three verses of the National Anthem. The event is organised online using <a href=\"http://twitter.com/#!/kenya28feb\">Twitter </a>and <a href=\"http://www.facebook.com/28FebKenya\">Facebook</a>. ",
   "title": "Kenya: One Nation, One People, One Anthem",
   "byline": "ndesanjo macha",
-  "pub_date": "2011-02-25T11:44:37Z"
+  "pub_date": "2011-02-25T11:44:37Z",
+  "decompositions": {
+    "sentence": [
+      "On February 28, 2011 at 1.00 pm, Kenyans will sing all three verses of the National Anthem.",
+      "The event is organised online using Twitter and Facebook."
+    ],
+    "tokens": [
+      "On",
+      "February",
+      "28",
+      ",",
+      "2011",
+      "at",
+      "1.00",
+      "pm",
+      ",",
+      "Kenyans",
+      "will",
+      "sing",
+      "all",
+      "three",
+      "verses",
+      "of",
+      "the",
+      "National",
+      "Anthem",
+      "The",
+      "event",
+      "is",
+      "organised",
+      "online",
+      "using",
+      "Twitter",
+      "and",
+      "Facebook"
+    ]
+  }
 }

@@ -5,5 +5,40 @@
   "original_body": "Vietnamnet publishes Tu Uyen's list of top <a href=\"http://english.vietnamnet.vn/en/special-report/3365/the-most-impressive-education-events-in-2010.html\">education stories</a> of 2010 in Vietnam. The top story is about Ngo Bao Chau, a famous mathematic professor. \n\n",
   "title": "Vietnam: Top education stories of 2010",
   "byline": "mong",
-  "pub_date": "2011-01-04T07:30:23Z"
+  "pub_date": "2011-01-04T07:30:23Z",
+  "decompositions": {
+    "sentence": [
+      "Vietnamnet publishes Tu Uyen's list of top education stories of 2010 in Vietnam.",
+      "The top story is about Ngo Bao Chau, a famous mathematic professor."
+    ],
+    "tokens": [
+      "Vietnamnet",
+      "publishes",
+      "Tu",
+      "Uyen",
+      "'s",
+      "list",
+      "of",
+      "top",
+      "education",
+      "stories",
+      "of",
+      "2010",
+      "in",
+      "Vietnam",
+      "The",
+      "top",
+      "story",
+      "is",
+      "about",
+      "Ngo",
+      "Bao",
+      "Chau",
+      ",",
+      "a",
+      "famous",
+      "mathematic",
+      "professor"
+    ]
+  }
 }

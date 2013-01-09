@@ -5,5 +5,35 @@
   "original_body": "<a href=\"http://geoffreyphilp.blogspot.com/2011/02/edouard-glissant-1928-2011-rip.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+blogspot%2FEVfd+%28Geoffrey+Philp%27s+Blog+Spot%29\">Regional</a> <a href=\"http://caribbeanreviewofbooks.com/2011/02/03/rip-edouard-glissant/\">bloggers</a> <a href=\"http://repeatingislands.com/2011/02/03/edouard-glissant-passed-away-today/\">pay tribute</a> to the life and work of \"the great Caribbean writer Edouard Glissant\", who passed away earlier today. ",
   "title": "Martinique: RIP Glissant",
   "byline": "Janine Mendes-Franco",
-  "pub_date": "2011-02-03T19:07:32Z"
+  "pub_date": "2011-02-03T19:07:32Z",
+  "decompositions": {
+    "sentence": [
+      "Regional bloggers pay tribute to the life and work of \"the great Caribbean writer Edouard Glissant\", who passed away earlier today."
+    ],
+    "tokens": [
+      "Regional",
+      "bloggers",
+      "pay",
+      "tribute",
+      "to",
+      "the",
+      "life",
+      "and",
+      "work",
+      "of",
+      "\"",
+      "the",
+      "great",
+      "Caribbean",
+      "writer",
+      "Edouard",
+      "Glissant\"",
+      ",",
+      "who",
+      "passed",
+      "away",
+      "earlier",
+      "today"
+    ]
+  }
 }

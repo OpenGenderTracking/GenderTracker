@@ -5,5 +5,30 @@
   "original_body": "<em><a href=\"http://violatre.blogspot.com/2011/01/rain.html\">Nadine Feghaly</a></em> posts her latest beautiful, simple and expressive painting titled \"I miss the rain\".",
   "title": "Lebanon: Missing the Rain",
   "byline": "Moussa Bachir",
-  "pub_date": "2011-01-02T10:37:26Z"
+  "pub_date": "2011-01-02T10:37:26Z",
+  "decompositions": {
+    "sentence": [
+      "Nadine Feghaly posts her latest beautiful, simple and expressive painting titled \"I miss the rain\"."
+    ],
+    "tokens": [
+      "Nadine",
+      "Feghaly",
+      "posts",
+      "her",
+      "latest",
+      "beautiful",
+      ",",
+      "simple",
+      "and",
+      "expressive",
+      "painting",
+      "titled",
+      "\"",
+      "I",
+      "miss",
+      "the",
+      "rain",
+      "\""
+    ]
+  }
 }

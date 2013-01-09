@@ -5,5 +5,38 @@
   "original_body": "<em>Paramendra Bhagat</em> <a href=\"http://demrepubnepal.blogspot.com/2011/02/smart-political-move-by-prachanda.html\">opines</a> that supporting Jhalanath Khanal to be elected as Nepal's new Prime Minister was a smart political move by Maoist political leader Prachanda.",
   "title": "Nepal: A Smart Move By Prachanda",
   "byline": "rezwan",
-  "pub_date": "2011-02-06T19:34:29Z"
+  "pub_date": "2011-02-06T19:34:29Z",
+  "decompositions": {
+    "sentence": [
+      "Paramendra Bhagat opines that supporting Jhalanath Khanal to be elected as Nepal's new Prime Minister was a smart political move by Maoist political leader Prachanda."
+    ],
+    "tokens": [
+      "Paramendra",
+      "Bhagat",
+      "opines",
+      "that",
+      "supporting",
+      "Jhalanath",
+      "Khanal",
+      "to",
+      "be",
+      "elected",
+      "as",
+      "Nepal",
+      "'s",
+      "new",
+      "Prime",
+      "Minister",
+      "was",
+      "a",
+      "smart",
+      "political",
+      "move",
+      "by",
+      "Maoist",
+      "political",
+      "leader",
+      "Prachanda"
+    ]
+  }
 }

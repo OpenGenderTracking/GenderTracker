@@ -5,5 +5,42 @@
   "original_body": "C Custer from <em>ChinaGeek</em> has translated a housing demolition report 2010 (<a href=http://chinageeks.org/2011/01/housing-demolition-in-2010-a-report-part-1>part one</a> and <a href=http://chinageeks.org/2011/01/housing-demolition-in-2010-a-report-part-2>part two</a>) that has been banned from publishing in mainland Chinese mainstream media outlets.",
   "title": "China: 2010 housing demolition report ",
   "byline": "Oiwan",
-  "pub_date": "2011-01-19T04:52:16Z"
+  "pub_date": "2011-01-19T04:52:16Z",
+  "decompositions": {
+    "sentence": [
+      "C Custer from ChinaGeek has translated a housing demolition report 2010 (part one and part two) that has been banned from publishing in mainland Chinese mainstream media outlets."
+    ],
+    "tokens": [
+      "C",
+      "Custer",
+      "from",
+      "ChinaGeek",
+      "has",
+      "translated",
+      "a",
+      "housing",
+      "demolition",
+      "report",
+      "2010",
+      "(",
+      "part",
+      "one",
+      "and",
+      "part",
+      "two",
+      ")",
+      "that",
+      "has",
+      "been",
+      "banned",
+      "from",
+      "publishing",
+      "in",
+      "mainland",
+      "Chinese",
+      "mainstream",
+      "media",
+      "outlets"
+    ]
+  }
 }

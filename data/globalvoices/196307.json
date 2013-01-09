@@ -5,5 +5,42 @@
   "original_body": "Michael and Eric discuss China’s censorship policies in both the new and traditional media sectors in the latest episode of <em><a href=http://itunes.apple.com/us/podcast/id364898141>China Talking points podcast</a></em>. Text introduction is <a href=http://www.chinatalkingpoints.com/audio-exploring-the-limits-of-chinese-censorship>here</a>. ",
   "title": "China: The limits of Chinese censorship",
   "byline": "Oiwan",
-  "pub_date": "2011-02-15T06:35:41Z"
+  "pub_date": "2011-02-15T06:35:41Z",
+  "decompositions": {
+    "sentence": [
+      "Michael and Eric discuss China’s censorship policies in both the new and traditional media sectors in the latest episode of China Talking points podcast.",
+      "Text introduction is here."
+    ],
+    "tokens": [
+      "Michael",
+      "and",
+      "Eric",
+      "discuss",
+      "China",
+      "’s",
+      "censorship",
+      "policies",
+      "in",
+      "both",
+      "the",
+      "new",
+      "and",
+      "traditional",
+      "media",
+      "sectors",
+      "in",
+      "the",
+      "latest",
+      "episode",
+      "of",
+      "China",
+      "Talking",
+      "points",
+      "podcast",
+      "Text",
+      "introduction",
+      "is",
+      "here"
+    ]
+  }
 }

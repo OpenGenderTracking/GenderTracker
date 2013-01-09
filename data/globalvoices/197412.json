@@ -5,5 +5,27 @@
   "original_body": "<em><a href=\"http://www.yardflex.com/archives/008665.html\">YardFlex.com</a></em> reports that the Ministry of Health has identified three imported cases of malaria. ",
   "title": "Jamaica: Malaria Cases ",
   "byline": "Janine Mendes-Franco",
-  "pub_date": "2011-02-17T17:09:24Z"
+  "pub_date": "2011-02-17T17:09:24Z",
+  "decompositions": {
+    "sentence": [
+      "YardFlex.com",
+      "reports that the Ministry of Health has identified three imported cases of malaria."
+    ],
+    "tokens": [
+      "YardFlex.com",
+      "reports",
+      "that",
+      "the",
+      "Ministry",
+      "of",
+      "Health",
+      "has",
+      "identified",
+      "three",
+      "imported",
+      "cases",
+      "of",
+      "malaria"
+    ]
+  }
 }

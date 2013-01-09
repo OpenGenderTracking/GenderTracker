@@ -5,5 +5,30 @@
   "original_body": "<a href=\"http://malawi.crowdmap.com/\">Our Malawi News</a> is Ushahidi based platform for stories & events around Malawi where & when they happen. ",
   "title": "Malawi: Our Malawi News",
   "byline": "ndesanjo macha",
-  "pub_date": "2011-01-21T16:49:58Z"
+  "pub_date": "2011-01-21T16:49:58Z",
+  "decompositions": {
+    "sentence": [
+      "Our Malawi News is Ushahidi based platform for stories &amp; events around Malawi where &amp; when they happen."
+    ],
+    "tokens": [
+      "Our",
+      "Malawi",
+      "News",
+      "is",
+      "Ushahidi",
+      "based",
+      "platform",
+      "for",
+      "stories",
+      "&amp;",
+      "events",
+      "around",
+      "Malawi",
+      "where",
+      "&amp;",
+      "when",
+      "they",
+      "happen"
+    ]
+  }
 }

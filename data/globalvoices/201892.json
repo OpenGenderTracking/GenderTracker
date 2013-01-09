@@ -5,5 +5,45 @@
   "original_body": "\"The <a href=\"http://www.bocaslitfest.com/ocm-bocas-prize.html\">OCM Bocas Prize for Caribbean Literature</a> — which will be awarded for the first time this year — has announced its 2011 longlist of ten books\": <a href=\"http://caribbeanreviewofbooks.com/2011/02/28/2011-ocm-bocas-prize-longlist/\">Caribbean</a> <a href=\"http://caribbeanbookblog.wordpress.com/2011/02/28/ten-caribbean-authors-in-the-running-for-ocm-bocas-prize/\">bloggers</a> <a href=\"http://lisaallen-agostini.com/?p=267\">discuss</a>.  ",
   "title": "Caribbean: Bocas Announces Longlist",
   "byline": "Janine Mendes-Franco",
-  "pub_date": "2011-02-28T16:45:44Z"
+  "pub_date": "2011-02-28T16:45:44Z",
+  "decompositions": {
+    "sentence": [
+      "\"The OCM Bocas Prize for Caribbean Literature — which will be awarded for the first time this year — has announced its 2011 longlist of ten books\": Caribbean bloggers discuss."
+    ],
+    "tokens": [
+      "\"",
+      "The",
+      "OCM",
+      "Bocas",
+      "Prize",
+      "for",
+      "Caribbean",
+      "Literature",
+      "—",
+      "which",
+      "will",
+      "be",
+      "awarded",
+      "for",
+      "the",
+      "first",
+      "time",
+      "this",
+      "year",
+      "—",
+      "has",
+      "announced",
+      "its",
+      "2011",
+      "longlist",
+      "of",
+      "ten",
+      "books",
+      "\"",
+      ":",
+      "Caribbean",
+      "bloggers",
+      "discuss"
+    ]
+  }
 }

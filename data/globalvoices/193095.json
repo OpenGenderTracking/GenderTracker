@@ -5,5 +5,25 @@
   "original_body": "Johan Lagerkvist from <em>China Roader</em> <a href=http://johanlagerkvist.org/2011/02/04/comparing-egypt-china-and-t-square-crackdowns>compares</a> the socio-political structure between China and Egypt. ",
   "title": "Comparing China and Egypt",
   "byline": "Oiwan",
-  "pub_date": "2011-02-05T06:35:54Z"
+  "pub_date": "2011-02-05T06:35:54Z",
+  "decompositions": {
+    "sentence": [
+      "Johan Lagerkvist from China Roader compares the socio-political structure between China and Egypt."
+    ],
+    "tokens": [
+      "Johan",
+      "Lagerkvist",
+      "from",
+      "China",
+      "Roader",
+      "compares",
+      "the",
+      "socio-political",
+      "structure",
+      "between",
+      "China",
+      "and",
+      "Egypt"
+    ]
+  }
 }

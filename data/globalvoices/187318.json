@@ -5,5 +5,44 @@
   "original_body": "Tiger Lim, who identifies himself as Brunei's number one \"Broken English\" blogger, provides a list of <a href=\"http://www.tigerlim.com/2010/12/new-movie.html\">videos</a> made by Bruneians, highlighting the creativity of local talent.",
   "title": "Brunei: Popular videos made by Bruneians",
   "byline": "Fadila Ahmad",
-  "pub_date": "2011-01-17T23:32:54Z"
+  "pub_date": "2011-01-17T23:32:54Z",
+  "decompositions": {
+    "sentence": [
+      "Tiger Lim, who identifies himself as Brunei's number one \"Broken English\" blogger, provides a list of videos made by Bruneians, highlighting the creativity of local talent."
+    ],
+    "tokens": [
+      "Tiger",
+      "Lim",
+      ",",
+      "who",
+      "identifies",
+      "himself",
+      "as",
+      "Brunei",
+      "'s",
+      "number",
+      "one",
+      "\"",
+      "Broken",
+      "English",
+      "\"",
+      "blogger",
+      ",",
+      "provides",
+      "a",
+      "list",
+      "of",
+      "videos",
+      "made",
+      "by",
+      "Bruneians",
+      ",",
+      "highlighting",
+      "the",
+      "creativity",
+      "of",
+      "local",
+      "talent"
+    ]
+  }
 }

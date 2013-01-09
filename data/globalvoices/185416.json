@@ -5,5 +5,32 @@
   "original_body": "William Andrews at the Tokyo Art Beat blog posted his annual <em><a href=\"http://www.tokyoartbeat.com/tablog/entries.en/2010/12/year-in-review-2010.html\">Year in Review</a></em> of the Tokyo contemporary art scene. ",
   "title": "Japan: Tokyo's Art Scene in 2010",
   "byline": "Tomomi Sasaki",
-  "pub_date": "2011-01-10T03:18:53Z"
+  "pub_date": "2011-01-10T03:18:53Z",
+  "decompositions": {
+    "sentence": [
+      "William Andrews at the Tokyo Art Beat blog posted his annual Year in Review of the Tokyo contemporary art scene."
+    ],
+    "tokens": [
+      "William",
+      "Andrews",
+      "at",
+      "the",
+      "Tokyo",
+      "Art",
+      "Beat",
+      "blog",
+      "posted",
+      "his",
+      "annual",
+      "Year",
+      "in",
+      "Review",
+      "of",
+      "the",
+      "Tokyo",
+      "contemporary",
+      "art",
+      "scene"
+    ]
+  }
 }

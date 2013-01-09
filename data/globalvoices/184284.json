@@ -5,5 +5,29 @@
   "original_body": "Xu Jun's comic <a href=http://cmp.hku.hk/2011/01/03/9371/?utm_source=twitterfeed&utm_medium=twitter>shows the power of microblog</a> in China vividly. (via <em>China Media Project</em>)",
   "title": "China: Microblogs and Smoldering Change ",
   "byline": "Oiwan",
-  "pub_date": "2011-01-03T10:43:22Z"
+  "pub_date": "2011-01-03T10:43:22Z",
+  "decompositions": {
+    "sentence": [
+      "Xu Jun's comic shows the power of microblog in China vividly.",
+      "(via China Media Project)"
+    ],
+    "tokens": [
+      "Xu",
+      "Jun",
+      "'s",
+      "comic",
+      "shows",
+      "the",
+      "power",
+      "of",
+      "microblog",
+      "in",
+      "China",
+      "vividly",
+      "(via",
+      "China",
+      "Media",
+      "Project"
+    ]
+  }
 }

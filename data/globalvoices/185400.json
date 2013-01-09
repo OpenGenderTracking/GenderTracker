@@ -5,5 +5,25 @@
   "original_body": "<a href=\"http://twitter.com/#!/alunmcdonald\">Get live tweets and photos</a> about Southern Sudan Referendum 2011 from Alun MacDonald. ",
   "title": "Sudan: Live Tweets from Southern Sudan",
   "byline": "ndesanjo macha",
-  "pub_date": "2011-01-09T13:45:02Z"
+  "pub_date": "2011-01-09T13:45:02Z",
+  "decompositions": {
+    "sentence": [
+      "Get live tweets and photos about Southern Sudan Referendum 2011 from Alun MacDonald."
+    ],
+    "tokens": [
+      "Get",
+      "live",
+      "tweets",
+      "and",
+      "photos",
+      "about",
+      "Southern",
+      "Sudan",
+      "Referendum",
+      "2011",
+      "from",
+      "Alun",
+      "MacDonald"
+    ]
+  }
 }

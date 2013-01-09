@@ -5,5 +5,28 @@
   "original_body": "Artist and blogger <a href=\"http://autogiro.cronicaurbana.com/?p=931\">Javier Martínez reflects</a> [es] on the best and the worst of 2010.",
   "title": "Puerto Rico: Reflections on 2010",
   "byline": "Firuzeh Shokooh Valle",
-  "pub_date": "2011-01-12T18:42:39Z"
+  "pub_date": "2011-01-12T18:42:39Z",
+  "decompositions": {
+    "sentence": [
+      "Artist and blogger Javier Martínez reflects [es] on the best and the worst of 2010."
+    ],
+    "tokens": [
+      "Artist",
+      "and",
+      "blogger",
+      "Javier",
+      "Martínez",
+      "reflects",
+      "[es",
+      "]",
+      "on",
+      "the",
+      "best",
+      "and",
+      "the",
+      "worst",
+      "of",
+      "2010"
+    ]
+  }
 }

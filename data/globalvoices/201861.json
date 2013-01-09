@@ -5,5 +5,28 @@
   "original_body": "<em><a href=\"http://tcipost.com/?p=7647\">The tcipost</a></em> <a href=\"http://barbadosfreepress.wordpress.com/2011/02/27/tcppost-blogging-a-dangerous-journey/\">blog</a> <a href=\"http://tcipost.com/?p=7680\">\"disappeared overnight without notice\"</a>; <em><a href=\"http://barbadosfreepress.wordpress.com/2011/02/26/controversial-turks-and-caicos-blog-disappears-did-the-uk-government-get-to-tci-post/\">Barbados Free Press</a></em> <a href=\"http://barbadosfreepress.wordpress.com/2011/02/26/the-people-of-turks-and-caicos-ask-caricom-to-condemn-the-new-british-constitution/\">comes to the rescue</a>.",
   "title": "Turks & Caicos, Barbados: Disappearing Blog ",
   "byline": "Janine Mendes-Franco",
-  "pub_date": "2011-02-28T16:20:17Z"
+  "pub_date": "2011-02-28T16:20:17Z",
+  "decompositions": {
+    "sentence": [
+      "The tcipost blog \"disappeared overnight without notice\"; Barbados Free Press comes to the rescue."
+    ],
+    "tokens": [
+      "The",
+      "tcipost",
+      "blog",
+      "\"disappeared",
+      "overnight",
+      "without",
+      "notice",
+      "\"",
+      ";",
+      "Barbados",
+      "Free",
+      "Press",
+      "comes",
+      "to",
+      "the",
+      "rescue"
+    ]
+  }
 }

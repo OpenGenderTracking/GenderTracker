@@ -5,5 +5,47 @@
   "original_body": "\"Our new Government is seeking to amend our Constitution. It is not doing so to provide you with stronger guarantees of your rights as people of different sexual orientations\": <em><a href=\"http://gspottt.wordpress.com/2011/01/20/who-will-protect-you-2/\">gspottt</a></em> explains. ",
   "title": "Trinidad & Tobago: Proposed Constitutional Amendments",
   "byline": "Janine Mendes-Franco",
-  "pub_date": "2011-01-20T17:43:46Z"
+  "pub_date": "2011-01-20T17:43:46Z",
+  "decompositions": {
+    "sentence": [
+      "\"Our new Government is seeking to amend our Constitution.",
+      "It is not doing so to provide you with stronger guarantees of your rights as people of different sexual orientations\": gspottt explains."
+    ],
+    "tokens": [
+      "\"",
+      "Our",
+      "new",
+      "Government",
+      "is",
+      "seeking",
+      "to",
+      "amend",
+      "our",
+      "Constitution",
+      "It",
+      "is",
+      "not",
+      "doing",
+      "so",
+      "to",
+      "provide",
+      "you",
+      "with",
+      "stronger",
+      "guarantees",
+      "of",
+      "your",
+      "rights",
+      "as",
+      "people",
+      "of",
+      "different",
+      "sexual",
+      "orientations",
+      "\"",
+      ":",
+      "gspottt",
+      "explains"
+    ]
+  }
 }

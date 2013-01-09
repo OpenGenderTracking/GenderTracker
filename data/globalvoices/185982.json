@@ -5,5 +5,29 @@
   "original_body": "Music blogger <a href=\"http://carreno.blogspot.com/2011/01/10-discos-chilenos-para-el-2011.html\">Roberto Carreño</a> [es] recommends 10 albums by Chilean artists to watch for in 2011.",
   "title": "Chile: 10 Albums to Watch for in 2011",
   "byline": "Silvia Vinas",
-  "pub_date": "2011-01-12T15:42:36Z"
+  "pub_date": "2011-01-12T15:42:36Z",
+  "decompositions": {
+    "sentence": [
+      "Music blogger Roberto Carreño [es] recommends 10 albums by Chilean artists to watch for in 2011."
+    ],
+    "tokens": [
+      "Music",
+      "blogger",
+      "Roberto",
+      "Carreño",
+      "[es",
+      "]",
+      "recommends",
+      "10",
+      "albums",
+      "by",
+      "Chilean",
+      "artists",
+      "to",
+      "watch",
+      "for",
+      "in",
+      "2011"
+    ]
+  }
 }

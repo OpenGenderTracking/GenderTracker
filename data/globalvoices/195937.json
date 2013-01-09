@@ -5,5 +5,27 @@
   "original_body": "Imagethief looks into Groupon's <a href=http://imagethief.com/2011/02/could-better-pr-have-prevented-groupons-china-gaffe>public relation strategy</a> in setting up their business in China. ",
   "title": "China: Could better PR have prevented Groupon's China gaffe?",
   "byline": "Oiwan",
-  "pub_date": "2011-02-14T03:09:03Z"
+  "pub_date": "2011-02-14T03:09:03Z",
+  "decompositions": {
+    "sentence": [
+      "Imagethief looks into Groupon's public relation strategy in setting up their business in China."
+    ],
+    "tokens": [
+      "Imagethief",
+      "looks",
+      "into",
+      "Groupon",
+      "'s",
+      "public",
+      "relation",
+      "strategy",
+      "in",
+      "setting",
+      "up",
+      "their",
+      "business",
+      "in",
+      "China"
+    ]
+  }
 }
