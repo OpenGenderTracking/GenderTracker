@@ -7,6 +7,13 @@
 
 ## Changelog
 
+
+### 2013/01/10
+
+* Added spec tests. Run: `bundle exec rspec spec`
+* Removed event machine since the java opennlp libs are not thread safe. oops.
+* Made decomposers and metrics need only a single instantiation that will process articles on a need basis. Much faster for decomposition ~22s.
+
 ### 2013/01/09
 
 * Parallelized article decomposition.

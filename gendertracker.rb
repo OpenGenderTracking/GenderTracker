@@ -5,7 +5,6 @@ require 'yaml'
 require 'json'
 require 'loader'
 require 'ruby-debug'
-require 'eventmachine'
 
 @@config = YAML.load_file('config.yaml')
 
@@ -18,29 +17,14 @@ require 'eventmachine'
 # gb.process
 
 # process all global voices articles.
-
 gvarticles = Dir.glob("data/globalvoices/*.json")
 counter = gvarticles.length
-
-def callback(counter)
-  return proc {
-    if counter == 0
-      EM.stop
-    end
-  }
-end
-
-EM.run do
-  puts "Starting"
   
-  gvarticles.each do |f|
+decomposer = Decomposer::Tokens.new
 
-    counter = counter - 1
-    EM.defer(proc {
-      article = Article.new(File.join(File.dirname(__FILE__), f))
-      article.decompose(Decomposer::Tokens)
-    }, callback(counter))
-  end
-  
-  puts "Done"
+gvarticles.each do |f|
+
+  article = Article.new(File.expand_path(File.join(File.dirname(__FILE__), f)))
+  decomposer.process(article)
+
 end

@@ -3,9 +3,17 @@ require 'jruby-opennlp'
 module Decomposer
 
   class Tokens < Decomposer::Default
+  
+    class << self
+      def get_name
+        "tokens"
+      end
+    end
 
-    def initialize(article)
-      super(article)
+    # call once to create instance, but then don't call again.
+    def initialize
+
+      super
 
       sentence_model_file_path = File.expand_path(File.join(
         File.dirname(__FILE__), 
@@ -28,20 +36,19 @@ module Decomposer
 
     end
 
-    def get_name
-      "tokens"
-    end
+    # call per article
+    def process(article)
+      super(article)
 
-    def process
-
-      if !@article.has_decomposition?("sentence") &&
+      if !@article.has_decomposition?("sentences") &&
          !@article.has_decomposition?("tokens")
 
         tokens = []
         
         # add sentences. Break out tokens as we iterate sentences... no point
         # in breaking up the whole thing twice.
-        @article.add_decomposition "sentence" do
+        @article.add_decomposition "sentences" do
+
           sentences = @sentence_detector.detect(@article.body) rescue []
 
           # iterate over sentences and tokenize them. Ignore tokens that are
@@ -62,12 +69,9 @@ module Decomposer
         @article.add_decomposition "tokens" do
           tokens
         end
-
         @article.save
-      else
-        puts "decompositions exist. skipping."
       end
-
+      @article
     end
   end
 end

@@ -28,7 +28,6 @@ module Parsers
     def parse(entry)
       
       article = {}
-      puts "processing #{entry.title}"
 
       article["url"] = entry.entry_id
       article["id"] = self.generate_id(article)

@@ -2,16 +2,28 @@ module Decomposer
   
   class Default
 
-    def initialize(article) 
-      @article = article
-    end
-
     # overwrite with your decomposer's name.
-    def get_name
-      "default"
+    class << self
+      def get_name
+        "default"
+      end
     end
 
-    def process()
+    def initialize
+    end
+
+    def process(article)
+
+      if !article.is_a?(String) && !article.is_a?(Article)
+        raise ArgumentError
+      end
+
+      if article.is_a?(String)
+        @article = Article.new(article)
+      else
+        @article = article
+      end
+
       # process your @article object here.
       # don't update entries that already exist, unless you need to.
     end

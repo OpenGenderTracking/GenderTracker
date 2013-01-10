@@ -4,16 +4,20 @@ require 'ruby-debug'
 class Article
 
   def initialize(path)
+    
+    raise ArgumentError unless path.is_a? String
+
     @path = path
     file = File.open(@path, "r")
-    @article = JSON.parse(file.read)
+    body = file.read
+    @article = JSON.parse(body)
     @article["decompositions"] = @article["decompositions"] || {}
     file.close
   end
 
   # make keys accessible
   def method_missing(m, *args)
-    if (@article[m.to_s].nil?)
+    if (!@article.has_key?(m.to_s))
       super
     else
       if args.size > 0
@@ -31,9 +35,8 @@ class Article
     @article["decompositions"][name] = yield block
   end
 
-  def decompose(dClass)
-    d = dClass.new(self)
-    d.process
+  def get_decomposition(name) 
+    @article["decompositions"][name]
   end
 
   def save
