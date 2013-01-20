@@ -35,7 +35,7 @@ describe "Decomposer::Tokens" do
     it "should have 'tokens' decomposition" do
       @dt.process(@article)
       @article.has_decomposition?("tokens").should eq true
-      @article.get_decomposition("tokens").should eq ["Test", "Sentence", "Test", "sentence", "two", "Another", "sentence", "test"]
+      @article.get_decomposition("tokens").should eq ["test", "sentence", "test", "sentence", "two", "another", "sentence", "test"]
     end
 
     it "should have 'sentences' decomposition" do

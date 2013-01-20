@@ -67,7 +67,7 @@ module Decomposer
         end
 
         @article.add_decomposition "tokens" do
-          tokens
+          tokens.map{ |t| t.downcase }
         end
         @article.save
       end
