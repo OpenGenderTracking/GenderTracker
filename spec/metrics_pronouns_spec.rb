@@ -6,10 +6,13 @@ require File.expand_path(File.join(File.dirname(__FILE__), "../src/metrics/metri
 require File.expand_path(File.join(File.dirname(__FILE__), "../src/metrics/pronouns.rb"))
 
 
-describe "Decomposer::Tokens" do
+describe "Metrics::Pronouns" do
 
   before {
-    @article = Article.new(article_file_name)
+    @path = File.join(
+      FIXTURES_DIR, "pronoun_test_article.json"
+    )
+    @article = Article.new(@path)
   }
 
   context "initialisation" do
@@ -33,7 +36,22 @@ describe "Decomposer::Tokens" do
 
     it "should process" do
       @dt.process(@article)
+      scores = @article.get_metric("pronouns")
+      scores.should be_a Hash
+      scores[:result].should eq "Neutral"
+      scores[:counts][:male].should eq 4
+      scores[:counts][:female].should eq 3
+      scores[:counts][:neutral].should eq 1
     end
+
+    after {
+      article = JSON.parse(File.open(@path,'r').read)
+      article.delete "decompositions"
+      article.delete "metrics"
+      f = File.open(@path, 'w')
+      f.write(JSON.pretty_generate(article))
+      f.close
+    }
   end
 
 end
