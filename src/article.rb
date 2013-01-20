@@ -10,8 +10,10 @@ class Article
     @path = path
     file = File.open(@path, "r")
     body = file.read
+    puts @path
     @article = JSON.parse(body)
     @article["decompositions"] = @article["decompositions"] || {}
+    @article["metrics"] = @article["metrics"] || {}
     file.close
   end
 
@@ -37,6 +39,18 @@ class Article
 
   def get_decomposition(name) 
     @article["decompositions"][name]
+  end
+
+  def has_metric?(name)
+    !@article["metrics"][name].nil?
+  end
+
+  def add_metric(name, &block)
+    @article["metrics"][name] = yield block
+  end
+
+  def get_metric(name)
+    @article["metrics"][name]
   end
 
   def save
