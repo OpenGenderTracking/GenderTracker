@@ -22,17 +22,17 @@ module Metrics
       end
 
       if article.is_a?(String)
-        @article = Article.new(article)
-      else
-        @article = article
+        article = Article.new(article)
       end
 
       # check if the article has required decompositions. If not
       # decompose it.
-      @decompositions.each do |d_class|
-        if !@article.has_decomposition?(d_class.get_name)
-          d_instance = d_class.new
-          d_instance.process(@article)
+      if (@decompositions)
+        @decompositions.each do |d_class|
+          if !article.has_decomposition?(d_class.get_name)
+            d_instance = d_class.new
+            d_instance.process(article)
+          end
         end
       end
 
