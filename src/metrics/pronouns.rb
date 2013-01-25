@@ -10,11 +10,11 @@ module Metrics
       @decompositions = [ Decomposer::Tokens ]
     end
 
-    class << self
-      def get_name
-        return "pronouns"
-      end
+  
+    def get_name
+      return "pronouns"
     end
+  
 
     def process(article)
       super(article)
@@ -58,7 +58,7 @@ module Metrics
         score
       end
 
-      article.save
+      score
     end
 
 

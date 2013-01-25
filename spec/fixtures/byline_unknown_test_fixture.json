@@ -5,5 +5,17 @@
   "original_body": "He had little to say. His hands were crossed. Himself and Lillian waited for the rain to end. She watched him from the corner of her eye, where she felt safe enough. They waited like this for hours.",
   "title": "Greece: Uproar over plan to build border fence and expel migrants",
   "byline": "Pat Masouras",
-  "pub_date": "2011-01-10T00:29:03Z"
+  "pub_date": "2011-01-10T00:29:03Z",
+  "decompositions": {
+
+  },
+  "metrics": {
+    "byline_gender": {
+      "result": "Unknown",
+      "counts": {
+        "male": 0.38746901679978,
+        "female": 0.61253098320022
+      }
+    }
+  }
 }

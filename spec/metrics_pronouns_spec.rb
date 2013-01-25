@@ -16,14 +16,11 @@ describe "Metrics::Pronouns" do
   }
 
   context "initialisation" do
-    
-    it "should have a name" do
-      Metrics::Pronouns.get_name.should eq "pronouns"
-    end
 
     it "should accept no parameters" do
       dt = Metrics::Pronouns.new()
       dt.should be_a Metrics::Pronouns
+      dt.get_name.should eq "pronouns"
     end
 
   end

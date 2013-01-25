@@ -1,6 +1,10 @@
 lang: EN
 counry: US
 
+redis:
+  host: localhost
+  port: 6379
+
 articles:
   path: data/articles
 
@@ -8,3 +12,4 @@ collections:
   globalvoices: 
     path: data/globalvoices
     filename: globalvoicesonline.wordpress.2011-jan-feb.xml
+

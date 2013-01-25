@@ -8,13 +8,10 @@ require File.expand_path(File.join(File.dirname(__FILE__), "../src/metrics/bylin
 describe "Metrics::BylineGender" do
 
   context "initialisation" do
-    it "should have a name" do
-      Metrics::BylineGender.get_name.should eq "bylineGender"
-    end
-
     it "should accept no parameters" do
       mn = Metrics::BylineGender.new()
       mn.should be_a Metrics::BylineGender
+      mn.get_name.should eq "bylineGender"
     end
   end
 
