@@ -37,11 +37,11 @@ EM.run do
       end
 
       article.save
-      @pub.publish "done", message
+      @pub.publish "process_article_done", message
     end
   end
 
-  @sub.subscribe "done" do |type, channel, message|
+  @sub.subscribe "process_article_done" do |type, channel, message|
     if (type === "message")
       puts "done with #{message}"
     end

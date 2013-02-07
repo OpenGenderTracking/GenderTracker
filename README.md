@@ -3,10 +3,33 @@
 1. get jruby 1.6.3 by your favorite method of choice. I recommend rvm.
 2. run `gem install bundler`
 3. run `bundle install`
+4. Intall redis
 
+To run the server:
+1. start redis with the config file in `db/` folder
+2. run he server `bundle exec server.rb`
+
+To process an article publish to the redis queue:
+
+`public process_article path/to/article.json`
+
+To get notification of an article being done subscribe to the
+
+`process_article_done` message.
 
 ## Changelog
 
+### 2013/02/07
+
+* added running information to the readme.
+
+### 2013/01/25
+
+* Set `server.rb` to use redis as a messaging queue using EventMachine and deferring processing per article. 
+
+### 2013/01/20
+
+* Added pronoun metric + tests
 
 ### 2013/01/10
 
