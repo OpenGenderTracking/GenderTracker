@@ -18,7 +18,6 @@ module Metrics
 
 
     def process(article)
-      super(article)
 
       score = { :result => "", :counts => 0 }
 
@@ -75,15 +74,16 @@ module Metrics
             score[:counts] = { :male => 0.0, :female => 0.0 }
           end
         end
-
-        article.add_metric "byline_gender" do
-          score
-        end
-
         # cache for future use
         @computed_names[first_name] = score
+      end
+
+      article.add_metric "byline_gender" do
         score
       end
+
+
+      score
     end
 
     private
