@@ -4,17 +4,12 @@ require 'sanitize'
 module Parsers
   class GlobalVoicesLocalFeed < Parsers::Default
 
-    def initialize
-      @collection ="globalvoices"
+    def initialize(data, collection)
+      @collection = collection
+      @data = data
     end
     def fetch
-      feed_path = File.expand_path(File.join(File.dirname(__FILE__),
-        "../../", @@config["collections"][@collection]["path"],
-        @@config["collections"][@collection]["filename"]
-        )
-      )
-      feed = File.open(feed_path, 'r').read
-      feed = Feedzirra::Feed.parse(feed)
+      feed = Feedzirra::Feed.parse(@data)
 
       feed.entries.each do |entry|
         self.parse(entry)
@@ -22,7 +17,18 @@ module Parsers
     end
 
     def generate_id(article)
-      article["url"].split("p=")[1]
+      
+      url_id = nil
+
+      if (article["url"])
+        url_id = article["url"].split("p=")[1]
+      end
+
+      if (url_id.nil?)
+        return super(article)
+      else
+        return url_id
+      end
     end
 
     def parse(entry)
