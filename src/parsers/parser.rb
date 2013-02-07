@@ -1,3 +1,5 @@
+require 'uuid'
+
 module Parsers
   class Default
 
@@ -22,13 +24,18 @@ module Parsers
     end
 
     def save(article)
+      id = self.generate_id(article)
+      begin
       full_path = File.expand_path(
         File.join(
           File.dirname(__FILE__), "../../", 
-          @@config["collections"][@collection]["path"], 
+          @@config["collections"][@collection]["output"], 
           self.generate_id(article) + ".json"
         ) 
       )
+      rescue
+        debugger
+      end
 
       new_article = JSON.pretty_generate(article)
       file = File.open(full_path, 'w')

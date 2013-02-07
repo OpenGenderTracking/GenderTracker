@@ -11,5 +11,9 @@ articles:
 collections:
   globalvoices: 
     path: data/globalvoices
+    output: data/globalvoices/articles
     filename: globalvoicesonline.wordpress.2011-jan-feb.xml
+  globalvoices7: 
+    path: data/globalvoices7
+    output: data/globalvoices7/articles
 
