@@ -16,8 +16,8 @@ describe "Decomposer::Tokens" do
       Decomposer::Tokens.get_name.should eq "tokens"
     end
 
-    it "should accept no parameters" do
-      dt = Decomposer::Tokens.new()
+    it "should accept one parameter" do
+      dt = Decomposer::Tokens.new
       dt.should be_a Decomposer::Tokens
     end
 

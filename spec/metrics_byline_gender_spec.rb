@@ -7,9 +7,19 @@ require File.expand_path(File.join(File.dirname(__FILE__), "../src/metrics/bylin
 
 describe "Metrics::BylineGender" do
 
+  before {
+    @config = Confstruct::Configuration.new(
+      YAML.load_file(
+        File.expand_path(
+          File.join(File.dirname(__FILE__), 'fixtures/config.yaml')
+        )
+      )
+    )
+  }
+
   context "initialisation" do
     it "should accept no parameters" do
-      mn = Metrics::BylineGender.new()
+      mn = Metrics::BylineGender.new(@config)
       mn.should be_a Metrics::BylineGender
       mn.get_name.should eq "bylineGender"
     end
@@ -18,7 +28,7 @@ describe "Metrics::BylineGender" do
   context "process" do
 
     before {
-      @mn = Metrics::BylineGender.new()
+      @mn = Metrics::BylineGender.new(@config)
       @female_article = Article.new(File.join(
       FIXTURES_DIR, "byline_female_test_fixture.json"
       ))

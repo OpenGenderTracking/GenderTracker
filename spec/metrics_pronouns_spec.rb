@@ -13,12 +13,19 @@ describe "Metrics::Pronouns" do
       FIXTURES_DIR, "pronoun_test_article.json"
     )
     @article = Article.new(@path)
+    @config = Confstruct::Configuration.new(
+      YAML.load_file(
+        File.expand_path(
+          File.join(File.dirname(__FILE__), 'fixtures/config.yaml')
+        )
+      )
+    )
   }
 
   context "initialisation" do
 
     it "should accept no parameters" do
-      dt = Metrics::Pronouns.new()
+      dt = Metrics::Pronouns.new(@config)
       dt.should be_a Metrics::Pronouns
       dt.get_name.should eq "pronouns"
     end
@@ -28,7 +35,7 @@ describe "Metrics::Pronouns" do
   context "processing" do
 
     before {
-      @dt = Metrics::Pronouns.new()
+      @dt = Metrics::Pronouns.new(@config)
     }
 
     it "should process" do
