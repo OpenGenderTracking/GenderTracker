@@ -9,10 +9,11 @@ module Metrics
       end
     end
 
-    def initialize
+    def initialize(config)
       # make sure to define which decomposition your metric needs
       # it should be a class name.
       @decompositions = []
+      @config = config
     end
 
     def process(article)

@@ -3,6 +3,11 @@ require 'uuid'
 module Parsers
   class Default
 
+    def initialize(data, collection)
+      @collection = collection
+      @data = data
+    end
+
     # return the id of your document or a new id.
     # overwrite if you want to use an attribute from your source
     def generate_id(article)
@@ -29,7 +34,7 @@ module Parsers
       full_path = File.expand_path(
         File.join(
           File.dirname(__FILE__), "../../", 
-          @@config["collections"][@collection]["output"], 
+          @config.collection[@collection].output, 
           self.generate_id(article) + ".json"
         ) 
       )

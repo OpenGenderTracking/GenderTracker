@@ -1,7 +1,8 @@
 module Metrics
   class Pronouns < Metrics::Default
 
-    def initialize
+    def initialize(config)
+      super(config)
       @pronouns = {
         :male => read_type("male"),
         :female => read_type("female"),
@@ -68,7 +69,7 @@ module Metrics
         File.expand_path(
           File.join(
             File.dirname(__FILE__), 
-            "../../lib/metrics/pronouns/#{type}-#{@@config["lang"]}.csv"
+            "../../lib/metrics/pronouns/#{type}-#{@config.lang}.csv"
           )
         ), "r"
       ).read.split("\n")

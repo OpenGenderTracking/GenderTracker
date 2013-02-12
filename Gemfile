@@ -12,5 +12,7 @@ gem 'sanitize'
 gem 'eventmachine'
 gem 'rspec'
 gem 'redis'
+gem 'confstruct'
+gem 'logger'
 
 gem 'jruby-opennlp', :git => "git://github.com/iros/jruby-opennlp.git"

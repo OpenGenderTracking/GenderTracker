@@ -3,7 +3,8 @@ require 'csv'
 module Metrics
   class BylineGender < Metrics::Default
     
-    def initialize
+    def initialize(config)
+      super(config)
       @names = {
         :male => read_names("male"),
         :female => read_names("female")
@@ -96,8 +97,8 @@ module Metrics
     private
 
     def read_names(gender)
-      lang = @@config["lang"] || "EN"
-      country = @@config["country"] || "US"
+      lang = @config.lang || "EN"
+      country = @config.country || "US"
 
       count_file_name = gender + "_names_" + lang + "_" + country + ".csv"
       definite_file_name = gender + "_auxilliary.csv"

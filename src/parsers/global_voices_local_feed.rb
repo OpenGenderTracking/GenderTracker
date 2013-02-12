@@ -4,10 +4,6 @@ require 'sanitize'
 module Parsers
   class GlobalVoicesLocalFeed < Parsers::Default
 
-    def initialize(data, collection)
-      @collection = collection
-      @data = data
-    end
     def fetch
       feed = Feedzirra::Feed.parse(@data)
 
