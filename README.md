@@ -1,24 +1,60 @@
-## Gender Tracker requirements
+# Gender Tracker
+
+GenderTracker is a service that decomposes articles and computes various gender-related metrics based on the content. It accepts articles to process via a redis queue (as file paths) and then outputs them back with the metrics computed. 
+
+## article json format
+
+```json
+{
+  "url": "<Article url>",
+  "id": "<Unique ID>",
+  "body": "<Body of text>",
+  "original_body": "<Body of text as originally captured>",
+  "title": "<Article title>",
+  "byline": "<Author name>",
+  "pub_date": "<Publication Date>"
+}
+```
+
+You can add additional attributes, if you'd like, but these are core attributes required by the decomposer and metrics.
+
+## Requirements
 
 1. get jruby 1.6.3 by your favorite method of choice. I recommend rvm.
 2. run `gem install bundler`
 3. run `bundle install`
 4. Intall redis
 
-To run the server:
+## Running the service
 
 1. start redis with the config file in `db/` folder
 2. run he server `bundle exec server.rb`
 
+## Requesting an article be published
+
+GenderTracker has the notion of jobs. Articles can all belong to a single job, so first one must request a new job id from the server. To do that publish the following to the queue:
+
+`publish new_job, <some_unique_id>`
+
+The service will then send a message back using the unique id above as a channel name with the new id assigned to the job.
+
+`subscribe <some_unique_id>, <your callback>`
+
+Once a job id has been obtained.
 To process an article publish to the redis queue:
 
-`public process_article path/to/article.json`
+`public process_article { job_id: <job_id>, path: path/to/article.json }`
 
-To get notification of an article being done subscribe to the
-
-`process_article_done` message.
+To get notification of an article being done subscribe to the `process_article_done` channel. It will return the same payload you sent (`path`, and `job_id`.)
 
 ## Changelog
+
+### 2013/02/12
+
+Major changes in GenderTracker! GenderTracker now exclusively accepts a standard json format for articles. This allows us to build clients fairly rapidly that are able to convert their data into the proper format, and then get it evaluated. This way, we can maintain a single unique system that doesn't care about the source of the content.
+
+All the work that was related to global voices, has been moved into its own repo here: github.com/opengendertracking/globalvoices
+
 
 ### 2013/02/07
 
