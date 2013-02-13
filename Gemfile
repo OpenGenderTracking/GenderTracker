@@ -14,5 +14,6 @@ gem 'rspec'
 gem 'redis'
 gem 'confstruct'
 gem 'logger'
+gem 'activesupport'
 
 gem 'jruby-opennlp', :git => "git://github.com/iros/jruby-opennlp.git"

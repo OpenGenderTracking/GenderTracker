@@ -1,11 +1,19 @@
-require 'parsers/parser'
-require 'parsers/global_voices_local_feed'
+require 'ruby-debug'
+require 'eventmachine'
+require 'redis'
+require 'confstruct'
+require 'logger'
+require 'yaml'
+require 'json'
 require 'article'
 require 'decomposers/decomposer'
 require 'decomposers/tokens'
 require 'metrics/metric'
 require 'metrics/pronouns'
 require 'metrics/byline_gender'
-require 'evented_redis'
+require 'uuid'
+require 'active_support/core_ext/string/inflections'
+
+
 
 
