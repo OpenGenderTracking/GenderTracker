@@ -4,8 +4,24 @@ require File.expand_path(File.join(File.dirname(__FILE__), "../src/article"))
 describe "Article" do
   context "initialisation" do
     
+    it "should fail when not providing an object" do
+      lambda { Article.new(article_file_name) }.should raise_error(ArgumentError)
+    end
+
     it "should accept a string filename parameter" do
-      a = Article.new(article_file_name)
+      a = Article.new({ :path => article_file_name })
+      a.should be_a Article
+    end
+
+    it "should accept the body of an article unparsed" do
+      f = File.open(article_file_name, 'r').read
+      a = Article.new({ :article => f })
+      a.should be_a Article
+    end
+
+    it "should accept the body of an article" do
+      f = JSON.parse(File.open(article_file_name, 'r').read)
+      a = Article.new({ :article => f })
       a.should be_a Article
     end
 
@@ -17,7 +33,7 @@ describe "Article" do
   context "accessing properties" do
 
     before {
-      @article = Article.new(article_file_name)
+      @article = Article.new({ :path => article_file_name })
     }
 
     it "should have a title" do
@@ -39,7 +55,7 @@ describe "Article" do
 
   context "decompositions" do
     before {
-      @article = Article.new(article_file_name)
+      @article = Article.new({ :path => article_file_name })
     }
 
     it "should have no decompositions" do

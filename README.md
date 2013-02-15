@@ -28,7 +28,7 @@ You can add additional attributes, if you'd like, but these are core attributes 
 ## Running the service
 
 1. start redis with the config file in `db/` folder
-2. run he server `bundle exec server.rb`
+2. run he server `bundle exec ruby server.rb`
 
 ## Requesting an article be published
 
@@ -41,13 +41,21 @@ The service will then send a message back using the unique id above as a channel
 `subscribe <some_unique_id>, <your callback>`
 
 Once a job id has been obtained.
-To process an article publish to the redis queue:
+To process an article, publish to the redis queue a request that either passes the file path to the article like so:
 
 `public process_article { job_id: <job_id>, path: path/to/article.json }`
 
-To get notification of an article being done subscribe to the `process_article_done` channel. It will return the same payload you sent (`path`, and `job_id`.)
+Or the entire article body like so:
+
+`public process_article { job_id: <job_id>, article: { ... } }`
+
+To get notification of an article being done subscribe to the `process_article_done` channel. It will return the same payload you sent (`path`|`article`, and `job_id`.)
 
 ## Changelog
+
+### 2013/02/15
+
+Modified the server to accept not only the filepath of an article, but the entire body of the article. This is more convenient for when we start thinking about distributing things across machines. Since Redis can handle string values up to 512MB this is a slight limitation, but we probably shouldn't be processing files even half that size.
 
 ### 2013/02/12
 

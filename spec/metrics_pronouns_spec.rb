@@ -12,7 +12,7 @@ describe "Metrics::Pronouns" do
     @path = File.join(
       FIXTURES_DIR, "pronoun_test_article.json"
     )
-    @article = Article.new(@path)
+    @article = Article.new({ :path => @path })
     @config = Confstruct::Configuration.new(
       YAML.load_file(
         File.expand_path(

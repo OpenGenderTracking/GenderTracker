@@ -61,16 +61,23 @@ metrics = metrics.collect { |metric|
     when 'process_article'
 
       message = JSON.parse(message)
-      article_path = message["path"]
       job_id = message["job_id"]
-
+      
+      # did we get a file path to the article or the full body of it?
+      article_path = message["path"]
+      article_body = message["article"]
+      
       begin
         logger.debug "#{job_id}: processing #{article_path}"
-        article = Article.new(article_path)
+        if (article_path)
+          article = Article.new({ :path => article_path })
+        elsif (article_body)
+          article = Article.new({ :article => article_body })
+        end
+          
         logger.debug "decomposing"
         decomposer.process(article)
-
-        logger.debug "computing metrics"
+        
         metrics.each do |metric|
           logger.debug "metric: #{metric.get_name}"
           metric.process(article)
@@ -88,7 +95,11 @@ metrics = metrics.collect { |metric|
       # whether our processing succeeded here.
       ensure
         @pub.incr job_id
-        @pub.publish "process_article_done", { :path => article_path, :job_id => job_id }.to_json()
+        if (article_path)
+          @pub.publish "process_article_done", { :path => article_path, :job_id => job_id }.to_json()
+        elsif (article_body)
+          @pub.publish "process_article_done", { :article => article_body, :job_id => job_id }.to_json()
+        end
       end
     end
   end

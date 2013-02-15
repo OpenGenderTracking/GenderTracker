@@ -3,17 +3,38 @@ require 'ruby-debug'
 
 class Article
 
-  def initialize(path)
+  def initialize(options)
     
-    raise ArgumentError unless path.is_a? String
+    # Make sure we get an argument hash.
+    if (!options.is_a? Hash)
+      raise ArgumentError, 'A new article requires an object with a \'path\' or \'article\' property'
+    end
 
-    @path = path
-    file = File.open(@path, "r")
-    body = file.read
-    @article = JSON.parse(body)
+    # Did we get a file path?
+    if (options[:path])
+      raise ArgumentError unless options[:path].is_a? String
+      @path = options[:path]
+      file = File.open(@path, "r")
+      body = file.read
+      @article = JSON.parse(body)
+      file.close
+      
+    # Did we get the article directly?
+    elsif (options[:article])
+
+      # Parse the article if we need to.
+      if (options[:article].is_a? String)
+        @article = JSON.parse(options[:article])
+      else
+        @article = options[:article]
+      end
+    else
+      raise ArgumentError, 'An object with a \'path\' property pointing to an article on the filesystem or \'article\' with the full article json must be provided.' 
+    end
+
     @article["decompositions"] = @article["decompositions"] || {}
     @article["metrics"] = @article["metrics"] || {}
-    file.close
+    
   end
 
   # make keys accessible

@@ -7,7 +7,7 @@ require File.expand_path(File.join(File.dirname(__FILE__), "../src/decomposers/t
 describe "Decomposer::Tokens" do
 
   before {
-    @article = Article.new(article_file_name)
+    @article = Article.new({ :path => article_file_name })
   }
 
   context "initialisation" do

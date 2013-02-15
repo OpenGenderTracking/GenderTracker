@@ -29,15 +29,15 @@ describe "Metrics::BylineGender" do
 
     before {
       @mn = Metrics::BylineGender.new(@config)
-      @female_article = Article.new(File.join(
+      @female_article = Article.new({ :path => File.join(
       FIXTURES_DIR, "byline_female_test_fixture.json"
-      ))
-      @male_article = Article.new(File.join(
+      )})
+      @male_article = Article.new({ :path => File.join(
         FIXTURES_DIR, "byline_male_test_fixture.json"
-      ))
-      @unknown_article = Article.new(File.join(
+      )})
+      @unknown_article = Article.new({ :path => File.join(
         FIXTURES_DIR, "byline_unknown_test_fixture.json"
-      ))
+      )})
     }
 
     it "should detect a female author" do
