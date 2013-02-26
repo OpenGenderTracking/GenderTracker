@@ -67,6 +67,8 @@ metrics = metrics.collect { |metric|
       article_path = message["path"]
       article_body = message["article"]
       
+      article = nil
+
       begin
         logger.debug "#{job_id}: processing #{article_path}"
         if (article_path)
@@ -83,22 +85,21 @@ metrics = metrics.collect { |metric|
           metric.process(article)
         end
 
-        article.save
-
       # Generic catch all for now. We probably need to do a better job error
       # handling this.
       rescue Exception => e
 
-        logger.error "Error: #{e.message}"
+        logger.error "Error: #{e.message} \n #{e.backtrace}"
 
       # always make sure we increment apporopriate counters, regardless of
       # whether our processing succeeded here.
       ensure
         @pub.incr job_id
         if (article_path)
+          article.save
           @pub.publish "process_article_done", { :path => article_path, :job_id => job_id }.to_json()
         elsif (article_body)
-          @pub.publish "process_article_done", { :article => article_body, :job_id => job_id }.to_json()
+          @pub.publish "process_article_done", { :article => article.to_json, :job_id => job_id }.to_json()
         end
       end
     end

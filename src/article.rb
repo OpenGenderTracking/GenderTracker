@@ -73,6 +73,10 @@ class Article
     @article["metrics"][name]
   end
 
+  def to_json
+    @article
+  end
+
   def save
     new_article = JSON.pretty_generate(@article)
     file = File.open(@path, 'w')

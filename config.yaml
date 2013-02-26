@@ -10,4 +10,4 @@ articles:
 
 logging:
   path: logs
-  level: debug
+  level: warn
