@@ -51,7 +51,15 @@ Or the entire article body like so:
 
 To get notification of an article being done subscribe to the `process_article_done` channel. It will return the same payload you sent (`path`|`article`, and `job_id`.)
 
+## Licensing
+
+The project is duel licensed under the GPLv3 license as well as the MIT license. Pick your favorite.
+
 ## Changelog
+
+### 2013/03/04
+
+Added licensing information. Duel licensed, GPLv3 and MIT.
 
 ### 2013/02/15
 
