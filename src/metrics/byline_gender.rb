@@ -22,7 +22,9 @@ module Metrics
 
       score = { :result => "", :counts => 0 }
 
-      if (article.byline.is_a? String)
+      if (!article.byline.nil? && 
+          article.byline.is_a?(String) && 
+          article.byline != "")
         if (!article.byline.downcase.index("by ").nil?)
           first_name = article.byline.split(" ")[1].downcase
         else
