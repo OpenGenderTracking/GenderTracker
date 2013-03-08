@@ -20,7 +20,7 @@ decomposer = Decomposer::Tokens.new
 
 # find all metrics available for processing, minus the default.
 # note we initialize them once and then use their processing method.
-metrics = Metrics.constants - ["Default"]
+metrics = Metrics.constants - ["Default", :Default]
 metrics = metrics.collect { |metric| 
   "Metrics::#{metric}".constantize.new(config)
 }
