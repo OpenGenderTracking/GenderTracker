@@ -38,12 +38,21 @@ module Metrics
 
       # try to retrieve from cache
       if (!first_name.nil?)
-        if (@computed_names[first_name]) 
 
+        # go against cache first.
+        if (@computed_names[first_name]) 
           score = @computed_names[first_name]
 
+        # check against aux dicts
+        elsif (@names[:male][:definite].index(first_name))
+          score[:result] = "Male"
+          score[:counts] = { :male => 1.0, :female => 0.0 }
+        elsif (@names[:female][:definite].index(first_name))
+          score[:result] = "Female"
+          score[:counts] = { :male => 0.0, :female => 1.0 }
+        
+        # compute %s.
         else
-
           male = @names[:male][:counts][first_name] || 0
           female = @names[:female][:counts][first_name] || 0
           total = male + female
@@ -73,16 +82,8 @@ module Metrics
           elsif (female > 0)
             score[:result] = "Female"
           else
-            if (@names[:male][:definite].index(first_name))
-              score[:result] = "Male"
-              score[:counts] = { :male => 1.0, :female => 0.0 }
-            elsif (@names[:female][:definite].index(first_name))
-              score[:result] = "Female"
-              score[:counts] = { :male => 0.0, :female => 1.0 }
-            else
-              score[:result] = "Unknown"
-              score[:counts] = { :male => 0.0, :female => 0.0 }
-            end
+            score[:result] = "Unknown"
+            score[:counts] = { :male => 0.0, :female => 0.0 }
           end
           # cache for future use
           @computed_names[first_name] = score
