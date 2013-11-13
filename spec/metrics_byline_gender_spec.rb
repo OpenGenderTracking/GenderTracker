@@ -7,7 +7,7 @@ require File.expand_path(File.join(File.dirname(__FILE__), "../src/metrics/bylin
 
 describe "Metrics::BylineGender" do
 
-  before {
+  before do
     @config = Confstruct::Configuration.new(
       YAML.load_file(
         File.expand_path(
@@ -15,7 +15,7 @@ describe "Metrics::BylineGender" do
         )
       )
     )
-  }
+  end
 
   context "initialisation" do
     it "should accept no parameters" do
@@ -27,7 +27,7 @@ describe "Metrics::BylineGender" do
 
   context "process" do
 
-    before {
+    before do
       @mn = Metrics::BylineGender.new(@config)
       @female_article = Article.new({ :path => File.join(
       FIXTURES_DIR, "byline_female_test_fixture.json"
@@ -38,7 +38,7 @@ describe "Metrics::BylineGender" do
       @unknown_article = Article.new({ :path => File.join(
         FIXTURES_DIR, "byline_unknown_test_fixture.json"
       )})
-    }
+    end
 
     it "should detect a female author" do
       scores = @mn.process(@female_article)
@@ -57,8 +57,8 @@ describe "Metrics::BylineGender" do
     it "should be unable to detect author" do
       scores = @mn.process(@unknown_article)
       scores[:result].should eq "Unknown"
-      scores[:counts][:male].should be_< 0.66
-      scores[:counts][:female].should be_< 0.66
+      scores[:counts][:male].should be < 0.66
+      scores[:counts][:female].should be < 0.66
     end
 
     it "should detect a female author from aux list" do
