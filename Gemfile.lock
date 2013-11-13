@@ -1,0 +1,96 @@
+GIT
+  remote: git://github.com/iros/jruby-opennlp.git
+  revision: 8ffcbf14582c2445eefa7b7b7c08e23b1ac85759
+  specs:
+    jruby-opennlp (0.0.1)
+
+GIT
+  remote: https://github.com/mwilliams/feedzirra
+  revision: 01ebd8edfbf72d9f47154e8411e3169e386c81e1
+  specs:
+    feedzirra (0.0.17)
+      activesupport (>= 2.0.0)
+      builder (>= 2.1.2)
+      mdalessio-dryopteris (>= 0.0.0)
+      nokogiri (> 0.0.0)
+      pauldix-sax-machine (>= 0.0.12)
+
+GEM
+  remote: http://rubygems.org/
+  remote: http://gems.github.com/
+  specs:
+    activesupport (4.0.1)
+      i18n (~> 0.6, >= 0.6.4)
+      minitest (~> 4.2)
+      multi_json (~> 1.3)
+      thread_safe (~> 0.1)
+      tzinfo (~> 0.3.37)
+    atomic (1.1.14)
+    atomic (1.1.14-java)
+    backburner (0.4.4)
+      beaneater (~> 0.3.1)
+      dante (~> 0.1.5)
+    beaneater (0.3.2)
+    beauvoir (0.0.2b)
+    builder (3.2.2)
+    confstruct (0.2.5)
+    dante (0.1.5)
+    diff-lcs (1.2.5)
+    eventmachine (1.0.3)
+    eventmachine (1.0.3-java)
+    i18n (0.6.5)
+    json (1.8.1)
+    json (1.8.1-java)
+    logger (1.2.8)
+    macaddr (1.6.1)
+      systemu (~> 2.5.0)
+    mdalessio-dryopteris (0.1.2)
+      nokogiri (> 0.0.0)
+    mini_portile (0.5.2)
+    minitest (4.7.5)
+    multi_json (1.8.2)
+    nokogiri (1.6.0)
+      mini_portile (~> 0.5.0)
+    nokogiri (1.6.0-java)
+      mini_portile (~> 0.5.0)
+    pauldix-sax-machine (0.0.14)
+      nokogiri (> 0.0.0)
+    redis (3.0.6)
+    rspec (2.14.1)
+      rspec-core (~> 2.14.0)
+      rspec-expectations (~> 2.14.0)
+      rspec-mocks (~> 2.14.0)
+    rspec-core (2.14.7)
+    rspec-expectations (2.14.4)
+      diff-lcs (>= 1.1.3, < 2.0)
+    rspec-mocks (2.14.4)
+    sanitize (2.0.6)
+      nokogiri (>= 1.4.4)
+    systemu (2.5.2)
+    thread_safe (0.1.3)
+      atomic
+    thread_safe (0.1.3-java)
+      atomic
+    tzinfo (0.3.38)
+    uuid (2.3.7)
+      macaddr (~> 1.0)
+
+PLATFORMS
+  java
+  ruby
+
+DEPENDENCIES
+  activesupport
+  backburner
+  beaneater
+  beauvoir
+  confstruct
+  eventmachine
+  feedzirra!
+  jruby-opennlp!
+  json
+  logger
+  redis
+  rspec
+  sanitize
+  uuid

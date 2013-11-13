@@ -1,16 +1,14 @@
 require 'csv'
+require 'beauvoir'
 
 module Metrics
   class BylineGender < Metrics::Default
     
     def initialize(config)
       super(config)
-      @names = {
-        :male => read_names("male"),
-        :female => read_names("female")
-      }
-      # cache names 
-      @computed_names = {}
+      @beauvoir = Beauvoir.new :threshold => 0.66, :lower_confidence_bound => 0.5 #all countries in the data set.
+      # this is a relatively low threshold, so that the Byline Gender metric can be mostly unattended
+      # and to mirror previous behavior before Beauvoir was developed
     end
 
     def get_name
@@ -37,105 +35,24 @@ module Metrics
       end
 
       # try to retrieve from cache
-      if (!first_name.nil?)
-
-        # go against cache first.
-        if (@computed_names[first_name]) 
-          score = @computed_names[first_name]
-
-        # check against aux dicts
-        elsif (@names[:male][:definite].index(first_name))
-          score[:result] = "Male"
-          score[:counts] = { :male => 1.0, :female => 0.0 }
-        elsif (@names[:female][:definite].index(first_name))
-          score[:result] = "Female"
-          score[:counts] = { :male => 0.0, :female => 1.0 }
-        
-        # compute %s.
-        else
-          male = @names[:male][:counts][first_name] || 0
-          female = @names[:female][:counts][first_name] || 0
-          total = male + female
-
-          prob_male = 0
-          prob_female = 0
-
-          if (total > 0)
-            
-            # compute probabilities      
-            prob_male = male / total.to_f if male
-            prob_female = female / total.to_f if female
-
-            score[:counts] = { :male => prob_male, :female => prob_female }
-          end
-
-          if (male > 0 && female > 0)  
-            if (prob_female > 0.66)
-              score[:result] = "Female"
-            elsif (prob_male > 0.66)
-              score[:result] = "Male"
-            else
-              score[:result] = "Unknown"
-            end
-          elsif (male > 0)
-            score[:result] = "Male"
-          elsif (female > 0)
-            score[:result] = "Female"
-          else
-            score[:result] = "Unknown"
-            score[:counts] = { :male => 0.0, :female => 0.0 }
-          end
-          # cache for future use
-          @computed_names[first_name] = score
-        end
+      if first_name
+        score[:result] = @beauvoir.guess(first_name).to_s.capitalize
+        score[:proportion] = score[:result] == "Male" ? @beauvoir.male_proportion(first_name) : @beauvoir.female_proportion(first_name)
+        score[:estimated_value] = score[:result] == "Female" ? @beauvoir.estimated_female_value(first_name) : @beauvoir.estimated_male_value(first_name)
+        score[:counts] = :deprecated
       else
         score[:result] = "Unknown"
-        score[:counts] = { :male => 0.0, :female => 0.0 }
+        score[:proportion] = 0.0
+        score[:estimated_value] = 0.0
+        score[:counts] = :deprecated
       end
 
       article.add_metric "byline_gender" do
         score
       end
 
-
       score
     end
 
-    private
-
-    def read_names(gender)
-      lang = @config.lang || "EN"
-      country = @config.country || "US"
-
-      count_file_name = gender + "_names_" + lang + "_" + country + ".csv"
-      definite_file_name = gender + "_auxilliary.csv"
-
-      count_data = {}
-      definite_data = []
-
-      CSV.open(
-        File.expand_path(
-          File.join(
-            File.dirname(__FILE__), 
-            "../../lib/metrics/names/#{count_file_name}"
-          )
-        ), 'r').to_a.each do |namePair|
-        count_data[namePair[0].downcase] = namePair[1].to_f
-      end
-
-      definite_data = CSV.open(
-        File.expand_path(
-          File.join(
-            File.dirname(__FILE__), 
-            "../../lib/metrics/names/#{definite_file_name}"
-          )
-        ),'r').to_a.flatten.compact.collect{|r| r.downcase } rescue []
-
-      return {
-        :counts => count_data,
-        :definite => definite_data
-      }
-
-    end
   end
 end
