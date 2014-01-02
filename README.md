@@ -20,15 +20,17 @@ You can add additional attributes, if you'd like, but these are core attributes 
 
 ## Requirements
 
-1. get jruby 1.6.3 by your favorite method of choice. I recommend rvm.
+1. get jruby 1.7.6 by your favorite method of choice. rvm and rbenv are both good choices.
 2. run `gem install bundler`
 3. run `bundle install`
-4. Intall redis
+4. Install redis
 
 ## Running the service
 
-1. start redis with the config file in `db/` folder
-2. run he server `bundle exec ruby server.rb`
+1. start redis 
+  - with the config file in `db/` folder
+  - or with redis's default
+2. run the server `bundle exec ruby server.rb`
 
 ## Requesting an article be published
 
@@ -53,13 +55,18 @@ To get notification of an article being done subscribe to the `process_article_d
 
 ## Licensing
 
-The project is duel licensed under the GPLv3 license as well as the MIT license. Pick your favorite.
+The project is dual licensed under the GPLv3 license as well as the MIT license. Pick your favorite.
 
 ## Changelog
 
+### 2013/11/12
+
+Switch to updated version of JRuby.
+Use the Beauvoir gem for byline gender coding.
+
 ### 2013/03/04
 
-Added licensing information. Duel licensed, GPLv3 and MIT.
+Added licensing information. Dual licensed, GPLv3 and MIT.
 
 ### 2013/02/15
 

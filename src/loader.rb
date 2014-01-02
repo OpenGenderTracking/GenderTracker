@@ -1,4 +1,4 @@
-require 'ruby-debug'
+#require 'ruby-debug'
 require 'eventmachine'
 require 'redis'
 require 'confstruct'
